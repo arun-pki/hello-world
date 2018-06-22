@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/Resources/Images/user interface new.png" />
+    <Link
+      Url="Content/MyImport/multiple bond.png" />
+    <Link
+      Url="Content/MyImport/11-BioDraw.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/Resources/Images/user interface new.png" />
+    <Link
+      Url="Content/MyImport/multiple bond.png" />
+    <Link
+      Url="Content/MyImport/11-BioDraw.htm#11-BioDraw_1302985861_1190174" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="1-Basics_10_2813300016_1222669" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1222451" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1216217" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1221616" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1233922" />
+    <Anchor
+      Name="1-Basics_10_2813300016_46964" />
+    <Anchor
+      Name="1-Basics_10_2813300016_toolbars" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1220434" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="work area"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="status bar"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Main toolbar"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="palette:showing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="hiding palettes"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="showing palettes"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="palette:tearing off"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="toolbars:tearing off"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="BioDraw"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="tools:BioDraw"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="50" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.ONLY for WebHELP (MAC) output" />
+    <Condition
+      Tag="MyImport.PC" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

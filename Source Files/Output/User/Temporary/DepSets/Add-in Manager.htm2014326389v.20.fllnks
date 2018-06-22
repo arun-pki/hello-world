@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/addin manager menu.png" />
+    <Link
+      Url="Content/Resources/Images/addin manager menu mac.png" />
+    <Link
+      Url="Content/Resources/Images/addin manager.png" />
+    <Link
+      Url="Content/Resources/Images/addin managerwin.png" />
+    <Link
+      Url="Content/Resources/Images/addinloc.png" />
+    <Link
+      Url="Content/Resources/Images/addinlocmac.png" />
+    <Link
+      Url="Content/Resources/Images/overwrite mac.png" />
+    <Link
+      Url="Content/Resources/Images/overwrite win.png" />
+    <Link
+      Url="Content/Resources/Images/install mac.png" />
+    <Link
+      Url="Content/Resources/Images/install win.png" />
+    <Link
+      Url="Content/Resources/Images/addimimported.png" />
+    <Link
+      Url="Content/Resources/Images/addin importedmac.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/addin manager menu.png" />
+    <Link
+      Url="Content/Resources/Images/addin manager menu mac.png" />
+    <Link
+      Url="Content/Resources/Images/addin manager.png" />
+    <Link
+      Url="Content/Resources/Images/addin managerwin.png" />
+    <Link
+      Url="Content/Resources/Images/addinloc.png" />
+    <Link
+      Url="Content/Resources/Images/addinlocmac.png" />
+    <Link
+      Url="Content/Resources/Images/overwrite mac.png" />
+    <Link
+      Url="Content/Resources/Images/overwrite win.png" />
+    <Link
+      Url="Content/Resources/Images/install mac.png" />
+    <Link
+      Url="Content/Resources/Images/install win.png" />
+    <Link
+      Url="Content/Resources/Images/addimimported.png" />
+    <Link
+      Url="Content/Resources/Images/addin importedmac.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

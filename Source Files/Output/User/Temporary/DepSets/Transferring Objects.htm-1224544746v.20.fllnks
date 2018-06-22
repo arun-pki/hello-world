@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="9-Sharing_Info_2779241888_1071759" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_1071799" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_40684" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_18503" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_51578" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_52836" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_49469" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_53991" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="transferring objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Clipboard"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="autoscale:when transferring"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="scaling:when transferring information"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="transferring information:keeping in scale"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="bonds:autoscaling"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="arrows:autoscaling"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="drawing elements:autoscaling"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="curves:autoscaling"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="color:autoscaling"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="colors, maximum number of"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="28" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

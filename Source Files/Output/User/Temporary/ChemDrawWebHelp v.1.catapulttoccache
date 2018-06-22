@@ -1,0 +1,1200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  DepSetCode="4195126290"
+  SavedSource="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/ChemDrawWebHelp v.1.catapulttoccache">
+  <TocEntry
+    Title="Recent Additions"
+    Link="/Content/MyImport/Recent Additions.htm"
+    ReplaceMergeNode="false" />
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/MyImport/0-Intro_10.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/SingleColumnPrint.flpgl"
+    PageType="first"
+    PageNumberReset="reset"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ComputeToc="false">
+    <TocEntry
+      Title="About This Guide"
+      Link="/Content/MyImport/About This Manual.htm">
+      <TocEntry
+        Title="Conventions used in this guide"
+        Link="/Content/MyImport/About This Manual.htm#0-Intro_10_485935233_1115600" />
+      <TocEntry
+        Title="Serial Number and Technical support"
+        Link="/Content/MyImport/About This Manual.htm#0-Intro_10_485935233_1073027">
+        <TocEntry
+          Title="Trouble shooting"
+          Link="/Content/MyImport/Trouble shooting.htm" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Getting Started"
+    Link="/Content/MyImport/1-Basics_10.htm">
+    <TocEntry
+      Title="About ChemDraw Tutorials"
+      Link="/Content/About ChemBioDraw Tutorials.htm" />
+    <TocEntry
+      Title="ChemDraw User Interface"
+      Link="/Content/MyImport/ChemBioDraw User Interfa.htm#1-Basics_10_2813300016_1222669" />
+    <TocEntry
+      Title="Toolbars"
+      Link="/Content/MyImport/ChemBioDraw User Interfa.htm#1-Basics_10_2813300016_1222451">
+      <TocEntry
+        Title="The Main Toolbar"
+        Link="/Content/MyImport/ChemBioDraw User Interfa.htm#1-Basics_10_2813300016_1216217" />
+      <TocEntry
+        Title="Tearing Off Toolbars"
+        Link="/Content/MyImport/ChemBioDraw User Interfa.htm#1-Basics_10_2813300016_1221616" />
+      <TocEntry
+        Title="Docking and Floating"
+        Link="/Content/MyImport/ChemBioDraw User Interfa.htm#1-Basics_10_2813300016_1233922" />
+      <TocEntry
+        Title="BioDraw Toolbar"
+        Link="/Content/MyImport/ChemBioDraw User Interfa.htm#1-Basics_10_2813300016_1220434" />
+    </TocEntry>
+    <TocEntry
+      Title="Documents"
+      Link="/Content/MyImport/Documents.htm#1-Basics_10_2813300016_1222377">
+      <TocEntry
+        Title="Creating Documents"
+        Link="/Content/MyImport/Documents.htm#1-Basics_10_2813300016_1222397" />
+      <TocEntry
+        Title="Opening Documents"
+        Link="/Content/MyImport/Documents.htm#1-Basics_10_2813300016_1248091" />
+      <TocEntry
+        Title="Selecting an open document"
+        Link="/Content/MyImport/Documents.htm#1-Basics_10_2813300016_1253680" />
+      <TocEntry
+        Title="Annotating Documents"
+        Link="/Content/MyImport/Documents.htm#1-Basics_10_2813300016_1250852" />
+      <TocEntry
+        Title="Document Properties"
+        Link="/Content/Document Properties.htm" />
+      <TocEntry
+        Title="Discarding Changes"
+        Link="/Content/MyImport/Documents.htm#1-Basics_10_2813300016_1222128" />
+      <TocEntry
+        Title="Previewing CDX and CDXML Files"
+        Link="/Content/New 15.1 topics/Previewing CDX and CDXML Files.htm" />
+      <TocEntry
+        Title="Autonumbering Molecule or Reaction Schemes"
+        Link="/Content/New 15.1 topics/Autonumbering Molecule or Reaction Schemes.htm" />
+      <TocEntry
+        Title="Autosave and Autorecovery"
+        Link="/Content/New 15.1 topics/Autosave and Autorecovery.htm" />
+      <TocEntry
+        Title="Autosave or Autorecover to a Named Destination"
+        Link="/Content/New 15.1 topics/Autosave or Autorecover to a Named Destination.htm" />
+      <TocEntry
+        Title="Autosave and Versioning"
+        Link="/Content/Autosave and Versioning.htm"
+        conditions="MyImport.ONLY for WebHELP (MAC) output" />
+      <TocEntry
+        Title="Saving Documents"
+        Link="/Content/MyImport/Documents.htm#1-Basics_10_2813300016_1222135">
+        <TocEntry
+          Title="Undo, Redo, and Repeat"
+          Link="/Content/MyImport/Documents.htm#1-Basics_10_2813300016_1222131" />
+      </TocEntry>
+      <TocEntry
+        Title="Dropbox"
+        Link="/Content/MyImport/Dropbox.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Page Layout"
+    Link="/Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1071574">
+    <TocEntry
+      Title="The Drawing Area"
+      Link="/Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1071598" />
+    <TocEntry
+      Title="Setting up Pages"
+      Link="/Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1071638">
+      <TocEntry
+        Title="Paged Document Setup"
+        Link="/Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1071644" />
+      <TocEntry
+        Title="Poster Documents Setup"
+        Link="/Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1104850" />
+      <TocEntry
+        Title="Headers and Footers"
+        Link="/Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1071718" />
+      <TocEntry
+        Title="Page Setup"
+        Link="/Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1133021" />
+    </TocEntry>
+    <TocEntry
+      Title="Printing"
+      Link="/Content/MyImport/Printing.htm#8-Presentation_208243784_1121401">
+      <TocEntry
+        Title="Print Options"
+        Link="/Content/MyImport/Printing.htm#8-Presentation_208243784_1106777" />
+      <TocEntry
+        Title="Scaling"
+        Link="/Content/MyImport/Printing.htm#8-Presentation_208243784_1071852" />
+    </TocEntry>
+    <TocEntry
+      Title="Saving Page Setup Settings"
+      Link="/Content/MyImport/Saving Page Setup Settin.htm#8-Presentation_208243784_1168579" />
+    <TocEntry
+      Title="35mm Slide Boundary Guides"
+      Link="/Content/MyImport/Saving Page Setup Settin.htm#8-Presentation_208243784_1071869" />
+    <TocEntry
+      Title="Viewing Drawings"
+      Link="/Content/MyImport/Saving Page Setup Settin.htm#8-Presentation_208243784_1071894">
+      <TocEntry
+        Title="Magnification"
+        Link="/Content/MyImport/Saving Page Setup Settin.htm#8-Presentation_208243784_1105178" />
+      <TocEntry
+        Title="Rulers"
+        Link="/Content/MyImport/Saving Page Setup Settin.htm#8-Presentation_208243784_1072044" />
+      <TocEntry
+        Title="The Crosshairs"
+        Link="/Content/MyImport/Saving Page Setup Settin.htm#8-Presentation_208243784_1162972" />
+    </TocEntry>
+    <TocEntry
+      Title="Tables"
+      Link="/Content/MyImport/Tables.htm#8-Presentation_208243784_1178260">
+      <TocEntry
+        Title="Creating a table"
+        Link="/Content/MyImport/Tables.htm#8-Presentation_208243784_1178262" />
+      <TocEntry
+        Title="Using the Text Tool"
+        Link="/Content/MyImport/Tables.htm#8-Presentation_208243784_1178292" />
+      <TocEntry
+        Title="Creating a New Row"
+        Link="/Content/MyImport/Tables.htm#8-Presentation_208243784_1178309" />
+      <TocEntry
+        Title="Adjusting Row or Column Spacing"
+        Link="/Content/MyImport/Tables.htm#8-Presentation_208243784_1178320" />
+      <TocEntry
+        Title="Moving Around In Tables"
+        Link="/Content/MyImport/Tables.htm#8-Presentation_208243784_1178325" />
+      <TocEntry
+        Title="Inserting a New Row"
+        Link="/Content/MyImport/Tables.htm#8-Presentation_208243784_1178351" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Preferences and Settings"
+    Link="/Content/MyImport/A-Customize.htm#A-Customize_2096640490_1577008">
+    <TocEntry
+      Title="Setting Preferences"
+      Link="/Content/MyImport/Setting Preferences.htm#A-Customize_2096640490_1462731">
+      <TocEntry
+        Title="Theme Options"
+        Link="/Content/MyImport/Setting Preferences.htm" />
+      <TocEntry
+        Title="I/Draw"
+        Link="/Content/MyImport/Setting Preferences.htm" />
+      <TocEntry
+        Title="Setting the Default Tool"
+        Link="/Content/MyImport/Setting Preferences.htm#A-Customize_2096640490_1462750" />
+      <TocEntry
+        Title="New Lines and Closing Text Boxes"
+        Link="/Content/MyImport/Setting Preferences.htm#A-Customize_2096640490_1560389" />
+      <TocEntry
+        Title="Highlight Box Tolerance"
+        Link="/Content/MyImport/Setting Preferences.htm#A-Customize_2096640490_1502890" />
+      <TocEntry
+        Title="The ChemDraw Items Folder"
+        Link="/Content/MyImport/Setting Preferences.htm#A-Customize_2096640490_1462813" />
+      <TocEntry
+        Title="Default Styles"
+        Link="/Content/MyImport/Setting Preferences.htm" />
+      <TocEntry
+        Title="Saving Customized Styles"
+        Link="/Content/MyImport/Setting Preferences.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Customizing Toolbars"
+      Link="/Content/MyImport/Customizing Toolbars.htm#A-Customize_2096640490_1462841">
+      <TocEntry
+        Title="The toolbar schema"
+        Link="/Content/MyImport/Customizing Toolbars.htm#A-Customize_2096640490_1570529" />
+      <TocEntry
+        Title="The toolbar XML files"
+        Link="/Content/MyImport/Customizing Toolbars.htm#A-Customize_2096640490_1570588" />
+      <TocEntry
+        Title="Editing the XML files"
+        Link="/Content/MyImport/Customizing Toolbars.htm#A-Customize_2096640490_1570273" />
+    </TocEntry>
+    <TocEntry
+      Title="Document and Object Settings"
+      Link="/Content/MyImport/Document and Object Sett.htm#A-Customize_2096640490_1462860">
+      <TocEntry
+        Title="Drawing Settings"
+        Link="/Content/MyImport/Document and Object Sett.htm#A-Customize_2096640490_1462918" />
+      <TocEntry
+        Title="Analysis and Properties"
+        Link="/Content/MyImport/Analysis and Properties.htm#A-Customize_2096640490_1463005" />
+      <TocEntry
+        Title="Formatting Captions"
+        Link="/Content/MyImport/Analysis and Properties.htm#A-Customize_2096640490_1463018">
+        <TocEntry
+          Title="Setting Font parameters"
+          Link="/Content/MyImport/Analysis and Properties.htm#A-Customize_2096640490_1463027" />
+        <TocEntry
+          Title="Setting the Baseline Style"
+          Link="/Content/MyImport/Analysis and Properties.htm#A-Customize_2096640490_1463038" />
+        <TocEntry
+          Title="Style Indicators"
+          Link="/Content/MyImport/Analysis and Properties.htm#A-Customize_2096640490_1463050" />
+        <TocEntry
+          Title="Specifying Line Spacing"
+          Link="/Content/MyImport/Analysis and Properties.htm#A-Customize_2096640490_1463053" />
+        <TocEntry
+          Title="Aligning Text"
+          Link="/Content/MyImport/Analysis and Properties.htm#A-Customize_2096640490_1463063" />
+        <TocEntry
+          Title="Changing the Default Format"
+          Link="/Content/MyImport/Analysis and Properties.htm#A-Customize_2096640490_1463112" />
+      </TocEntry>
+      <TocEntry
+        Title="Sequence Settings"
+        Link="/Content/MyImport/Sequence Settings.htm#A-Customize_2096640490_1570775" />
+      <TocEntry
+        Title="Settings From Other Documents"
+        Link="/Content/MyImport/settings other document.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Customizing Hotkeys"
+      Link="/Content/MyImport/Customizing Hotkeys.htm#A-Customize_2096640490_1463184" />
+    <TocEntry
+      Title="Working with Color"
+      Link="/Content/MyImport/Working with Color.htm#A-Customize_2096640490_1551135">
+      <TocEntry
+        Title="What you can color"
+        Link="/Content/MyImport/Working with Color.htm#A-Customize_2096640490_1551220" />
+      <TocEntry
+        Title="The Color palette"
+        Link="/Content/MyImport/Working with Color.htm#A-Customize_2096640490_1463236" />
+      <TocEntry
+        Title="Templates and Color"
+        Link="/Content/MyImport/Working with Color.htm#A-Customize_2096640490_1463293" />
+      <TocEntry
+        Title="Saving Color palette Settings"
+        Link="/Content/MyImport/Working with Color.htm#A-Customize_2096640490_1463300" />
+      <TocEntry
+        Title="Printing Background Color"
+        Link="/Content/MyImport/Working with Color.htm#A-Customize_2096640490_1463306" />
+    </TocEntry>
+    <TocEntry
+      Title="Document Settings"
+      Link="/Content/MyImport/Document Settings.htm#A-Customize_2096640490_1463334">
+      <TocEntry
+        Title="Publishing Documents"
+        Link="/Content/MyImport/Document Settings.htm#A-Customize_2096640490_1572276" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Shortcuts and Hotkeys"
+    Link="/Content/MyImport/ChemDraw_HotKeys.htm#Shortcuts">
+    <TocEntry
+      Title="Atom HotKeys"
+      Link="/Content/MyImport/ChemDraw_HotKeys.htm#ChemDraw_HotKeys_3667536632_1125272" />
+    <TocEntry
+      Title="Bond Hotkeys"
+      Link="/Content/MyImport/Function Hotkeys.htm" />
+    <TocEntry
+      Title="Generic Hotkeys"
+      Link="/Content/Generic Hotkeys.htm" />
+    <TocEntry
+      Title="Modified Hotkeys"
+      Link="/Content/Modified Hotkeys.htm" />
+    <TocEntry
+      Title="Drawing Reactions Using Hotkeys"
+      Link="/Content/Drawing Reactions Using Hotkeys.htm" />
+    <TocEntry
+      Title="Shortcuts"
+      Link="/Content/Shortcuts.htm" />
+    <TocEntry
+      Title="Nicknames"
+      Link="/Content/MyImport/Nicknames.htm#ChemDraw_HotKeys_3667536632_1126410" />
+  </TocEntry>
+  <TocEntry
+    Title="Basic Drawings"
+    Link="/Content/MyImport/3-Drawing_10.htm#3-Drawing_10_1269804279_1208922">
+    <TocEntry
+      Title="Bonds"
+      Link="/Content/MyImport/3-Drawing_10.htm#3-Drawing_10_1269804279_1261445">
+      <TocEntry
+        Title="Editing bonds"
+        Link="/Content/MyImport/3-Drawing_10.htm#3-Drawing_10_1269804279_1394140" />
+      <TocEntry
+        Title="Fixed Bonds"
+        Link="/Content/MyImport/3-Drawing_10.htm#3-Drawing_10_1269804279_1393754" />
+    </TocEntry>
+    <TocEntry
+      Title="Atoms"
+      Link="/Content/MyImport/Atoms.htm#3-Drawing_10_1269804279_1393791">
+      <TocEntry
+        Title="Periodic Table"
+        Link="/Content/MyImport/Atoms.htm#3-Drawing_10_1269804279_1394044" />
+    </TocEntry>
+    <TocEntry
+      Title="Captions"
+      Link="/Content/MyImport/Captions.htm#3-Drawing_10_1269804279_1256692">
+      <TocEntry
+        Title="Formatting"
+        Link="/Content/MyImport/Captions.htm#3-Drawing_10_1269804279_1260115" />
+      <TocEntry
+        Title="Character Map"
+        Link="/Content/MyImport/Captions.htm#3-Drawing_10_1269804279_1395254" />
+      <TocEntry
+        Title="Hotkeys and Nicknames"
+        Link="/Content/MyImport/Captions.htm#3-Drawing_10_1269804279_1160675" />
+      <TocEntry
+        Title="Expanding Nicknames"
+        Link="/Content/MyImport/Captions.htm#3-Drawing_10_1269804279_expanding_nicknames;nicknames,_expanding" />
+      <TocEntry
+        Title="Annotations"
+        Link="/Content/MyImport/Captions.htm#3-Drawing_10_1269804279_1262232" />
+      <TocEntry
+        Title="Setting Preferences"
+        Link="/Content/MyImport/Captions.htm#3-Drawing_10_1269804279_1260096" />
+    </TocEntry>
+    <TocEntry
+      Title="Rings"
+      Link="/Content/MyImport/Rings.htm#3-Drawing_10_1269804279_1160626">
+      <TocEntry
+        Title="Spiro and sprout rings"
+        Link="/Content/MyImport/Rings.htm#3-Drawing_10_1269804279_1256776" />
+      <TocEntry
+        Title="Aromatic Structures"
+        Link="/Content/MyImport/Rings.htm#3-Drawing_10_1269804279_1256838" />
+    </TocEntry>
+    <TocEntry
+      Title="Chains"
+      Link="/Content/MyImport/Chains.htm#3-Drawing_10_1269804279_1161967" />
+    <TocEntry
+      Title="Objects"
+      Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1393822">
+      <TocEntry
+        Title="Arrows"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1261735" />
+      <TocEntry
+        Title="Drawing Elements"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1381313" />
+      <TocEntry
+        Title="Brackets"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1393817" />
+      <TocEntry
+        Title="Framing Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1237221" />
+      <TocEntry
+        Title="Pen Tools"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1264138" />
+      <TocEntry
+        Title="Selecting Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1333443" />
+      <TocEntry
+        Title="Resizing Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1261673" />
+      <TocEntry
+        Title="Rotating Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1155280" />
+      <TocEntry
+        Title="Moving Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1278777" />
+      <TocEntry
+        Title="Copying Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1082469" />
+      <TocEntry
+        Title="Mirror Images"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1393880" />
+      <TocEntry
+        Title="Deleting Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1357729" />
+      <TocEntry
+        Title="Joining Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1238195" />
+      <TocEntry
+        Title="Grouping Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1238224" />
+      <TocEntry
+        Title="Scaling Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1238265" />
+      <TocEntry
+        Title="Centering Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1257547" />
+      <TocEntry
+        Title="Aligning Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1238497" />
+      <TocEntry
+        Title="Distributing Objects"
+        Link="/Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1238510" />
+    </TocEntry>
+    <TocEntry
+      Title="Clean Up Structure"
+      Link="/Content/MyImport/Clean Up Structure.htm#3-Drawing_10_1269804279_1393909" />
+    <TocEntry
+      Title="Check Structure"
+      Link="/Content/MyImport/Check Structure.htm#3-Drawing_10_1269804279_1390702">
+      <TocEntry
+        Title="Checking copied structures"
+        Link="/Content/MyImport/Check Structure.htm#3-Drawing_10_1269804279_1335630" />
+    </TocEntry>
+    <TocEntry
+      Title="Chemical Warnings"
+      Link="/Content/MyImport/Check Structure.htm#3-Drawing_10_1269804279_1335639">
+      <TocEntry
+        Title="Disabling chemical warnings"
+        Link="/Content/MyImport/Check Structure.htm#3-Drawing_10_1269804279_1387732" />
+      <TocEntry
+        Title="Warning Preferences"
+        Link="/Content/MyImport/Check Structure.htm#3-Drawing_10_1269804279_1335656" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="BioDraw"
+    Link="/Content/MyImport/11-BioDraw.htm#11-BioDraw_1302985861_1190174"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    StartChapter="false">
+    <TocEntry
+      Title="BioDraw Templates"
+      Link="/Content/MyImport/11-BioDraw.htm#11-BioDraw_1302985861_1146421" />
+    <TocEntry
+      Title="Customizable Objects"
+      Link="/Content/MyImport/11-BioDraw.htm#11-BioDraw_1302985861_1146427" />
+  </TocEntry>
+  <TocEntry
+    Title="Drawing biopolymers"
+    Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_1001506"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    StartChapter="false">
+    <TocEntry
+      Title="Biopolymer Editor"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998650" />
+    <TocEntry
+      Title="Protecting Groups"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998659" />
+    <TocEntry
+      Title="Pasting Sequences"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998677" />
+    <TocEntry
+      Title="Expanding sequences"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998695" />
+    <TocEntry
+      Title="Collapsing labels"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998700" />
+    <TocEntry
+      Title="Modifying sequence residues"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998706" />
+    <TocEntry
+      Title="Creating a biopolymer nickname"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998727"
+      conditions="MyImport.Comment" />
+    <TocEntry
+      Title="Using sequence nicknames"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998741"
+      conditions="MyImport.Comment" />
+    <TocEntry
+      Title="Defining attachment order"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998756"
+      conditions="MyImport.Comment" />
+    <TocEntry
+      Title="Merging sidechains with residue"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998803" />
+    <TocEntry
+      Title="Hybrid biopolymers"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998827" />
+    <TocEntry
+      Title="Bonding from collapsed sequences"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998834" />
+    <TocEntry
+      Title="IUPAC codes"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998848" />
+    <TocEntry
+      Title="Peptides"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_999177"
+      conditions="MyImport.Comment" />
+    <TocEntry
+      Title="Disulfide Bridges"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_999205" />
+    <TocEntry
+      Title="Lactam Bridges"
+      Link="/Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_1002795" />
+  </TocEntry>
+  <TocEntry
+    Title="Drawing Monomer Sequences"
+    Link="/Content/Drawing Monomer Sequences.htm"
+    VolumeNumberReset="same"
+    VolumeNumber=""
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    ChapterNumber=""
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Drawing Amino Acid Sequences"
+      Link="/Content/Drawing Amino Acid Sequences.htm">
+      <TocEntry
+        Title="Creating Connections between Sequences"
+        Link="/Content/Attaching Nucleotides to Amino Acid sequences.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Drawing RNA Sequences"
+      Link="/Content/Drawing RNA Sequences.htm" />
+    <TocEntry
+      Title="Replacing Monomers"
+      Link="/Content/Replacing Monomers.htm" />
+    <TocEntry
+      Title="Copying Sequence(s) as HELM String"
+      Link="/Content/Copying Sequence(s) as HELM String.htm" />
+    <TocEntry
+      Title="Pasting HELM strings"
+      Link="/Content/Pasting HELM strings.htm" />
+    <TocEntry
+      Title="Copying a Sequence as HELM (Natural Analog)"
+      Link="/Content/Copying Sequence(s) as HELM(Natural Analog).htm" />
+    <TocEntry
+      Title="Monomer Editors"
+      Link="/Content/Monomer Editors.htm">
+      <TocEntry
+        Title="Accessing the Monomer Viewer"
+        Link="/Content/Accessing the Standard Monomer Editor.htm" />
+      <TocEntry
+        Title="Accessing the Monomer Editor"
+        Link="/Content/Accessing the Custom Monomer Editor.htm" />
+      <TocEntry
+        Title="Accessing the Document Monomer Editor"
+        Link="/Content/Accessing the Imported Monomer Editor.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/ChemDraw Shared Monomers.htm">
+      <TocEntry
+        Title="Helm Monomer Library Synchronization"
+        Link="/Content/Helm Monomer Library Synchronization.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Advanced Drawing Techniques"
+    Link="/Content/MyImport/4-Adv_Draw.htm#4-Adv_Draw_2238496342_1216633">
+    <TocEntry
+      Title="Coloring objects"
+      Link="/Content/MyImport/4-Adv_Draw.htm#4-Adv_Draw_2238496342_1284458">
+      <TocEntry
+        Title="Coloring groups"
+        Link="/Content/MyImport/4-Adv_Draw.htm#4-Adv_Draw_2238496342_1284563" />
+    </TocEntry>
+    <TocEntry
+      Title="Labels"
+      Link="/Content/MyImport/Labels.htm#4-Adv_Draw_2238496342_1284595">
+      <TocEntry
+        Title="Creating labels"
+        Link="/Content/MyImport/Labels.htm#4-Adv_Draw_2238496342_1140033" />
+      <TocEntry
+        Title="Expanding labels"
+        Link="/Content/MyImport/Labels.htm#4-Adv_Draw_2238496342_1348852" />
+      <TocEntry
+        Title="Multiple atoms"
+        Link="/Content/MyImport/Labels.htm#4-Adv_Draw_2238496342_1345885" />
+    </TocEntry>
+    <TocEntry
+      Title="Attachment Points"
+      Link="/Content/MyImport/Attachment Points.htm#4-Adv_Draw_2238496342_1083540">
+      <TocEntry
+        Title="Multi-Center attachments"
+        Link="/Content/MyImport/Attachment Points.htm#4-Adv_Draw_2238496342_1285876" />
+      <TocEntry
+        Title="Variable Attachment Points"
+        Link="/Content/MyImport/Attachment Points.htm#4-Adv_Draw_2238496342_1339897" />
+    </TocEntry>
+    <TocEntry
+      Title="Atom Numbering"
+      Link="/Content/MyImport/Atom Numbering.htm#4-Adv_Draw_2238496342_1085617">
+      <TocEntry
+        Title="Displaying Atom Numbers"
+        Link="/Content/MyImport/Atom Numbering.htm#4-Adv_Draw_2238496342_1085630" />
+      <TocEntry
+        Title="Formatting Atom Numbers"
+        Link="/Content/MyImport/Atom Numbering.htm#4-Adv_Draw_2238496342_1085653" />
+      <TocEntry
+        Title="Positioning Atom Numbers"
+        Link="/Content/MyImport/Atom Numbering.htm#4-Adv_Draw_2238496342_1085662" />
+    </TocEntry>
+    <TocEntry
+      Title="Structure Perspective"
+      Link="/Content/MyImport/Structure Perspective.htm#4-Adv_Draw_2238496342_1286072" />
+    <TocEntry
+      Title="Mass Fragmentation"
+      Link="/Content/MyImport/Mass Fragmentation.htm">
+      <TocEntry
+        Title="Mass Spec Analysis"
+        Link="/Content/MyImport/Mass Spec Analysis.htm"
+        conditions="MyImport.Comment"
+        StartSection="false"
+        StartChapter="false" />
+      <TocEntry
+        Title="Synthesis and Retrosynthesis"
+        Link="/Content/MyImport/Synthesis and Retrosynthesis.htm" />
+      <TocEntry
+        Title="Enhanced Retrosynthesis Tool"
+        Link="/Content/Enhanced Retrosynthesis tool.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Drawing Reactions"
+      Link="/Content/MyImport/Drawing Reactions.htm#4-Adv_Draw_2238496342_1308433">
+      <TocEntry
+        Title="The Reaction Interpreter"
+        Link="/Content/MyImport/Drawing Reactions.htm#4-Adv_Draw_2238496342_1308544" />
+      <TocEntry
+        Title="Electron Pushing"
+        Link="/Content/MyImport/Drawing Reactions.htm#4-Adv_Draw_2238496342_1344370" />
+    </TocEntry>
+    <TocEntry
+      Title="Stoichiometry Grid"
+      Link="/Content/MyImport/Stoichiometry Grid.htm#4-Adv_Draw_2238496342_1344636" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/MyImport/Templates.htm#4-Adv_Draw_2238496342_1308706">
+      <TocEntry
+        Title="New Drawings"
+        Link="/Content/MyImport/Templates.htm#4-Adv_Draw_2238496342_1311250" />
+      <TocEntry
+        Title="Existing Drawings"
+        Link="/Content/MyImport/Templates.htm#4-Adv_Draw_2238496342_1308719" />
+      <TocEntry
+        Title="Customizing Templates"
+        Link="/Content/MyImport/Templates.htm#4-Adv_Draw_2238496342_1308722" />
+    </TocEntry>
+    <TocEntry
+      Title="Defining Nicknames"
+      Link="/Content/MyImport/Defining Nicknames.htm#4-Adv_Draw_2238496342_1308763">
+      <TocEntry
+        Title="Nicknames and atom labels"
+        Link="/Content/MyImport/Defining Nicknames.htm#4-Adv_Draw_2238496342_1308798" />
+      <TocEntry
+        Title="Deleting Nicknames"
+        Link="/Content/MyImport/Defining Nicknames.htm#4-Adv_Draw_2238496342_1308835" />
+      <TocEntry
+        Title="Troubleshooting Nicknames"
+        Link="/Content/MyImport/Defining Nicknames.htm#4-Adv_Draw_2238496342_1308841" />
+    </TocEntry>
+    <TocEntry
+      Title="ChemScript"
+      Link="/Content/MyImport/ChemScript.htm#4-Adv_Draw_2238496342_1339534">
+      <TocEntry
+        Title="ChemScript Integration"
+        Link="/Content/MyImport/ChemScript.htm#4-Adv_Draw_2238496342_1344937" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Struct=Name"
+    Link="/Content/MyImport/6b-StructName.htm#6b-StructName_545059099_1137019">
+    <TocEntry
+      Title="Struct&gt;Name"
+      Link="/Content/MyImport/6b-StructName.htm#6b-StructName_545059099_1109502">
+      <TocEntry
+        Title="Unsupported structures"
+        Link="/Content/MyImport/6b-StructName.htm#6b-StructName_545059099_1107046" />
+      <TocEntry
+        Title="Supported Structures"
+        Link="/Content/MyImport/6b-StructName.htm#6b-StructName_545059099_1107053" />
+      <TocEntry
+        Title="Auto Update"
+        Link="/Content/MyImport/6b-StructName.htm#6b-StructName_545059099_1083734" />
+    </TocEntry>
+    <TocEntry
+      Title="Name&gt;Struct"
+      Link="/Content/MyImport/Name_Struct.htm#6b-StructName_545059099_1098708">
+      <TocEntry
+        Title="Converting Names to Structures"
+        Link="/Content/MyImport/Name_Struct.htm#6b-StructName_545059099_1109001" />
+    </TocEntry>
+    <TocEntry
+      Title="Adding Structures to the Dictionary"
+      Link="/Content/New 15.1 topics/Adding Structures to the Dictionary.htm" />
+    <TocEntry
+      Title="Dictionary of FDA Approved Drugs"
+      Link="/Content/New 15.1 topics/Dictionary of FDA Approved Drugs.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Chemistry Features"
+    Link="/Content/MyImport/6a-Chem.htm#6a-Chem_969106972_1134522">
+    <TocEntry
+      Title="Structure Analysis"
+      Link="/Content/MyImport/6a-Chem.htm#6a-Chem_969106972_1099267" />
+    <TocEntry
+      Title="ChemFinder HotLink"
+      Link="/Content/MyImport/ChemBioFinder HotLink.htm#6a-Chem_969106972_1142130"
+      conditions="MyImport.Comment" />
+    <TocEntry
+      Title="Stereochemistry"
+      Link="/Content/MyImport/Stereochemistry.htm">
+      <TocEntry
+        Title="Stereochemistry Indicators"
+        Link="/Content/MyImport/Stereochemistry indicators.htm" />
+      <TocEntry
+        Title="Relative Stereochemistry"
+        Link="/Content/MyImport/Relative Stereochemistry.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Chemical Annotations"
+      Link="/Content/MyImport/Chemical Annotations.htm#6a-Chem_969106972_1135203">
+      <TocEntry
+        Title="Orbitals"
+        Link="/Content/MyImport/Chemical Annotations.htm#6a-Chem_969106972_1135215" />
+      <TocEntry
+        Title="Chemical Symbols"
+        Link="/Content/MyImport/Chemical Annotations.htm#6a-Chem_969106972_1220626" />
+    </TocEntry>
+    <TocEntry
+      Title="Chemical Properties"
+      Link="/Content/MyImport/Chemical Properties.htm">
+      <TocEntry
+        Title="Property predictions in ChemDraw"
+        Link="/Content/MyImport/Property predictions in ChemDraw.htm" />
+      <TocEntry
+        Title="Property predictions in ChemDrawExcel"
+        Link="/Content/MyImport/Property predictions in ChemDrawExcel.htm" />
+      <TocEntry
+        Title="Property predictions in Chem3D"
+        Link="/Content/MyImport/Property predictions in ChemBio3D.htm" />
+      <TocEntry
+        Title="Property Prediction in ChemFinder"
+        Link="/Content/Property Prediction in ChemBioFinder.htm" />
+      <TocEntry
+        Title="Viewing Chemical Properties"
+        Link="/Content/MyImport/Viewing Chemical Properties.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="3D Viewing"
+      Link="/Content/MyImport/3D Viewing.htm#6a-Chem_969106972_1216165">
+      <TocEntry
+        Title="3D Model"
+        Link="/Content/MyImport/3D Viewing.htm#6a-Chem_969106972_1216170" />
+      <TocEntry
+        Title="Chem3D Preview options"
+        Link="/Content/MyImport/3D Viewing.htm#6a-Chem_969106972_1216180" />
+    </TocEntry>
+    <TocEntry
+      Title="TLC"
+      Link="/Content/MyImport/TLC.htm#6a-Chem_969106972_1179398">
+      <TocEntry
+        Title="Rf Display"
+        Link="/Content/MyImport/TLC.htm#6a-Chem_969106972_1135002" />
+      <TocEntry
+        Title="Resizing Spots"
+        Link="/Content/MyImport/TLC.htm#6a-Chem_969106972_1135012" />
+      <TocEntry
+        Title="Custom Spots"
+        Link="/Content/MyImport/TLC.htm#6a-Chem_969106972_1138474" />
+      <TocEntry
+        Title="Gel Electrophoresis Tool"
+        Link="/Content/MyImport/GEP tool.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="ChemNMR"
+      Link="/Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1212985">
+      <TocEntry
+        Title="NMR Shifts"
+        Link="/Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1183683" />
+      <TocEntry
+        Title="Modifying NMR Frequency"
+        Link="/Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1183692" />
+      <TocEntry
+        Title="Assigning Structures to Spectra"
+        Link="/Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1209750" />
+      <TocEntry
+        Title="Viewing Spectral Assignments"
+        Link="/Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1183706" />
+      <TocEntry
+        Title="Removing Spectral Assignments"
+        Link="/Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1183715" />
+      <TocEntry
+        Title="Custom Shift Correction Data"
+        Link="/Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1212032" />
+      <TocEntry
+        Title="ChemNMR Limitations"
+        Link="/Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1209699" />
+      <TocEntry
+        Title="NMR References"
+        Link="/Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1209704" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="ChemScript"
+    Link="/Content/ChemScript chapter/htm topics/ChemScript1.htm"
+    conditions="MyImport.For_PDF">
+    <TocEntry
+      Title="Why use ChemScript?"
+      Link="/Content/ChemScript chapter/htm topics/Why_use_ChemScript_.htm" />
+    <TocEntry
+      Title="How ChemScript works"
+      Link="/Content/ChemScript chapter/htm topics/How_ChemScript_works.htm" />
+    <TocEntry
+      Title="Getting Started"
+      Link="/Content/ChemScript chapter/htm topics/Getting_Started.htm">
+      <TocEntry
+        Title="Getting Started Guide"
+        Link="/Content/ChemScript chapter/htm topics/Getting_Started_Guide.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Editing Scripts"
+      Link="/Content/ChemScript chapter/htm topics/Editing_Scripts.htm" />
+    <TocEntry
+      Title="Introducing the ChemScript API"
+      Link="/Content/ChemScript chapter/htm topics/Introducing_the_ChemScri.htm" />
+    <TocEntry
+      Title="Tutorials"
+      Link="/Content/ChemScript chapter/htm topics/Tutorials.htm" />
+    <TocEntry
+      Title="Useful References"
+      Link="/Content/ChemScript chapter/htm topics/Useful_References.htm">
+      <TocEntry
+        Title="Books"
+        Link="/Content/ChemScript chapter/htm topics/Books.htm" />
+      <TocEntry
+        Title="Web Sites"
+        Link="/Content/ChemScript chapter/htm topics/Web_Sites.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Query Structures"
+    Link="/Content/MyImport/5-Query.htm#5-Query_617691554_1075558">
+    <TocEntry
+      Title="Search limitations"
+      Link="/Content/MyImport/5-Query.htm#5-Query_617691554_1285759" />
+    <TocEntry
+      Title="Generic Labels"
+      Link="/Content/MyImport/Generic Labels.htm#5-Query_617691554_1285951">
+      <TocEntry
+        Title="Generic Nickname Hotkeys"
+        Link="/Content/MyImport/Generic Labels.htm#5-Query_617691554_1286331" />
+      <TocEntry
+        Title="Defining Generic Nicknames"
+        Link="/Content/MyImport/Generic Labels.htm#5-Query_617691554_1285969" />
+      <TocEntry
+        Title="Reaxys"
+        Link="/Content/MyImport/Reaxys.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Atom Properties"
+      Link="/Content/MyImport/Atom Properties.htm#5-Query_617691554_1286196">
+      <TocEntry
+        Title="Assigning atom properties"
+        Link="/Content/MyImport/Atom Properties.htm#5-Query_617691554_1286868" />
+      <TocEntry
+        Title="Query Indicators"
+        Link="/Content/MyImport/Atom Properties.htm#5-Query_617691554_1286685" />
+      <TocEntry
+        Title="Removing Atom Properties"
+        Link="/Content/MyImport/Atom Properties.htm#5-Query_617691554_1287718" />
+      <TocEntry
+        Title="Atom Property Options"
+        Link="/Content/MyImport/Atom Properties.htm#5-Query_617691554_1287757" />
+    </TocEntry>
+    <TocEntry
+      Title="Bond Properties"
+      Link="/Content/MyImport/Bond Properties.htm#5-Query_617691554_1077575">
+      <TocEntry
+        Title="Assigning Bond Properties"
+        Link="/Content/MyImport/Bond Properties.htm#5-Query_617691554_1277066" />
+      <TocEntry
+        Title="Viewing Bond Properties"
+        Link="/Content/MyImport/Bond Properties.htm#5-Query_617691554_1210593" />
+      <TocEntry
+        Title="Removing Bond Properties"
+        Link="/Content/MyImport/Bond Properties.htm#5-Query_617691554_1077683" />
+      <TocEntry
+        Title="Bond Property Options"
+        Link="/Content/MyImport/Bond Properties.htm#5-Query_617691554_1287764" />
+    </TocEntry>
+    <TocEntry
+      Title="Element Lists"
+      Link="/Content/MyImport/Element Lists.htm#5-Query_617691554_1287335">
+      <TocEntry
+        Title="Element Not-Lists"
+        Link="/Content/MyImport/Element Lists.htm#5-Query_617691554_1078312" />
+    </TocEntry>
+    <TocEntry
+      Title="Polymers"
+      Link="/Content/MyImport/Polymers.htm#5-Query_617691554_1242637">
+      <TocEntry
+        Title="Setting Bracket Properties"
+        Link="/Content/MyImport/Polymers.htm#5-Query_617691554_1290197" />
+      <TocEntry
+        Title="Bracket Usage"
+        Link="/Content/MyImport/Polymers.htm#5-Query_617691554_1078396" />
+      <TocEntry
+        Title="Repeat Pattern"
+        Link="/Content/MyImport/Polymers.htm#5-Query_617691554_1078450" />
+    </TocEntry>
+    <TocEntry
+      Title="Link Nodes"
+      Link="/Content/MyImport/Link Nodes.htm#5-Query_617691554_1174498">
+      <TocEntry
+        Title="Flip Type"
+        Link="/Content/MyImport/Link Nodes.htm#5-Query_617691554_1215808" />
+    </TocEntry>
+    <TocEntry
+      Title="Alternative Groups"
+      Link="/Content/MyImport/Alternative Groups.htm#5-Query_617691554_1078473">
+      <TocEntry
+        Title="Multiple Attachment Points"
+        Link="/Content/MyImport/Alternative Groups.htm#5-Query_617691554_1224491" />
+      <TocEntry
+        Title="Attachment Point Numbering"
+        Link="/Content/MyImport/Alternative Groups.htm#5-Query_617691554_1078660" />
+      <TocEntry
+        Title="Hiding Rank Indicators"
+        Link="/Content/MyImport/Alternative Groups.htm#5-Query_617691554_1298908" />
+      <TocEntry
+        Title="R-group reaction queries"
+        Link="/Content/MyImport/R-group reaction queries.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Anonymous Alternative Groups"
+      Link="/Content/MyImport/Anonymous Alternative Gr.htm#5-Query_617691554_1078687" />
+    <TocEntry
+      Title="Expand Generic Structures"
+      Link="/Content/MyImport/Expand Generic Structure.htm#5-Query_617691554_1292528">
+      <TocEntry
+        Title="R-Logic Queries"
+        Link="/Content/MyImport/Expand Generic Structure.htm#5-Query_617691554_1236812" />
+    </TocEntry>
+    <TocEntry
+      Title="Atom-to-Atom Mapping"
+      Link="/Content/MyImport/Atom-to-Atom Mapping.htm#5-Query_617691554_1174340" />
+    <TocEntry
+      Title="Stereochemical Symbols"
+      Link="/Content/MyImport/Stereochemical Symbols.htm#5-Query_617691554_1287410" />
+    <TocEntry
+      Title="3D Properties"
+      Link="/Content/MyImport/Stereochemical Symbols.htm#5-Query_617691554_1287202" />
+    <TocEntry
+      Title="Export Compatibility"
+      Link="/Content/MyImport/Export Compatibility.htm#5-Query_617691554_1078863" />
+  </TocEntry>
+  <TocEntry
+    Title="Sharing Information"
+    Link="/Content/MyImport/9-Sharing_Info.htm#9-Sharing_Info_2779241888_1202502">
+    <TocEntry
+      Title="The Clipboard"
+      Link="/Content/MyImport/9-Sharing_Info.htm#9-Sharing_Info_2779241888_1071611">
+      <TocEntry
+        Title="Text Line Notation"
+        Link="/Content/MyImport/9-Sharing_Info.htm#9-Sharing_Info_2779241888_1203848" />
+    </TocEntry>
+    <TocEntry
+      Title="Transferring Objects"
+      Link="/Content/MyImport/Transferring Objects.htm#9-Sharing_Info_2779241888_1071759" />
+    <TocEntry
+      Title="Embedding Objects "
+      Link="/Content/MyImport/Embedding Objects (Windo.htm#9-Sharing_Info_2779241888_1241265" />
+    <TocEntry
+      Title="Exporting"
+      Link="/Content/MyImport/Exporting.htm#9-Sharing_Info_2779241888_1126082" />
+    <TocEntry
+      Title="Importing"
+      Link="/Content/MyImport/Importing.htm#9-Sharing_Info_2779241888_1123660">
+      <TocEntry
+        Title="ISIS™ compatibility"
+        Link="/Content/MyImport/Importing.htm#9-Sharing_Info_2779241888_1123733" />
+      <TocEntry
+        Title="Graphics export border preference"
+        Link="/Content/MyImport/Importing.htm#9-Sharing_Info_2779241888_1151369" />
+      <TocEntry
+        Title="File Formats"
+        Link="/Content/MyImport/Importing.htm#9-Sharing_Info_2779241888_1072038" />
+    </TocEntry>
+    <TocEntry
+      Title="Transferring Across Platforms"
+      Link="/Content/MyImport/Transferring Across Plat.htm#9-Sharing_Info_2779241888_1209981" />
+    <TocEntry
+      Title="ChemDraw Cloud"
+      Link="/Content/ChemCloud topics/Understanding ChemDrawCloud.htm">
+      <TocEntry
+        Title="Activating ChemDraw Cloud"
+        Link="/Content/ChemCloud topics/Activating ChemDraw Cloud.htm" />
+      <TocEntry
+        Title="Logging in to ChemDrawCloud"
+        Link="/Content/ChemCloud topics/Logging in to ChemDrawCloud.htm" />
+      <TocEntry
+        Title="Uploading to ChemDraw Cloud"
+        Link="/Content/ChemCloud topics/Uploading to ChemDraw Cloud.htm" />
+      <TocEntry
+        Title="Browsing Documents in ChemDraw Cloud"
+        Link="/Content/ChemCloud topics/Browsing documents.htm" />
+      <TocEntry
+        Title="What is PerkinElmer Signals Notebook Individual Edition?"
+        Link="/Content/ChemCloud topics/What is PerkinElmer Signals Notebook Individual Edition.htm">
+        <TocEntry
+          Title="Accessing PerkinElmer Signals Notebook Individual Edition"
+          Link="/Content/ChemCloud topics/Accessing PerkinElmer Signals Notebook Individual Edition.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Working with ChemDraw Files in the Elements Cloud"
+      Link="/Content/New 15.1 topics/Working with ChemDraw Files in the Elements cloud.htm"
+      conditions="MyConditions.Comment" />
+    <TocEntry
+      Title="Browsing Versions"
+      Link="/Content/Browsing Versions.htm"
+      conditions="MyImport.ONLY for WebHELP (MAC) output" />
+  </TocEntry>
+  <TocEntry
+    Title="Chemical Interpretation"
+    Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1113284">
+    <TocEntry
+      Title="Database Conventions"
+      Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1110085">
+      <TocEntry
+        Title="Bond Conventions"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1107996" />
+      <TocEntry
+        Title="Atom Labels"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1112954" />
+      <TocEntry
+        Title="Chemically Significant Text"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1072014" />
+      <TocEntry
+        Title="Charges"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1072043" />
+      <TocEntry
+        Title="Isotopes and Elements"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1072120" />
+      <TocEntry
+        Title="Radicals"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1072154" />
+      <TocEntry
+        Title="H-Dot/H-Dash"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1072171" />
+      <TocEntry
+        Title="Complexes"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1094137" />
+      <TocEntry
+        Title="Multi-center Attachments"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1094186" />
+      <TocEntry
+        Title="Cahn-Ingold-Prelog"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1073176" />
+      <TocEntry
+        Title="Stereochemical Flags"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1101152" />
+      <TocEntry
+        Title="Polymer Representations"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1102824" />
+      <TocEntry
+        Title="Analysis Messages"
+        Link="/Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1072367" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Property Calculations"
+    Link="/Content/MyImport/A-Prop.htm#A-Prop_1250800079_1093643">
+    <TocEntry
+      Title="LogP"
+      Link="/Content/MyImport/A-Prop.htm#A-Prop_1250800079_1082799" />
+    <TocEntry
+      Title="Henry’s Law"
+      Link="/Content/MyImport/A-Prop.htm#A-Prop_1250800079_1071787" />
+    <TocEntry
+      Title="Molar Refractivity"
+      Link="/Content/MyImport/A-Prop.htm#A-Prop_1250800079_1096996" />
+    <TocEntry
+      Title="pKa, CLogP and CMR"
+      Link="/Content/MyImport/A-Prop.htm#A-Prop_1250800079_1081482" />
+    <TocEntry
+      Title="Topological Polar Surface Area"
+      Link="/Content/MyImport/A-Prop.htm#A-Prop_1250800079_1085888" />
+    <TocEntry
+      Title="Other Properties"
+      Link="/Content/MyImport/A-Prop.htm#A-Prop_1250800079_1090449" />
+  </TocEntry>
+  <TocEntry
+    Title="ChemDraw Add-Ins"
+    Link="/Content/ChemDraw Add-ins.htm">
+    <TocEntry
+      Title="Add-In Manager"
+      Link="/Content/Add-in Manager.htm" />
+    <TocEntry
+      Title="ChemACX.com Structure from CAS Registry Number Add-In"
+      Link="/Content/ChemACX.com Structure from CAS RN.htm" />
+    <TocEntry
+      Title="Creating a ChemDraw Add-In"
+      Link="/Content/Creating a ChemDraw Addin.htm" />
+    <TocEntry
+      Title="ChemDraw Add-In Tutorials"
+      Link="/Content/ChemDraw Addin Tutorials.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="ChemDraw Web Resources"
+    Link="/Content/MyImport/A-Access.htm#A-Access_1253614424_1074397">
+    <TocEntry
+      Title="Registering Online"
+      Link="/Content/MyImport/A-Access.htm#A-Access_1253614424_1074496" />
+    <TocEntry
+      Title="User’s Guide"
+      Link="/Content/MyImport/A-Access.htm#A-Access_1253614424_1046630" />
+    <TocEntry
+      Title="Technical Support"
+      Link="/Content/MyImport/A-Access.htm#A-Access_1253614424_1072640" />
+    <TocEntry
+      Title="Suppliers on ACX.com"
+      Link="/Content/MyImport/A-Access.htm#A-Access_1253614424_1023297" />
+    <TocEntry
+      Title="ACX Structures and Numbers"
+      Link="/Content/MyImport/A-Access.htm#A-Access_1253614424_1000359" />
+    <TocEntry
+      Title="Chem3D ActiveX Control"
+      Link="/Content/MyImport/A-Access.htm#A-Access_1253614424_1081836" />
+    <TocEntry
+      Title="SciStore.com"
+      Link="/Content/MyImport/A-Access.htm#A-Access_1253614424_1081839" />
+    <TocEntry
+      Title="PerkinElmer.com"
+      Link="/Content/MyImport/A-Access.htm#A-Access_1253614424_1082598" />
+    <TocEntry
+      Title="Using the ChemOffice SDK"
+      Link="/Content/MyImport/A-Access.htm#A-Access_1253614424_1051268" />
+    <TocEntry
+      Title="Querying SciFinder "
+      Link="/Content/MyImport/Querying SciFinder.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Tutorials"
+    Link="/Content/MyImport/2-Tutorials.htm#2-Tutorials_1162660173_1330909">
+    <TocEntry
+      Title="Tutorial 1: Drawing a Structure"
+      Link="/Content/MyImport/2-Tutorials.htm#2-Tutorials_1162660173_1330919" />
+    <TocEntry
+      Title="Tutorial 2: Using Rings"
+      Link="/Content/MyImport/Tutorial 2_ Using Rings.htm#2-Tutorials_1162660173_1330970" />
+    <TocEntry
+      Title="Tutorial 3: Fischer Projections"
+      Link="/Content/MyImport/Tutorial 3_ Fischer Proj.htm#2-Tutorials_1162660173_1331024" />
+    <TocEntry
+      Title="Tutorial 4: Perspective Drawings"
+      Link="/Content/MyImport/Tutorial 4_ Perspective.htm#2-Tutorials_1162660173_1331099" />
+    <TocEntry
+      Title="Tutorial 5: Newman Projections"
+      Link="/Content/MyImport/Tutorial 5_ Newman Proje.htm#2-Tutorials_1162660173_1334083" />
+    <TocEntry
+      Title="Tutorial 6: Stereochemistry"
+      Link="/Content/MyImport/Tutorial 6_ Stereochemis.htm#2-Tutorials_1162660173_1331298" />
+    <TocEntry
+      Title="Tutorial 7: Templates"
+      Link="/Content/MyImport/Tutorial 7_ Templates.htm#2-Tutorials_1162660173_1331372" />
+  </TocEntry>
+  <TocEntry
+    Title="Index"
+    Link="/Content/MyImport/CDOnlineIX.htm#CDOnlineIX_983353755_250146"
+    conditions="MyConditions.Book_only" />
+</CatapultToc>

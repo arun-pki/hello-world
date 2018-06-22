@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/TLC1.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/TLC1.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="6a-Chem_969106972_1179398" />
+    <Anchor
+      Name="6a-Chem_969106972_Annotations" />
+    <Anchor
+      Name="6a-Chem_969106972_1135002" />
+    <Anchor
+      Name="6a-Chem_969106972_1135012" />
+    <Anchor
+      Name="6a-Chem_969106972_1138474" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="TLC"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Rf display"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="85" />
+    <IndexCacheEntry
+      Term="TLC spots:duplicating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="90" />
+    <IndexCacheEntry
+      Term="TLC spots:deleting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="101" />
+    <IndexCacheEntry
+      Term="TLC spots:custom, adding"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="108" />
+    <IndexCacheEntry
+      Term="TLC spots:display or set Rf"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="108" />
+    <IndexCacheEntry
+      Term="TLC spots:enlarged"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="162" />
+    <IndexCacheEntry
+      Term="TLC spots:wide"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="162" />
+    <IndexCacheEntry
+      Term="TLC spots:tails"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="162" />
+    <IndexCacheEntry
+      Term="TLC spots:crescent"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="162" />
+    <IndexCacheEntry
+      Term="Rf display"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="171" />
+    <IndexCacheEntry
+      Term="TLC spots:Rf, about"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="173" />
+    <IndexCacheEntry
+      Term="TLC spots:resizing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="201" />
+    <IndexCacheEntry
+      Term="TLC spots:custom, about"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="205" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

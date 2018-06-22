@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="MyImport.ChemDraw_Excel" MadCap:lastBlockDepth="4" MadCap:lastHeight="11655" MadCap:lastWidth="646">
+    <head>
+        <link href="../Resources/Stylesheets/Cambridgesoft1.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h2 class="Heading2"><a name="10-Excel_3629383264_1134345"></a><a name="10-Excel_3629383264_85629"></a>
+            <MadCap:namedDestination name="ChemDrawExcelFunction" />ChemDraw/Excel Functions</h2>
+        <div class="Body">ChemDraw/Excel supplies a library of functions that return chemical properties of structures in a ChemDraw/Excel worksheet.</div>
+        <div class="Body">To insert a ChemDraw/Excel function into your worksheet:</div>
+        <div class="numlist1-inner" MadCap:autonum="1. ">Select the target cell.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">ChemDraw Functions</span> (<span class="Action_Object">Options&gt;ChemDraw Functions</span> in Excel 2010). The ChemDraw for Excel dialog box appears.</div>
+        <div class="numlist1-inner" MadCap:autonum="3. ">Double-click the function you want to insert from the list available in the Functions tab. A Functions Argument dialog box appears.</div>
+        <div class="numlist1-inner" MadCap:autonum="4. ">Select the structure.</div>
+        <div class="numlist1-last" MadCap:autonum="5. ">Click <span class="Action_Object">OK.</span></div>
+        <div class="Body">Each property is calculated using the “best available” method. If the cell reference argument does not point to a valid structure cell, <span class="Action_Object" style="font-weight: normal;">#N/A</span> appears in the cell.</div>
+        <div class="Body">All ChemDraw/Excel functions are described below.</div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">Chemical name</h3>
+        <div class="Body">Displays systematic names for chemical structures with support for the Cahn-Ingold-Prelog rules for stereochemistry. </div>
+        <h4 class="Heading4">Function</h4>
+        <div class="Body">CFW_CHEMICAL_NAME(cell ref) </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CFW_CHEMICAL_NAME(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 1-(2,3-dihydro-1H-inden-2-yl)propan-2-one </div>
+        <div class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">Some PerkinElmer Informatics product packages and levels allow unlimited structure-to-name conversions, while others impose a daily limit. </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="chemical composition" />Chemical composition</h3>
+        <div class="Body">When this function is called with just a cell reference, it displays the elemental percent by weight for all elements in the structure. When this function is called with a cell reference and an atomic symbol, it displays the fraction by weight of the given element in the structure. </div>
+        <H4 class="Heading4">Functions</H4>
+        <div class="Body"><span class="Code">CHEM_COMPOSITION(cell ref) </span>
+        </div>
+        <div class="Body"><span class="Code">CHEM_COMPOSITION(</span>cell ref, atomic symbol<span class="Code">)</span></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Examples</h5>
+        <div class="Body">In cell: <span class="Code">=CHEM_COMPOSITION(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: C,82.72;H,8.10;O,9.18 </div>
+        <div class="Body">In cell: <span class="Code">=CHEM_COMPOSITION(A2, "C")</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 0.827188133 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="chemical formula" />Chemical formula</h3>
+        <div class="Body">Displays the chemical formula for the structure(s) in the cell. </div>
+        <H4 class="Heading4">Functions</H4>
+        <div class="Body"><span class="Code">CHEM_FORMULA(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <div class="Body"><span class="Code">CHEMPROPSTD_MOL_FORMULA(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Examples</h5>
+        <div class="Body">In cell: <span class="Code">=CHEM_FORMULA(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: C12H14O </div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPSTD_MOL_FORMULA(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: C12H14O <MadCap:conditionalText MadCap:conditions="MyImport.Comment" /></div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="molecular weight" />Molecular weight</h3>
+        <div class="Body">Displays the average molecular mass of the structure, where atomic masses are based on the weighted average of all isotope masses for the element. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">atomic mass units </div>
+        <H4 class="Heading4">Functions</H4>
+        <div class="Body"><span class="Code">CHEM_MOLWEIGHT(</span>cell ref<span class="Code">) </span></div>
+        <div class="Body"><span class="Code">CHEMPROPSTD_MOL_WEIGHT(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <div class="Body"><span class="Code">CHEMPROPSTD_MASS(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Examples</h5>
+        <div class="Body">In cell: <span class="Code">=CHEM_MOLWEIGHT(A2)</span></div>
+        <div class="Body">Result: 174.23896 </div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPSTD_MOL_WEIGHT(A2)</span></div>
+        <div class="Body">Result: 174.238960 </div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPSTD_MASS(A2)</span></div>
+        <div class="Body">Result: 174.238960 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="exact mass" />Exact mass</h3>
+        <div class="Body">Displays the exact molecular mass of the molecule, where atomic masses of each atom are based on the most common isotope for the element. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">g/mole </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEMPROPSTD_EXACT_MASS(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPSTD_EXACT_MASS(A2)</span></div>
+        <div class="Body">Result: 174.104465 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="number of atoms" />Number of atoms</h3>
+        <div class="Body">When this function is called with just a cell reference, it displays the total number of atoms in the structure. When this function is called with a cell reference and an atomic symbol, it displays the number of atoms of the given element in the structure.</div>
+        <H4 class="Heading4">Functions</H4>
+        <div class="Body"><span class="Code">CHEM_NUM_ATOMS(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <div class="Body"><span class="Code">CHEM_NUM_ATOMS(</span>cell ref, atomic symbol<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Examples</h5>
+        <div class="Body">In cell: <span class="Code">=CHEM_NUM_ATOMS(A2)</span></div>
+        <div class="Body">Result: 27 </div>
+        <div class="Body">In cell: <span class="Code">=CHEM_NUM_ATOMS(A2, "C")</span></div>
+        <div class="Body">Result: 12 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="number of hydrogen-bond acceptors" />Number of hydrogen-bond acceptors</h3>
+        <div class="Body">Displays the number of hydrogen-bond acceptors based on topology. </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEM_NUM_HBACCEPTORS(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEM_NUM_HBACCEPTORS(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 1</div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="number of hydrogen-bond donors" />Number of hydrogen-bond donors</h3>
+        <div class="Body">Displays the number of hydrogen-bond donors based on topology. </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEM_NUM_HBDONORS(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEM_NUM_HBDONORS(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 0</div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="SMILES string" />SMILES string</h3>
+        <div class="Body">Displays the SMILES string for the structure.</div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEM_SMILES(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEM_SMILES(A2)</span></div>
+        <div class="Body">Result: O=C(C)CC(C1)Cc2c1cccc2 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="formal charge" />Formal charge</h3>
+        <div class="Body">Displays the net charge on the molecule. </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEMPROPSTD_FORMAL_CHARGE(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPSTD_FORMAL_CHARGE(A2</span></div>
+        <div class="Body">Result: -1</div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="Does cell have a structure drawing?" />Does cell have a structure drawing?</h3>
+        <div class="Body">Returns TRUE if the cell has a ChemOffice/Excel structure drawing or reaction drawings, returns FALSE otherwise. </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">ISSTRUCTURE(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=ISSTRUCTURE(A2)</span></div>
+        <div class="Body">Result: False </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="Does cell have a reaction drawing?" />Does cell have reaction drawing?</h3>
+        <div class="Body">Returns TRUE if the cell contains a drawing of a reaction. </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">ISREACTION(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=ISREACTION(A2</span></div>
+        <div class="Body">Result: True</div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="boiling point" />Boiling point	</h3>
+        <div class="Body">The boiling point for the molecule at 1 atm. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">Kelvin </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code"><MadCap:conditionalText MadCap:conditions="MyImport.Comment">CHEMPROP_BOILING(cell ref<span class="Code">)</span></MadCap:conditionalText> <![CDATA[ ]]></span>
+        </div>
+        <div class="Body"><span class="Code">CHEMPROPPRO_BOILING_POINT(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">In cell: <span class="Code">=CHEMPROP_BOILING(A2)</span></div>
+        <div class="Body">
+            <MadCap:conditionalText MadCap:conditions="MyImport.Comment">Result: 540.059</MadCap:conditionalText> <![CDATA[ ]]></div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_BOILING_POINT(A2)</span></div>
+        <div class="Body">Result: 540.059 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="melting/freezing point" />Melting/freezing point</h3>
+        <div class="Body">The melting/freezing point for the structure at 1 atm. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">Kelvin </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body" MadCap:conditions="MyImport.Comment"><span class="Code"><MadCap:conditionalText MadCap:conditions="MyImport.Comment">CHEMPROP_FREEZING(<span class="_Override" style="font-size: 11pt;line-height: 13pt;">cell ref</span><span class="Code">)</span></MadCap:conditionalText></span>
+        </div>
+        <div class="Body"><span class="Code">CHEMPROPPRO_MELTING_POINT(</span>cell ref<span class="Code">) </span></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">In cell: <span class="Code">=CHEMPROP_FREEZING(A2)</span></div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">Result: 331.31 </div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_MELTING_POINT(A2)</span></div>
+        <div class="Body">Result: 331.31 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="vapor pressure" />Vapor pressure</h3>
+        <div class="Body">The vapor pressure for the structure at 25° C. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">P<span class="_Override" style="font-size: 80%;vertical-align: sub;">a</span> <![CDATA[ ]]></div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEMPROPPRO_VAPOR_PRESSURE(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_VAPOR_PRESSURE(A2)</span></div>
+        <div class="Body">Result: 47.57999897 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="critical pressure" />Critical pressure</h3>
+        <div class="Body">The minimum pressure that must be applied to liquefy the structure at the critical temperature.</div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">bar </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body" MadCap:conditions="MyImport.Comment"><span class="Code"><MadCap:conditionalText MadCap:conditions="MyImport.Comment">CHEMPROP_CRITICAL_PRESSURE(cell ref<span class="Code">)</span> <![CDATA[ ]]></MadCap:conditionalText></span>
+        </div>
+        <div class="Body"><span class="Code">CHEMPROPPRO_CRITICAL_PRESSURE(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">In cell: <span class="Code">=CHEMPROP_CRITICAL_PRESSURE(A2)</span></div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">Result: 49.8035 </div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_CRITICAL_PRESSURE(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 49.804 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="critical temperature" />Critical temperature</h3>
+        <div class="Body">The temperature above which the gas form of the structure cannot be liquefied, no matter the applied pressure. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">Kelvin </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body" MadCap:conditions="MyImport.Comment"><span class="Code"><MadCap:conditionalText MadCap:conditions="MyImport.Comment">CHEMPROP_CRITICAL_TEMP(cell ref<span class="Code">) </span></MadCap:conditionalText></span>
+        </div>
+        <div class="Body"><span class="Code">CHEMPROPPRO_CRITICAL_TEMPERATURE(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Examples</h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">In cell: <span class="Code">=CHEMPROP_CRITICAL_TEMP(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">Result: 615.351 </div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_CRITICAL_TEMPERATURE(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 615.351 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="critical volume" />Critical volume</h3>
+        <div class="Body">The volume occupied at the compound's critical temperature and pressure. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">cm<span class="_Override" style="font-size: 80%;vertical-align: super;">3</span>/mole </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body" MadCap:conditions="MyImport.Comment"><span class="Code"><MadCap:conditionalText MadCap:conditions="MyImport.Comment">CHEMPROP_CRITICAL_VOLUME(cell ref<span class="Code">)</span> <![CDATA[ ]]></MadCap:conditionalText></span>
+        </div>
+        <div class="Body"><span class="Code">CHEMPROPPRO_CRITICAL_VOLUME(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">In cell: <span class="Code">=CHEMPROP_CRITICAL_VOLUME(A2)</span></div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">Result: 562.5 </div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_CRITICAL_VOLUME(A2)</span></div>
+        <div class="Body">Result: 562.5 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="Gibbs free energy" />Gibbs free energy</h3>
+        <div class="Body">The Gibbs free energy for the structure at 298.15 K and 1 atm. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">kJ/mole </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEMPROPPRO_GIBBS_FREE_ENERGY(</span>cell ref<span class="Code">) </span></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">In cell: <span class="Code">=CHEMPROP_GIBBS(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">Result: 84.77 </div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_GIBBS_FREE_ENERGY(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 84.77 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;" MadCap:conditions="MyImport.Comment">
+            <MadCap:keyword term="Henrys Law constant" />Henry's Law constant</h3>
+        <div class="Body" MadCap:conditions="MyImport.Comment">The inverse of the logarithm of Henry's Law constant. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;" MadCap:conditions="MyImport.Comment">Functions</h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment"><span class="Code">CHEMPROP_HENRY_LAW_CONSTANT(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;" MadCap:conditions="MyImport.Comment">Example</h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">In cell: <span class="Code">=CHEMPROP_HENRY_LAW_CONSTANT(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">Result: 4.78182 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="heat of formation" />Heat of formation</h3>
+        <div class="Body">The heat of formation for the structure at 298.15 K and 1 atm. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">kcals/mole </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body" MadCap:conditions="MyImport.Comment"><span class="Code"><MadCap:conditionalText MadCap:conditions="MyImport.Comment">CHEMPROP_HOF(cell ref<span class="Code">)</span> <![CDATA[ ]]></MadCap:conditionalText></span>
+        </div>
+        <div class="Body"><span class="Code">CHEMPROPPRO_HEAT_OF_FORMATION(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Examples</h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">In cell: <span class="Code">=CHEMPROP_HOF(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">Result: ^-105.73 </div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_HEAT_OF_FORMATION(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: -105.73 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="ideal gas thermal capacity" />Ideal gas thermal capacity</h3>
+        <div class="Body">The constant pressure (1 atm) molar heat capacity at 298.15 K for an ideal gas compound. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">J/[mole K] </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body" MadCap:conditions="MyImport.Comment"><span class="Code"><MadCap:conditionalText MadCap:conditions="MyImport.Comment">CHEMPROP_IDEAL_GAS(cell ref<span class="Code">)</span> <![CDATA[ ]]></MadCap:conditionalText></span>
+        </div>
+        <div class="Body"><span class="Code">CHEMPROPPRO_IDEAL_GAS_THERMAL_CAPACITY(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">In cell: <span class="Code">=CHEMPROP_IDEAL_GAS(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">Result: 201.036 </div>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_IDEAL_GAS_THERMAL_CAPACITY(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 201.036 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="LogP" />LogP</h3>
+        <div class="Body">The logarithm of the partition coefficient for n-octanol/water. </div>
+        <H4 class="Heading4">Functions</H4>
+        <div class="Body"><span class="Code">CHEMPROPPRO_LOGP(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <div class="Body"><span class="Code">CLOGP_DRIVER_PARTITION_COEFFICIENT(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Examples</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_LOGP(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 2.233 </div>
+        <div class="Body">In cell: <span class="Code">=CLOGP_DRIVER_PARTITION_COEFFICIENT(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 2.243 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="molar refractivity" />Molar refractivity</h3>
+        <div class="Body">The molar refraction index. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">cm<span class="_Override" style="font-size: 80%;vertical-align: super;">3</span>/mole </div>
+        <H4 class="Heading4">Functions</H4>
+        <div class="Body"><span class="Code">CHEMPROPPRO_MOL_REFRACTIVITY(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <div class="Body"><span class="Code">CLOGP_DRIVER_MOL_REFRACTIVITY(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Examples</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_MOL_REFRACTIVITY(A2)</span></div>
+        <div class="Body">Result: 53.305 </div>
+        <div class="Body">In cell: <span class="Code">=CLOGP_DRIVER_MOL_REFRACTIVITY(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 5.3297 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="water solubility" />Water solubility</h3>
+        <div class="Body">Prediction of the water solubility of the structure at 25° C. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">mg/L </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEMPROPPRO_WATER_SOLUBILITY(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPPRO_WATER_SOLUBILITY(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 0 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="Connolly solvent accessible surface area" />Connolly solvent accessible surface area</h3>
+        <div class="Body">The locus of the center of a spherical probe (representing the solvent) as it is rolled over the molecular model. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">Angstroms<span class="_Override" style="font-size: 80%;vertical-align: super;">2</span> <![CDATA[ ]]></div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEMPROPSTD_CONNOLLY_ACCESSIBLE_AREA(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPSTD_CONNOLLY_ACCESSIBLE_AREA(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 428.557 </div>
+        <div class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">The default probe radius used in the calculations is 1.4 angstroms. </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="Connolly molecular surface area" />Connolly molecular surface area</h3>
+        <div class="Body">The contact surface created when a spherical probe (representing the solvent) is rolled over the molecular model. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">Angstroms<span class="_Override" style="font-size: 80%;vertical-align: super;">2</span> <![CDATA[ ]]></div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEMPROPSTD_CONNOLLY_MOLECULAR_AREA(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPSTD_CONNOLLY_MOLECULAR_AREA(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 212.294 </div>
+        <div class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">The default probe radius used in the calculations is 1.4 angstroms. </div>
+        <div class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">The surface area calculation is performed with Michael Connolly's program for computing molecular surface areas and volume (M.L. Connolly. The Molecular Surface Package. J. Mol. Graphics <span class="_Override" style="font-weight: bold;">1993,</span> 11). </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="Connolly solvent-excluded volume" />Connolly solvent-excluded volume</h3>
+        <div class="Body">The volume contained within the contact molecular surface. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">Angstroms<span class="_Override" style="font-size: 80%;vertical-align: super;">3</span> <![CDATA[ ]]></div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEMPROPSTD_CONNOLLY_SOLVENT_EXCLUDED_VOLUME(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPSTD_CONNOLLY_SOLVENT_EXCLUDED_VOLUME(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 170.277 </div>
+        <div class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">The volume calculation is performed with Michael Connolly's program for computing molecular surface areas and volume (M.L. Connolly. The Molecular Surface Package. J. Mol. Graphics <span class="_Override" style="font-weight: bold;">1993,</span> 11). </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="ovality" />Ovality</h3>
+        <div class="Body">The ratio of the molecular surface area to the minimum surface area. The minimum surface area is the surface area of a sphere having a value equal to the solvent-excluded volume of the molecule. Computed from the Connolly Molecular Surface Area and Solvent-Excluded Volume properties. </div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEMPROPSTD_OVALITY(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPSTD_OVALITY(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 1.428947 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="principal moments of inertia (X, Y, Z)" />Principal moments of Inertia (X, Y, Z)</h3>
+        <div class="Body">The moments of inertia when the Cartesian coordinate axes are the principal axes of the molecule. </div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Units</h5>
+        <div class="Body">grams/mole angstroms<span class="_Override" style="font-size: 80%;vertical-align: super;">2</span> <![CDATA[ ]]></div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">CHEMPROPSTD_PRINCIPAL_MOMENT(</span>cell ref<span class="Code">) </span></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=CHEMPROPSTD_PRINCIPAL_MOMENT(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 249.546 1409.279 1658.824 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="Balaban index" />Balaban index</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_BALABAN_INDEX(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_BALABAN_INDEX(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 29909 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="cluster count" />Cluster count</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_CLUSTER_COUNT(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_CLUSTER_COUNT(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 13 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="topological index" />Topological index</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_MOLECULAR_TOPOLOGICAL_INDEX(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_MOLECULAR_TOPOLOGICAL_INDEX(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 1998 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="number of rotatable bonds" />Number of rotatable bonds</h3>
+        <h5 class="functiondescr" style="margin-top: 7pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Function</h5>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_NUM_ROTATABLE_BONDS(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_NUM_ROTATABLE_BONDS(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 2</div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="polar surface area" />Polar surface area</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_POLAR_SURFACE_AREA(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_POLAR_SURFACE_AREA(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 17.07 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="radius" />Radius</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_RADIUS(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_RADIUS(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 4</div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="shape attribute" />Shape attribute</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_SHAPE_ATTRIBUTE(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_SHAPE_ATTRIBUTE(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 11.076923</div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="shape coefficient" />Shape coefficient</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_SHAPE_COEFFICIENT(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_SHAPE_COEFFICIENT(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 0 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="sum of degrees" />Sum of degrees</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_SUM_OF_DEGREES(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_SUM_OF_DEGREES(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 28 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="sum of valence degrees" />Sum of valence degrees</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_SUM_OF_VALENCE_DEGREES(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_SUM_OF_VALENCE_DEGREES(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 40 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="topological diameter" />Topological diameter</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_TOPOLOGICAL_DIAMETER(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_TOPOLOGICAL_DIAMETER(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 7 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="total connectivity" />Total connectivity</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_TOTAL_CONNECTIVITY(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_TOTAL_CONNECTIVITY(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 0.009821</div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="total valence connectivity" />Total valence connectivity</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_TOTAL_VALENCE_CONNECTIVITY(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_TOTAL_VALENCE_CONNECTIVITY(A2)</span> <![CDATA[ ]]></div>
+        <div class="Body">Result: 0.001157 </div>
+        <h3 class="functionname" style="margin-top: 8pt;margin-bottom: 0pt;font-family: Arial;font-weight: bold;font-style: normal;font-size: 12pt;letter-spacing: 0em;color: #000000;line-height: 17pt;text-decoration: none;">
+            <MadCap:keyword term="Wiener index" />Wiener index</h3>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_TOPOLOGY_WIENER_INDEX(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_TOPOLOGY_WIENER_INDEX(A2)</span></div>
+        <div class="Body">Result: 249</div>
+        <h3>MOLECULAR_NETWORKS_LOGP</h3>
+        <div class="Body">The partition coefficient is a ratio of concentrations of un-ionized compound between two solutions. The logarithm of the ratio of the concentrations of the un-ionized solute in the solvents is called LogP.</div>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_NETWORKS_LOGP(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_NETWORKS_LOGP(A4)</span></div>
+        <div class="Body">Result: 3.019</div>
+        <h3><a name="LOGS"></a>MOLECULAR_NETWORKS_LOGS</h3>
+        <DIV class="Body">MOLECULAR_NETWORKS_LogS determines the solubility of a substance, measured in mol/liter. </DIV>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_NETWORKS_LOGS(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_NETWORKS_LOGS(A4)</span></div>
+        <div class="Body">Result:-2.029</div>
+        <DIV class="Body">&#160;</DIV>
+        <h3><a name="Pka"></a>MOLECULAR_NETWORKS_PKa</h3>
+        <p>MOLECULAR_NETWORKS_PKa is the negative log of the acid dissociation constant Ka. It describes the tendency of compounds or ions to dissociate in solution.</p>
+        <H4 class="Heading4">Function</H4>
+        <div class="Body"><span class="Code">MOLECULAR_NETWORKS_PKa(</span>cell ref<span class="Code">)</span> <![CDATA[ ]]></div>
+        <h5 class="functiondescr" style="margin-top: 7pt;margin-bottom: 0pt;font-family: Arial;font-weight: normal;font-style: normal;font-size: 11pt;letter-spacing: 0em;color: #000000;line-height: 15pt;text-decoration: none;">Example</h5>
+        <div class="Body">In cell: <span class="Code">=MOLECULAR_NETWORKS_PKa(A4)</span></div>
+        <div class="Body">Result: 14.834000</div>
+        <H3 class="Heading3"><a name="10-Excel_3629383264_1159830"></a>Predicting druglikeness</H3>
+        <div class="Body">Using ChemDraw/Excel functions, you can create calculators to determine the druglikeness of a structure. You can calculate values for:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">The Lipinski rule of five</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">The Ghose modifications</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">The Congreve Rule-of-Three</div>
+        <H4 class="Heading4">
+            <MadCap:keyword term="Lipinski rule of five" />Lipinski rule of five</H4>
+        <div class="Body">The Lipinski rule uses five criteria to determine whether a substance is druglike.  The substance must have: </div>
+        <div class="Bullet1-1st">Five or fewer H-bond donors.</div>
+        <div class="Bullet1-inner">Ten or fewer H-bond acceptors. </div>
+        <div class="Bullet1-inner">A molecular weight under 500 daltons. </div>
+        <div class="Bullet1-inner">LogP lower than 5. </div>
+        <div class="Bullet1-last">Fewer than two violations of the above four rules.</div>
+        <div class="Body">To determine whether the substance meets the Lipinski rule requirement:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Calculate the value of each of these functions:</div>
+        <div class="Bullet2-1st">CHEM.NUM.HBDONORS()</div>
+        <div class="Bullet2-inner">CHEM.NUM.HBACCEPTORS()</div>
+        <div class="Bullet2-inner">CHEM.MOLWEIGHT()</div>
+        <div class="Bullet2-last">CHEMPROPPRO.LOGP()</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Verify that the value returned by the functions meets the lipinski rule criteria. For example, if the CHEM.MOLWEIGHT() returns a value &lt;500, it satisfies lipinsky’s third criteria. </div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Calculate the number of criteria satisfied. If the number of violations is less than two, the Lipinsky rule is satisfied.</div>
+        <H4 class="Heading4">
+            <MadCap:keyword term="Ghose" />Ghose modifications</H4>
+        <div class="Body">The Ghose modifications  use these criterias:</div>
+        <div class="Bullet1-1st">Atom count between 20 and 70. </div>
+        <div class="Bullet1-inner">Molar refractivity between 40 and 130. </div>
+        <div class="Bullet1-inner">A molecular weight between 160 and 480 daltons.</div>
+        <div class="Bullet1-inner">LogP in the range -0.4 to +5.6.</div>
+        <div class="Bullet1-last">Fewer than two violations of the above four rules. </div>
+        <div class="Body">To determine whether the substance meets the Ghose modification requirement:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Calculate the value of each of these functions:</div>
+        <div class="Bullet2-1st">CHEM.NUM.ATOMS()</div>
+        <div class="Bullet2-1st">CHEMPROPPRO.MOL.REFRACTIVITY()</div>
+        <div class="Bullet2-inner">CHEM.MOLWEIGHT()</div>
+        <div class="Bullet2-last">CHEMPROPPRO.LOGP()</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Verify that the value returned by the functions meets the Ghose modification criteria. For example, if the value returned by the function CHEMPROPPRO.LOGP() for that structure is within the range -0.4 to +5.6, it satisfies Ghose modification’s fourth criteria. </div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Calculate the number of criteria satisfied. If the number of violations is less than two, then the Ghose modifications requirement is satisfied. </div>
+        <H4 class="Heading4">
+            <MadCap:keyword term="Congreve Rule-of-Three" />Congreve rule of three</H4>
+        <div class="Body">The "Congreve Rule of Three" uses these criterias: </div>
+        <div class="Bullet1-1st">Three or fewer H-bond donors. </div>
+        <div class="Bullet1-inner">Three or fewer H-bond acceptors. </div>
+        <div class="Bullet1-inner">A molecular weight under 300 daltons. </div>
+        <div class="Bullet1-inner">LogP lower than 3. </div>
+        <div class="Bullet1-last">Fewer than two violations of the above four rules. </div>
+        <div class="Body">To determine if the substance meets the Congreve Rule-of-Three requirement:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Calculate the value of each of these functions:</div>
+        <div class="Bullet2-1st">CHEM.NUM.HBDONORS()</div>
+        <div class="Bullet2-inner">CHEM.NUM.HBACCEPTORS()</div>
+        <div class="Bullet2-inner">CHEM.MOLWEIGHT()</div>
+        <div class="Bullet2-last">CHEMPROPPRO.LOGP()</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Verify that the value returned by the functions meets the Congreve Rule-of-Three criteria. For example, if the if the function CHEMPROPPRO.LOGP() returns a value for the structure that is &lt;3, it satisfies Congreve Rule-of-Three’s fourth criteria. </div>
+        <div class="numlist1-inner" MadCap:autonum="3. ">Calculate the number of criteria satisfied. If the number of violations is less than two, then the Congreve Rule-of-Three is satisfied.</div>
+    </body>
+</html>

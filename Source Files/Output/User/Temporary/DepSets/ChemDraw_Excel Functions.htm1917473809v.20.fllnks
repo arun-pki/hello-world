@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="10-Excel_3629383264_1134345" />
+    <Anchor
+      Name="10-Excel_3629383264_85629" />
+    <Anchor
+      Name="LOGS" />
+    <Anchor
+      Name="Pka" />
+    <Anchor
+      Name="10-Excel_3629383264_1159830" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="chemical composition"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="chemical formula"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="molecular weight"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="66" />
+    <IndexCacheEntry
+      Term="exact mass"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="number of atoms"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="104" />
+    <IndexCacheEntry
+      Term="number of hydrogen-bond acceptors"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="121" />
+    <IndexCacheEntry
+      Term="number of hydrogen-bond donors"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="132" />
+    <IndexCacheEntry
+      Term="SMILES string"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="143" />
+    <IndexCacheEntry
+      Term="formal charge"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="154" />
+    <IndexCacheEntry
+      Term="Does cell have a structure drawing?"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="165" />
+    <IndexCacheEntry
+      Term="Does cell have a reaction drawing?"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="176" />
+    <IndexCacheEntry
+      Term="boiling point"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="187" />
+    <IndexCacheEntry
+      Term="melting/freezing point"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="208" />
+    <IndexCacheEntry
+      Term="vapor pressure"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="229" />
+    <IndexCacheEntry
+      Term="critical pressure"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="243" />
+    <IndexCacheEntry
+      Term="critical temperature"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="263" />
+    <IndexCacheEntry
+      Term="critical volume"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="283" />
+    <IndexCacheEntry
+      Term="Gibbs free energy"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="304" />
+    <IndexCacheEntry
+      Term="Henrys Law constant"
+      Conditions="MyImport.Comment,MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="320" />
+    <IndexCacheEntry
+      Term="heat of formation"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="331" />
+    <IndexCacheEntry
+      Term="ideal gas thermal capacity"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="351" />
+    <IndexCacheEntry
+      Term="LogP"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="371" />
+    <IndexCacheEntry
+      Term="molar refractivity"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="388" />
+    <IndexCacheEntry
+      Term="water solubility"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="408" />
+    <IndexCacheEntry
+      Term="Connolly solvent accessible surface area"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="421" />
+    <IndexCacheEntry
+      Term="Connolly molecular surface area"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="436" />
+    <IndexCacheEntry
+      Term="Connolly solvent-excluded volume"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="453" />
+    <IndexCacheEntry
+      Term="ovality"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="469" />
+    <IndexCacheEntry
+      Term="principal moments of inertia (X, Y, Z)"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="480" />
+    <IndexCacheEntry
+      Term="Balaban index"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="494" />
+    <IndexCacheEntry
+      Term="cluster count"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="504" />
+    <IndexCacheEntry
+      Term="topological index"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="514" />
+    <IndexCacheEntry
+      Term="number of rotatable bonds"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="524" />
+    <IndexCacheEntry
+      Term="polar surface area"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="534" />
+    <IndexCacheEntry
+      Term="radius"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="544" />
+    <IndexCacheEntry
+      Term="shape attribute"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="554" />
+    <IndexCacheEntry
+      Term="shape coefficient"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="564" />
+    <IndexCacheEntry
+      Term="sum of degrees"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="574" />
+    <IndexCacheEntry
+      Term="sum of valence degrees"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="584" />
+    <IndexCacheEntry
+      Term="topological diameter"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="594" />
+    <IndexCacheEntry
+      Term="total connectivity"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="604" />
+    <IndexCacheEntry
+      Term="total valence connectivity"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="614" />
+    <IndexCacheEntry
+      Term="Wiener index"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="624" />
+    <IndexCacheEntry
+      Term="Lipinski rule of five"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="673" />
+    <IndexCacheEntry
+      Term="Ghose"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="689" />
+    <IndexCacheEntry
+      Term="Congreve Rule-of-Three"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="705" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw_Excel" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw_Excel" />
+    <Condition
+      Tag="MyImport.Comment" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

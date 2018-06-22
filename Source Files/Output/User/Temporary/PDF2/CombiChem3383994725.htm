@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="MyImport.Combichem" MadCap:lastBlockDepth="4" MadCap:lastHeight="6040" MadCap:lastWidth="646" MadCap:disableMasterStylesheet="true" MadCap:tocPath="ChemDraw/Excel and CombiChem|CombiChem" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+    <head><title>Recreating reactant worksheets</title>
+        <link href="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Stylesheets/Cambridgesoft1.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <H2 class="Heading2" MadCap:conditions="MyImport.Combichem" MadCap:xrefTargetName="CombiChem"><a MadCap:generatedBookmark="TOC" name="CombiChem"></a><a name="10-Excel_3629383264_1159200"></a>CombiChem</H2>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">Using CombiChem, you can build virtual combinatorial libraries of structurally related molecules. You can then screen your libraries for various properties to determine which compounds you want to synthesize. </div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">CombiChem is a plugin for Microsoft Excel and is included with ChemDraw/Excel. If you are familiar with MS Excel, you will find CombiChem simple to use. However, if you need assistance, see the Help documentation for MS Excel. </div>
+        <H3 class="Heading3" MadCap:conditions="MyImport.Combichem"><a name="10-Excel_3629383264_1159204"></a>
+            <MadCap:keyword term="reaction templates" />
+            <MadCap:namedDestination name="CombiChemGetStart" />Getting Started</H3>
+        <div class="Body" MadCap:conditions="MyImport.Combichem"><a name="10-Excel_3629383264_Combichem"></a>When you install ChemFinder or ChemOffice, the CombiChem add-in is also installed. CombiChem requires Microsoft Excel 2010 or later. </div>
+        <H4 class="Heading4" MadCap:conditions="MyImport.Combichem">Assistance with CombiChem</H4>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">CombiChem provides <MadCap:keyword term="Help" />Help in the Excel worksheets. Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Help</span>.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">By default, each worksheet you create also includes brief instructions to help guide you. If you do not see the instructions:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Preferences. </span></div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Select <span class="Action_Object">Add Instructions to Every Sheet</span>.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">The instructions appear on new worksheets that you create.</div>
+        <H4 MadCap:conditions="MyImport.Combichem" class="Heading4">
+            <MadCap:keyword term="reaction worksheet" />Creating combinatorial libraries</H4>
+        <p class="XColBody" MadCap:conditions="MyImport.Combichem">To create a combinatorial library, you first need a generic reaction. This reaction resembles the real reaction you will use in the lab to synthesize compounds. The generic reaction contains one or more query structures that represent the reactants and products in the real reaction. An example of a generic reaction is shown below:</p>
+        <p MadCap:conditions="MyImport.Combichem">
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Fischer Indole2.gif" style="width: 425.5939px;height: 313.5955px;margin-left: 1.00008px;margin-top: 1.00008px;margin-bottom: 0.4060785px;" />
+        </p>
+        <p class="XColBody" MadCap:conditions="MyImport.Combichem">You use the generic reaction to search your chemical database for compounds that match the reactant query structures. Once all the matching compounds are found, CombiChem generates a list of reactions from the compounds that were found in the query. </p>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">The generic reaction you create must meet these criteria: </div>
+        <div class="Bullet1-1st" MadCap:conditions="MyImport.Combichem">All generic atoms in the reactant(s) must be represented by R-groups. </div>
+        <div class="Bullet1-inner" MadCap:conditions="MyImport.Combichem">Solvents, catalysts, and other “real-world” elements must <i class="Emphasis">not</i> be included in the generic reaction. </div>
+        <div class="Bullet1-last" MadCap:conditions="MyImport.Combichem">Multi-step generic reactions are supported.</div>
+        <H4 class="Heading4" MadCap:conditions="MyImport.Combichem">Entering a generic reaction</H4>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To enter the generic reaction, you must first create a reaction worksheet:</div>
+        <div class="Bullet1-1st" MadCap:conditions="MyImport.Combichem">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">New Reaction</span>. A new worksheet, named “Reactions” appears in your workbook.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">You then add the generic reaction to the reaction worksheet by either importing it or drawing it in ChemDraw. </div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To import the reaction:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Place your cursor in the cell that contains the text “Reaction - Double-click to edit.”</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Either click the <span class="Action_Object">Load Molecule</span> icon on the ChemOffice toolbar or go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">Molecule</span>&gt;<span class="Action_Object">Load</span>.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">Browse to the file that contains the generic reaction and click <span class="Action_Object">Open</span>. The reaction appears in the Reactions worksheet.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To draw the reaction in ChemDraw:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Double-click the cell that contains the text “Reaction - Double-click to edit.”. </div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">When asked whether to add a new molecule, click <span class="Action_Object">Yes</span>. ChemDraw launches.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">In ChemDraw, draw the generic reaction.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="4. ">In ChemDraw, go to <span class="Action_Object">File</span>&gt;<span class="Action_Object">Exit</span>. You will be returned to Excel and the reaction will appear in the worksheet.</div>
+        <div class="Tip" MadCap:conditions="MyImport.Combichem" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt; ">To display or hide the reaction, click the Show Picture or Hide Picture icon.</div>
+        <div MadCap:conditions="MyImport.Combichem" class="Note" MadCap:autonum=" &lt;b&gt;Note: &lt;/b&gt; ">Do not add more than one reaction to a reaction template. </div>
+        <H4 class="Heading4" MadCap:conditions="MyImport.Combichem">
+            <MadCap:keyword term="reactant worksheets" />Creating reactant worksheets</H4>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">The generic reaction contains at least one generic reactant (a reactant that has one or more R-group attachments). After you enter the generic reaction in Excel, you create a worksheet for each generic reactant. CombiChem uses the reactant worksheet(s) to search your database for structures that may be used in synthesis. In multi-step reactions, CombiChem searches for reactants in the first step; but ignores intermediate reactants.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To create reactant worksheets: </div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Select the Reactions worksheet tab.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Go to <span class="Action_Object">ChemOffice17</span>&gt; <span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Reactants</span>&gt;<span class="Action_Object">Make Reactant Worksheets</span>. A new worksheet is added for each generic reactant.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">CombiChem creates a worksheet for each generic reactant (typically, either one or two reactant worksheets for the reaction you entered).</div>
+        <H4 class="Heading4" MadCap:conditions="MyImport.Combichem" MadCap:xrefTargetName="$$xref$$_90" MadCap:sourceTitle="Recreating reactant worksheets"><a name="10-Excel_3629383264_1159261"></a><a name="10-Excel_3629383264__Toc456421296"></a><a name="10-Excel_3629383264__Toc456525090"></a><a name="10-Excel_3629383264__Toc456527453"></a><a name="10-Excel_3629383264__Toc456674629"></a><a name="10-Excel_3629383264__Toc457016256"></a><a name="10-Excel_3629383264__Toc457037214"></a><a name="10-Excel_3629383264__Toc458497092"></a><a name="10-Excel_3629383264__Toc458497478"></a><a name="10-Excel_3629383264__Toc459793619"></a><a name="10-Excel_3629383264__Toc461522407"></a>
+            <MadCap:keyword term="reactant lists" />
+            <MadCap:namedDestination name="SearchReactants" />Searching for reactants</H4>
+        <div class="Body" MadCap:conditions="MyImport.Combichem"> Reactant worksheets are empty when CombiChem creates them. To populate each worksheet with structures from your database, you must either import the database as an SD file or use ChemFinder to search for records. </div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To search for reactants in an SD file:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Select a Reactant worksheet tab.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt; <span class="Action_Object">Reactants</span>&gt;<span class="Action_Object">Search for Reactants</span>. A dialog box appears.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">Select <span class="Action_Object">Search Directly</span> to import an SD file to search. </div>
+        <div class="NoteInd" MadCap:conditions="MyImport.Combichem" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">SDfiles have the extension .sdf.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="4. ">Enter the file path in the <span class="Action_Object">Database</span> field or click <span class="Action_Object">Browse</span> to locate the file.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="5. ">Click <span class="Action_Object">OK</span>. Records in the file that match the generic reaction are returned.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To search for reactants using ChemFinder:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt; <span class="Action_Object">Reactants</span>&gt;<span class="Action_Object">Search for Reactants</span>.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">In the dialog box, select <span class="Action_Object">Search in ChemFinder</span>.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">In the <span class="Action_Object">Database</span> field, enter the path to the ChemFinder form to be used to search the ChemFinder database.</div>
+        <div class="NoteInd" MadCap:conditions="MyImport.Combichem" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">ChemFinder form files have the extension .cfx or .cfw.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="4. ">Click <span class="Action_Object">OK</span>. ChemFinder launches.</div>
+        <div class="BodyInd" MadCap:conditions="MyImport.Combichem">After launching, ChemFinder uses the form you entered to search its corresponding database for records that match the generic reactant. You can browse the search results in ChemFinder before importing them into the Excel reactant worksheet.</div>
+        <div class="Tip" MadCap:conditions="MyImport.Combichem" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt; ">To omit a record from the search results, navigate to the record in ChemFinder and go to <span class="Action_Object">Record</span>&gt;<span class="Action_Object">Omit from List</span> in the ChemFinder main menu.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="5. ">In Excel, go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Reactants</span>&gt;<span class="Action_Object">Import ChemFinder Hitlist</span>. </div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">Alternatively, you can copy and paste the query structure into ChemFinder to perform a search. </div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">In Excel, select the cell that contains the generic reactant.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Click the Copy Molecule icon  on the ChemOffice toolbar.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">In ChemFinder, open the database to search. </div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="4. ">Paste the generic reactant structure into a query form and run the search.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="5. ">In the reactant worksheet in Excel, go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Reactants</span>&gt;<span class="Action_Object">Import  ChemFinder Hitlist</span> to import the search results. The search results appear in the reactant worksheet(s). </div>
+        <div class="Tip" MadCap:conditions="MyImport.Combichem" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt; ">Use the Show Picture/Hide Picture commands to toggle the display.</div>
+        <h5 class="Heading5" MadCap:conditions="MyImport.Combichem"><a name="10-Excel_3629383264__Toc456674633"></a><a name="10-Excel_3629383264__Toc457016260"></a><a name="10-Excel_3629383264__Toc457037218"></a><a name="10-Excel_3629383264__Toc458497096"></a><a name="10-Excel_3629383264__Toc458497482"></a><a name="10-Excel_3629383264__Toc459793623"></a><a name="10-Excel_3629383264__Toc461522411"></a>
+            <MadCap:keyword term="Combi experiments:creating" />
+            <MadCap:keyword term="reactant worksheets:recreating" /><a name="10-Excel_3629383264__Toc456421300"></a>Recreating reactant worksheets</h5>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">You can edit the generic reaction at any time. However, you must then delete and recreate each reactant worksheet.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To recreate a reactant worksheet:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Right-click the reactant worksheet tab and select <span class="Action_Object">Delete</span>. </div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">When prompted, confirm that you want to delete the worksheet.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Reactants</span>&gt;<span class="Action_Object">Make Reactant Worksheets</span>.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="4. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt; <span class="Action_Object">Reactants</span>&gt;<span class="Action_Object">Search for Reactants</span>. (For more information, see <MadCap:xref class="Heading_And_Page" href="#10-Excel_3629383264_1159261" MadCap:xrefTarget="$$xref$$_90">"Searching for reactants" on page 1</MadCap:xref>.)</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">If you try to create new reactant worksheets in a workbook that already contains reactant worksheets, you will be asked whether you want to delete the existing worksheets. When prompted, choose one of these options:</div>
+        <div class="Bullet1-1st" MadCap:conditions="MyImport.Combichem">Click <span class="Action_Object">Yes</span> to replace the existing worksheet(s). The existing worksheet is permanently deleted.</div>
+        <div class="Bullet1-last" MadCap:conditions="MyImport.Combichem">Click <span class="Action_Object">No</span>. No new worksheet is created and the current worksheet(s) are kept. </div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To preserve the existing worksheets go to <span class="Action_Object">File</span>&gt;<span class="Action_Object">Save As </span>and save the workbook. Then, follow the steps above to recreate the reactant worksheet(s). When prompted to delete each existing worksheet, click <span class="Action_Object">Yes</span>. New reactant worksheets will be created and the previous workbook will be available as a saved file.</div>
+        <H4 class="Heading4" MadCap:conditions="MyImport.Combichem"><a name="Creating"></a>
+            <MadCap:namedDestination name="CreateExp" />Creating an experiment</H4>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">An experiment is a library of product structures that is created when the reactant search results are applied to the generic reaction. You can  create or enumerate multiple experiments per workbook. </div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">For example, you can take all the reactants you imported and enumerate an experiment containing all possible combinations of reactants. After calculating properties on these products, you might decide that 10% of these products are worth synthesizing in the lab. You could then create an experiment with just those products that the calculations show to be promising.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">The ‘Use (Y/N)’ column in a reactant list determines whether the associated reactant in the list will be used (‘Y’) in the experiment or not (‘N’). By default, Y, appears. </div>
+        <div class="Note" MadCap:conditions="MyImport.Combichem" MadCap:autonum=" &lt;b&gt;Note: &lt;/b&gt; ">Only the Structure and Use (Y/N) columns are necessary. Other columns may also be included but CombiChem ignores them. You can delete them if you want. </div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To create a new experiment:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">	In each reactant list, select the reactants to use by typing <span class="Action_Object">Y</span> in their “Use(Y/N)” column. Type <span class="Action_Object">N </span>for those reactants you do not wish to use.</div>
+        <div class="NoteInd" MadCap:conditions="MyImport.Combichem" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">Cells without “n” or “N” default to “Y”. </div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Experiments</span>&gt; <span class="Action_Object">New</span> or  use the floating experiments form (<span class="Action_Object">Combi Options&gt;Experiment&gt;New</span>). A dialog box appears asking whether you want to create the experiment with the selected number of reactants.</div>
+        <div class="Note" MadCap:conditions="MyImport.Combichem" MadCap:autonum=" &lt;b&gt;Note: &lt;/b&gt; ">Enumeration of a product library may take a long time, especially if there are many reactants or you are using a slower processor. </div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">CombiChem/Excel saves your enumeration to a ChemFinder database file.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">When prompted, save the experiments file.</div>
+        <div class="NoteInd" MadCap:conditions="MyImport.Combichem" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">When the enumeration is done, CombiChem/Excel imports your data to a worksheet. </div>
+        <h5 class="Heading5" MadCap:conditions="MyImport.Combichem">Experiment worksheets</h5>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">After you create the experiment, several sheets are added to your workbook:</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Experiment Reactant sheets</DIV>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">Contain lists of the reactants used in the experiment. There is one Experiment Reactant sheet for each reactant. These sheets are named <span class="Code">Experiment</span><i class="Emphasis">n</i><span class="Code">-Reactant</span><i class="Emphasis">m</i> where <i class="Emphasis">n</i> is the designates a specific experiment (in case you create more than one) and <i class="Emphasis">m</i> is the reactant for the experiment. </div>
+        <DIV class="HeadingRunIn" MadCap:conditions="" MadCap:autonum=". &#160;">Experiment Product sheet</DIV>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">Contains the generic reaction and the enumerated products in the experiment based on the reactants you marked ‘Y’ in the reactant worksheet(s). By default, only the products are listed. To list the complete enumerated reactions:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Preferences</span>.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">In the Combi Preferences dialog box, select <span class="Action_Object">Show Full Reaction for each product</span>.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">Select a reactant worksheet.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="4. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Experiments</span>&gt;<span class="Action_Object">New</span>. A new experiment is added with the full reactions appearing in the product worksheet.</div>
+        <div class="NoteInd" MadCap:conditions="MyImport.Combichem" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">Whenever you create a new experiment, existing experiment worksheets are retained. If you want to delete them, right-click each experiment tab and select <span class="Action_Object">Delete</span> or use the experiments floating form (<span class="Action_Object">Combi Options&gt;Experiment&gt;Delete</span>).</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">Go to <span class="Action_Object">Combi Options&gt;Experiment&gt;Toggle</span> to hide/unhide all the experiment worksheets in the workbook.</div>
+        <H3 class="Heading3" MadCap:conditions="MyImport.Combichem"><a name="10-Excel_3629383264_1159341"></a>
+            <MadCap:namedDestination name="ConfigurePlates" />Configuring plates</H3>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">After you create an experiment, you can assign your products to product wells and your experiment reactants to reactant block plates. This is useful if you are going to use a robotic synthesizer. You can configure plates of up to 50 rows and 50 columns.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To set up assignments:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Open either an Experiment Reactant or Experiment Product worksheet.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Plates</span>&gt;<span class="Action_Object">Configure Plates</span>.</div>
+        <div class="BodyInd" MadCap:conditions="MyImport.Combichem">The Configure Plates dialog box appears.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">In the <span class="Action_Object">Configuration of:</span> drop-down list, select either <span class="Action_Object">Product Plates</span> or <span class="Action_Object">Reactant Block Plates</span>.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="4. ">Enter the number of rows and columns to assign to the plate.</div>
+        <div class="BodyInd" MadCap:conditions="MyImport.Combichem">The numbered buttons represent wells in the plate you chose. </div>
+        <p MadCap:conditions="MyImport.Combichem">
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/ConfigurePlates.png" style="width: 276.4791px;height: 204px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.656643px;margin-bottom: 1.015926px;" />
+        </p>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="5. ">Designate which wells you want to use as controls, synthesized compounds, and left empty. Click a well to change its designation.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="6. ">When you are finished, click <span class="Action_Object">Apply</span>.</div>
+        <H4 class="Heading4" MadCap:conditions="MyImport.Combichem">Assigning plates</H4>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">The next step is to assign plates to each reactant and product.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To assign the reactants or products to plates:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Select an Experiment-Reactant worksheet. </div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Plates</span>&gt;<span class="Action_Object">Assign to Wells</span>.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">Select a product worksheet.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="4. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Plates</span>&gt;<span class="Action_Object">Assign to Wells</span>.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">Three columns are added to the reactant or product worksheet: Well Plate, Well Row, and Well Column.</div>
+        <p MadCap:conditions="MyImport.Combichem">
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/12_5.jpg" style="width: 236px;height: 124px;" />
+        </p>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To <MadCap:keyword term="change plate assignment;plate assignments:to change;" />change specific plate assignments, edit the values on the worksheet.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To r<MadCap:keyword term="plate assignments:removing;" />emove all plate well assignments:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Select the worksheet where you want to remove assignments.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Plates</span>&gt; <span class="Action_Object">Remove well assignments</span>.</div>
+        <H4 class="Heading4" MadCap:conditions="MyImport.Combichem"><a name="Browsing"></a>
+            <MadCap:namedDestination name="BrowsePlates" />Browsing plates</H4>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">After assigning reactants or products to wells, you can view which one has been assigned to each well.</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Select either a reactant or product worksheet.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt; <span class="Action_Object">Plates</span>&gt;<span class="Action_Object">Browse Plates</span>. The Plate Browser dialog box appears.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">In the <span class="Action_Object">Plate</span> scroll list, select or enter the plate number to view.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="4. ">In the dialog box, select the well to view. The worksheet scrolls to the reactant or product assigned to the well you select.</div>
+        <p MadCap:conditions="MyImport.Combichem">
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/PlateBrowser.png" style="width: 293.5987px;height: 265.9997px;margin-top: 3.1248px;margin-right: 2.425694px;margin-bottom: 1.297457px;" />
+        </p>
+        <H4 class="Heading4" MadCap:conditions="MyImport.Combichem">Viewing related structures</H4>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">After enumerating an experiment, you may view which reactants went into a product or which products arose from a given reactant.</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">To view the related structures:</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Combichem" MadCap:autonum="1. ">Select a row on an Experiment Reactant or Experiment Product sheet.</div>
+        <div class="numlist1-inner" MadCap:conditions="MyImport.Combichem" MadCap:autonum="2. ">Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Highlight Related Records</span>.</div>
+        <div class="BodyInd" MadCap:conditions="MyImport.Combichem">The related records on the Experiment Reactant and Experiment Product sheet are displayed in color. </div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Combichem" MadCap:autonum="3. ">(Optional) To remove the highlighting from all rows, go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Highlight</span>&gt;<span class="Action_Object">Unhighlight All</span>.</div>
+        <H3 class="Heading3" MadCap:conditions="MyImport.Combichem"><a name="10-Excel_3629383264_1159393"></a>
+            <MadCap:namedDestination name="SetPreferences" />Setting <MadCap:keyword term="preferences" />preferences</H3>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">CombiChem provides several options for you to choose how and whether certain information appears on each worksheet. Go to <span class="Action_Object">ChemOffice17</span>&gt;<span class="Action_Object">CombiChem</span>&gt;<span class="Action_Object">Preferences</span>and select from these options:</div>
+        <DIV class="HeadingRunIn" MadCap:conditions="MyImport.Combichem" MadCap:autonum=". &#160;">Add <MadCap:keyword term="Instructions" />Instructions to Every Sheet</DIV>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">By default, row 1 of each CombiChem worksheet contains instructions. Select/deselect this option to display or remove them from each new sheet you create.</div>
+        <DIV class="HeadingRunIn" MadCap:conditions="MyImport.Combichem" MadCap:autonum=". &#160;">Show Full <MadCap:keyword term="Reaction" />Reaction for each product</DIV>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">By default, the reaction arrow and products appear on each Experiment worksheet. Select this option to display the full reaction on each new Experiment sheet.</div>
+        <div class="HeadingRunIn" MadCap:conditions="MyImport.Combichem" MadCap:autonum=". &#160;">Discard duplicate reactions in experiment</div>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">Select this option to discard all duplicate reactions in an experiment and save only unique ones.</div>
+        <DIV class="HeadingRunIn" MadCap:conditions="MyImport.Combichem" MadCap:autonum=". &#160;">Assign Compounds From</DIV>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">Assign rows and columns in plates. Choose<span class="Action_Object"> Left to Right </span>to assign well numbers by row (1-1, 1-2, 1-3, etc.). Choose <span class="Action_Object">Top to Bottom</span> to assign well numbers by column (1-1, 2-1, 3-1, etc.).</div>
+        <DIV class="HeadingRunIn" MadCap:conditions="MyImport.Combichem" MadCap:autonum=". &#160;">Plate Column Label</DIV>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">Assign numeric or alphabetic labels to plate columns.</div>
+        <DIV class="HeadingRunIn" MadCap:conditions="MyImport.Combichem" MadCap:autonum=". &#160;">Plate Row Label</DIV>
+        <div class="Body" MadCap:conditions="MyImport.Combichem">Assign numeric or alphabetic labels to plate rows.</div>
+    </body>
+</html>

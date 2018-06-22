@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc>
+  <TocEntry
+    Title="PDFCover"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/PDFCover.flpgl"
+    Link="/Content/PDFCover.htm"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    conditions="MyImport.For_PDF"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    PageType="first" />
+  <TocEntry
+    Title="Table Of Contents"
+    Link="/Content/MyImport/CDOnlineTOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/SingleColumnPrint.flpgl"
+    StartSection="false"
+    conditions="MyImport.For_PDF"
+    PageNumber="1"
+    PageNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="ChemDraw/Excel"
+    Link="/Content/MyImport/10-Excel.htm#10-Excel_3629383264_1071467"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/SingleColumnPrint.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="first"
+    conditions="MyImport.ChemDraw_Excel">
+    <TocEntry
+      Title="Setting Up ChemDraw/Excel"
+      Link="/Content/MyImport/10-Excel.htm#10-Excel_3629383264_1137669"
+      conditions="MyImport.ChemDraw_Excel" />
+    <TocEntry
+      Title="Importing Tables"
+      Link="/Content/MyImport/Importing Tables.htm#10-Excel_3629383264_1137559"
+      conditions="MyImport.ChemDraw_Excel" />
+    <TocEntry
+      Title="Importing Hit Lists"
+      Link="/Content/MyImport/Importing Hit Lists.htm#10-Excel_3629383264_1137580"
+      conditions="MyImport.ChemDraw_Excel" />
+    <TocEntry
+      Title="Exporting Tables"
+      Link="/Content/MyImport/Exporting Tables.htm"
+      conditions="MyImport.ChemDraw_Excel" />
+    <TocEntry
+      Title="Synchronizing Tables"
+      Link="/Content/MyImport/Synchronizing Tables.htm"
+      conditions="MyImport.ChemDraw_Excel" />
+    <TocEntry
+      Title="Adding Structures"
+      Link="/Content/MyImport/Adding Structures.htm#10-Excel_3629383264_1142329"
+      conditions="MyImport.ChemDraw_Excel">
+      <TocEntry
+        Title="Adding a Structure From a File"
+        Link="/Content/MyImport/Adding Structures.htm#10-Excel_3629383264_1126536"
+        conditions="MyImport.ChemDraw_Excel" />
+      <TocEntry
+        Title="SMILES Strings"
+        Link="/Content/MyImport/Adding Structures.htm#10-Excel_3629383264_1071819"
+        conditions="MyImport.ChemDraw_Excel" />
+      <TocEntry
+        Title="Inchi Strings"
+        Link="/Content/MyImport/Adding Structures.htm#10-Excel_3629383264_1156469"
+        conditions="MyImport.ChemDraw_Excel" />
+      <TocEntry
+        Title="Adding Structures by Name"
+        Link="/Content/MyImport/Adding Structures.htm#10-Excel_3629383264_1071845"
+        conditions="MyImport.ChemDraw_Excel"></TocEntry>
+      <TocEntry
+        Title="Undo/Redo"
+        Link="/Content/MyImport/UndoRedo.htm"
+        conditions="MyImport.ChemDraw_Excel" />
+      <TocEntry
+        Title="Saving Structures"
+        Link="/Content/MyImport/Adding Structures.htm#10-Excel_3629383264_1071865"
+        conditions="MyImport.ChemDraw_Excel"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Searching"
+      Link="/Content/MyImport/Searching.htm#10-Excel_3629383264_1101667"
+      conditions="MyImport.ChemDraw_Excel">
+      <TocEntry
+        Title="Opening a database"
+        Link="/Content/MyImport/Searching.htm#10-Excel_3629383264_1101991"
+        conditions="MyImport.ChemDraw_Excel" />
+      <TocEntry
+        Title="Normal Searches"
+        Link="/Content/MyImport/Searching.htm#10-Excel_3629383264_1123544"
+        conditions="MyImport.ChemDraw_Excel" />
+      <TocEntry
+        Title="Similarity Searches"
+        Link="/Content/MyImport/Searching.htm#10-Excel_3629383264_1102376"
+        conditions="MyImport.ChemDraw_Excel" />
+    </TocEntry>
+    <TocEntry
+      Title="R-Group Analysis"
+      Link="/Content/MyImport/R-Group Analysis.htm#10-Excel_3629383264_1102121"
+      conditions="MyImport.ChemDraw_Excel" />
+    <TocEntry
+      Title="Working with Structures"
+      Link="/Content/MyImport/Working with Structures.htm#10-Excel_3629383264_1102128"
+      conditions="MyImport.ChemDraw_Excel">
+      <TocEntry
+        Title="Renaming Structures"
+        Link="/Content/MyImport/Working with Structures.htm#10-Excel_3629383264_1072022"
+        conditions="MyImport.ChemDraw_Excel" />
+      <TocEntry
+        Title="Using the Clipboard"
+        Link="/Content/MyImport/Working with Structures.htm#10-Excel_3629383264_1072048"
+        conditions="MyImport.ChemDraw_Excel" />
+      <TocEntry
+        Title="Displaying Structures"
+        Link="/Content/MyImport/Working with Structures.htm#10-Excel_3629383264_1072082"
+        conditions="MyImport.ChemDraw_Excel" />
+      <TocEntry
+        Title="Editing Structures"
+        Link="/Content/MyImport/Editing Structures.htm"
+        conditions="MyImport.ChemDraw_Excel" />
+    </TocEntry>
+    <TocEntry
+      Title="ChemDraw/Excel Functions"
+      Link="/Content/MyImport/ChemDraw_Excel Functions.htm#10-Excel_3629383264_1134345"
+      conditions="MyImport.ChemDraw_Excel">
+      <TocEntry
+        Title="Predicting Druglikeness"
+        Link="/Content/MyImport/ChemDraw_Excel Functions.htm#10-Excel_3629383264_1159830"
+        conditions="MyImport.ChemDraw_Excel" />
+    </TocEntry>
+    <TocEntry
+      Title="Chemical Properties ChemDrawExcel"
+      Link="/Content/MyImport/Chemical Properties ChemDrawExcel.htm"
+      conditions="MyImport.ChemDraw_Excel">
+      <TocEntry
+        Title="Properties and Analysis"
+        Link="/Content/MyImport/Properties and Analysis.htm#10-Excel_3629383264_1142260"
+        conditions="MyImport.ChemDraw_Excel" />
+    </TocEntry>
+    <TocEntry
+      Title="Preferences"
+      Link="/Content/MyImport/Preferences.htm#10-Excel_3629383264_1151799"
+      conditions="MyImport.ChemDraw_Excel" />
+    <TocEntry
+      Title="CombiChem"
+      Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159200"
+      conditions="MyImport.Combichem">
+      <TocEntry
+        Title="Getting Started"
+        Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159204"
+        conditions="MyImport.Combichem" />
+      <TocEntry
+        Title="Configuring Plates"
+        Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159341"
+        conditions="MyImport.Combichem" />
+      <TocEntry
+        Title="Setting Preferences"
+        Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159393"
+        conditions="MyImport.Combichem" />
+    </TocEntry>
+    <TocEntry
+      Title="ChemFinder/Office"
+      Link="/Content/MyImport/ChemFinder_Office.htm#10-Excel_3629383264_1159408"
+      conditions="MyImport.Combichem">
+      <TocEntry
+        Title="ChemDraw for Excel"
+        Link="/Content/MyImport/ChemFinder_Office.htm#10-Excel_3629383264_1152124"
+        conditions="MyImport.Combichem" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/MyImport/r-group reaction.png" />
+    <Link
+      Url="Content/MyImport/reactant query.png" />
+    <Link
+      Url="Content/MyImport/reactant result.png" />
+    <Link
+      Url="Content/MyImport/product query.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/MyImport/r-group reaction.png" />
+    <Link
+      Url="Content/MyImport/reactant query.png" />
+    <Link
+      Url="Content/MyImport/reactant result.png" />
+    <Link
+      Url="Content/MyImport/product query.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Introducing the ChemScript API"
+      Conditions=""
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="ChemScript API"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="ChemScript Object Classes"
+      Conditions=""
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="ChemScript Object Classes"
+      Conditions=""
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Atom"
+      Conditions=""
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="Atom"
+      Conditions=""
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Bond"
+      Conditions=""
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Bond"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="Molecule (Mol)"
+      Conditions=""
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="Molecule (Mol)"
+      Conditions=""
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="Reaction (Rxn)"
+      Conditions=""
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="Reaction (Rxn)"
+      Conditions=""
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="Functions and Algorithms"
+      Conditions=""
+      LocalConditions=""
+      Position="35" />
+    <IndexCacheEntry
+      Term="Functions and Algorithms"
+      Conditions=""
+      LocalConditions=""
+      Position="36" />
+    <IndexCacheEntry
+      Term="Template Based Normalization"
+      Conditions=""
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="Template Based Product Generation"
+      Conditions=""
+      LocalConditions=""
+      Position="42" />
+    <IndexCacheEntry
+      Term="Substructure Identification and Mapping"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="Salt Stripping"
+      Conditions=""
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="Salt Stripping"
+      Conditions=""
+      LocalConditions=""
+      Position="49" />
+    <IndexCacheEntry
+      Term="Structure Orientation"
+      Conditions=""
+      LocalConditions=""
+      Position="52" />
+    <IndexCacheEntry
+      Term="Structure Orientation"
+      Conditions=""
+      LocalConditions=""
+      Position="53" />
+    <IndexCacheEntry
+      Term="2D Structure Generation and Cleanup"
+      Conditions=""
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="2D Structure Generation and Cleanup"
+      Conditions=""
+      LocalConditions=""
+      Position="57" />
+    <IndexCacheEntry
+      Term="Canonical Codes"
+      Conditions=""
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="Canonical Codes"
+      Conditions=""
+      LocalConditions=""
+      Position="61" />
+    <IndexCacheEntry
+      Term="File Format Conversion"
+      Conditions=""
+      LocalConditions=""
+      Position="64" />
+    <IndexCacheEntry
+      Term="File Format Conversion"
+      Conditions=""
+      LocalConditions=""
+      Position="65" />
+    <IndexCacheEntry
+      Term="Name and Structure Conversion"
+      Conditions=""
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="Name and Structure Conversion"
+      Conditions=""
+      LocalConditions=""
+      Position="69" />
+    <IndexCacheEntry
+      Term="Molecular Mechanics"
+      Conditions=""
+      LocalConditions=""
+      Position="74" />
+    <IndexCacheEntry
+      Term="Molecular Mechanics"
+      Conditions=""
+      LocalConditions=""
+      Position="75" />
+    <IndexCacheEntry
+      Term="The ChemScript API online"
+      Conditions=""
+      LocalConditions=""
+      Position="78" />
+    <IndexCacheEntry
+      Term="ChemScript API"
+      Conditions=""
+      LocalConditions=""
+      Position="79" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Why use ChemScript?"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="Salt splitting and stripping"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="Salt splitting"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Canonical codes"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Canonical Codes"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="File format conversion"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="File Format Conversion"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="20" />
+    <IndexCacheEntry
+      Term="Generate properties"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Generate properties"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="Common scaffold orientation"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="Common scaffold orientation"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="2D Structure Diagram Generation (SDG) and Cleanup"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="31" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

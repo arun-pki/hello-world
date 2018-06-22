@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Default.PrintOnly" MadCap:lastBlockDepth="4" MadCap:lastHeight="2053" MadCap:lastWidth="647" MadCap:disableMasterStylesheet="true" MadCap:tocPath="ChemScript" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+    <head><title>Tutorials</title>
+        <link href="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Stylesheets/Cambridgesoft1.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h2 class="Heading2" MadCap:xrefTargetName="Tutorials"><a MadCap:generatedBookmark="TOC" name="Tutorials"></a><a name="chemscript_680541004_40147"></a>
+            <MadCap:keyword term="Tutorials" />Tutorials</h2>
+        <div class="Body">We provide several sample scripts to illustrate how you can develop your own custom code to meet your business needs. Many of the scripts we use are in the ChemScript samples directory. By default, this directory is where ChemOffice 2018  auxillary files are installed:</div>
+        <DIV class="Body">On Windows 7 and 8:</DIV>
+        <Div><span class="Code">C:\ProgramData\PerkinElmerInformatics\ChemOffice2018\ChemScript\Examples\</span>
+        </Div>
+        <div class="Body">For the sake of brevity, we won’t repeat the scripts in this manual or try to teach <MadCap:keyword term="Python" />Python. However, we briefly describe what you can do with the code examples so that you can modify and expand upon them for your own use. As you read the tutorials, you are encouraged to view the code in IDLE and edit it as desired to see how each example works. For more on IDLE, see <MadCap:xref href="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Content/ChemScript chapter/htm topics/Getting_Started.htm" MadCap:xrefTarget="Getting Started_..3">"Getting Started" on page 1</MadCap:xref>.</div>
+        <h4 class="Heading4">Example 1: Automated Structure Clean up</h4>
+        <div class="Body">This sample script cleans up the structures in multiple ChemDraw files all at the same time. It uses the same cleanup function that is in ChemDraw. The script is in the directory <span class="Code">Example.001/script.py</span>. The script reads the CDX structure files from a source directory, applies the cleanup feature to each structure, and write the modified files to an output directory. The original files remain unchanged.</div>
+        <p>
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemScript chapter/Images/1_2.jpg" style="width: 277.9997px;height: 111.9994px;margin-top: 1.41768px;margin-right: 0.7732831px;" />
+        </p>
+        <p class="Caption1" MadCap:autonum="Figure 1.1: ">The structure cleanup script reads a structure file (left) and creates a new, cleaned up structure file (right).</p>
+        <div class="Body">This example uses the CDXML format. Other formats, such as MDL MOL, may also be applied. You can also force ChemScript to use specific file formats for reading and writing data.</div>
+        <h4 class="Heading4">
+            <MadCap:keyword term="Create an SD file" />Example 2: Create an SD file</h4>
+        <div class="Body">This example illustrates how you can <MadCap:keyword term="Create an SD file" />create an SD file from existing CDXML files. You can find the script at <span class="Code">Example.002/script.py</span>. We begin with a list of CDXML files that each contain a chemical structure. The list of files is hard-coded into the ChemScript script. When executed, the script uses the <span class="Code">SDFileWriter</span> method to create an SD file that includes all the structures.</div>
+        <h4 class="Heading4">
+            <MadCap:keyword term="Create a list of CDXML files" />Example 3: Create a list of CDXML files</h4>
+        <div class="Body">This example illustrates how to read an SD file and write a list of CDXML files. You can find the source file at <span class="Code">Example.003/script.py</span>.</div>
+        <h4 class="Heading4">
+            <MadCap:keyword term="Filter an SD file" />Example 4: Filter an SD file</h4>
+        <div class="Body">This example uses the <span class="Code">atomByAtomSearch</span> method to demonstrate a simple application of the "atom-by-atom" substructure search in ChemScript. The program reads an SD file and filters structures into one of two output SD files, structures that contain a phenyl group and structures that don’t. It also illustrates how you can read chemical data formatted as a SMILES string. See <span class="Code">Example.004/script.py</span>.</div>
+        <h4 class="Heading4">Example 5: <MadCap:keyword term="Computing Canonical Codes" />Computing Canonical Codes</h4>
+        <div class="Body">This example script checks whether any structures appear in both of two SD files based on the structures’ canonical codes. The output is a new SD file with the duplicate structures excluded. See <span class="Code">Example.005/script.py</span>.</div>
+        <div class="Body">This example first computes the canonical code for each structure. Since the canonical code does not vary with different representations of the same chemical structure, you can use it to determine whether two structures are chemically equivalent.</div>
+        <div class="Body">This example also introduces the Python Dictionary, which is an associative array. The dictionary maps a key to a value. The dictionary is used to determine whether a canonical code has been previously encountered.</div>
+        <div class="Body">This example uses an alternate looping construct to read an SD file.</div>
+        <blockquote class="Caution">
+            <MadCap:keyword term="Canonical Codes" />Canonical codes should never be permanently stored because their representation can change among different versions of ChemScript.</blockquote>
+        <h4 class="Heading4">
+            <MadCap:keyword term="Simple salt stripping" />
+        </h4>
+        <h4 class="Heading4">
+            <MadCap:keyword term="Structure Overlay" />Example 6: Structure Overlay</h4>
+        <div class="Body">This script introduces the ChemScript structure overlay feature. It uses a scaffold structure file to superimpose two chemically similar structures. The script first examines the structures in an SD file that contain a common scaffold substructure. It then aligns these structures so that they have the same orientation with respect to the scaffold. See <span class="Code">Example.006/script.py</span>.</div>
+        <div class="Note" MadCap:autonum=" &lt;b&gt;Note: &lt;/b&gt; ">The overlay functionality can also be used to align three dimensional structures.</div>
+        <h4 class="Heading4">
+            <MadCap:keyword term="Reaction Transformation" />Example 7: Reaction Transformation</h4>
+        <div class="Body">This example demonstrates <MadCap:keyword term="Reaction Transformation" />reaction transformation. This means that you can draw a reaction that defines a transformation of a molecule and then apply that transformation to a set of structure files.</div>
+        <div class="Body">All the files necessary for this tutorial are in the <span class="Code">Example.007</span> directory. The <span class="Code">transform1.cdxml</span> file provides the reaction that defines the transformation. The input.sdf file contains all the structures that will be transformed.</div>
+        <p>
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemScript chapter/Images/1_3.jpg" style="width: 279px;height: 82.99968px;margin-left: 0.5004px;margin-top: 0.5004px;" />
+        </p>
+        <p class="Caption" MadCap:autonum="Figure 1.2: "><a name="chemscript_680541004_60909"></a>The transform file defines how the transformation is applied to the source structures.</p>
+        <div class="Body">The script searches the input file for structures that contain a nitro group, shown as a reactant in the transformation file. If a structure is found, the script transforms the nitro group to the form shown in the product and copies the entire structure to a new file. The figure below shows one example.</div>
+        <p>
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemScript chapter/Images/1_4.jpg" style="width: 274.9997px;height: 159px;margin-left: 1.75032px;margin-top: 0.22392px;margin-right: 0.2239232px;margin-bottom: 0.3045529px;" />
+        </p>
+        <p class="Caption" MadCap:autonum="Figure 1.3: ">A) before the transformation is applied; B) after transformation.</p>
+        <div class="Body">Structures that don’t meet the search criteria are ignored.</div>
+        <h4 class="Heading4">Example 8: Simple <MadCap:keyword term="Salt Stripping"></MadCap:keyword>salt stripping</h4>
+        <div class="Body">The program reads an SD File, identifies and removes salt components (if any are present), and outputs two SD files. The output structure file contains the original structures without the salt component, and the output salt file contains the salt components that were stripped, along with a reference to the original structure. See <span class="Code">Example.008/script.py</span>.</div>
+        <div class="Note" MadCap:autonum=" &lt;b&gt;Note: &lt;/b&gt; ">This example uses a default set of salts that PerkinElmer provides. However, you can also define a customized salt table that enables you to designate which chemicals are considered salts. </div>
+    </body>
+</html>

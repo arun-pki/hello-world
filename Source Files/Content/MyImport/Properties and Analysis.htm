@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="MyImport.ChemDraw_Excel" MadCap:lastBlockDepth="6" MadCap:lastHeight="6263" MadCap:lastWidth="987" MadCap:ignoredWords="LogP;Ovality;MOLECULAR_NETWORKS_PKa">
+    <head>
+        <link href="../Resources/Stylesheets/Cambridgesoft1.css" rel="stylesheet" />
+    </head>
+    <body>
+        <H2 class="Heading2"><a name="10-Excel_3629383264_1142260"></a>
+            <MadCap:namedDestination name="PropertiesAnalysis" />Property predictions in ChemDraw/Excel</H2>
+        <div class="Body">ChemDraw/Excel includes a variety of functions for reporting properties for a given structure. Each property is calculated using the “best available” method.</div>
+        <div class="Body">To view the properties for a given structure:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Select the structure cell.</div>
+        <div class="numlist1-last" MadCap:autonum="2. ">Right-click the cell and select <span class="Action_Object">Structure&gt;Properties</span> from the context-menu.The Properties dialog box displaying various properties and its values appears.</div>
+        <div class="Body">The properties include:</div>
+        <table style="border-collapse: separate;caption-side: top;border-spacing: 6px 6px;border-left-style: none;border-right-style: none;border-top-style: none;border-bottom-style: none;margin-left: 0;margin-right: auto;">
+            <col style="width: 273px;">
+            </col>
+            <col style="width: 229px;">
+            </col>
+            <col style="width: 254px;">
+            </col>
+            <col style="width: 201px;">
+            </col>
+            <tbody>
+                <tr>
+                    <td><b style="color: #ff0000;">B</b>
+                    </td>
+                    <td><b style="color: #ff0000;">F</b>
+                    </td>
+                    <td style="color: #ff0000;font-weight: bold;"><span style="font-weight: normal;"><MadCap:xref href="#LogP" target="" title="" alt="" class="PropertyLink">MOLECULAR_NETWORKS_LogP</MadCap:xref></span>
+                    </td>
+                    <td><b style="color: #ff0000;">S</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Balaban" target="" title="" alt="" class="PropertyLink">Balaban Index</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Formal" target="" title="" alt="" class="PropertyLink">Formal Charge</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#LOGS" target="" title="" alt="" class="PropertyLink">MOLECULAR_NETWORKS_LOGS</MadCap:xref>
+                    </td>
+                    <td style="color: #ff0000;">
+                        <MadCap:xref href="#Shape" target="" title="" alt="" class="PropertyLink">Shape Attribute</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Boiling" target="" title="" alt="" class="PropertyLink">Boiling Point</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Freezing" target="" title="" alt="" class="PropertyLink">Freezing Point</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Pka" target="" title="" alt="" class="PropertyLink">MOLECULAR_NETWORKS_PKa</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Shape2" target="" title="" alt="" class="PropertyLink">Shape Coefficient</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td><b style="color: #ff0000;">C</b>
+                    </td>
+                    <td><b style="color: #ff0000;">G</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Mol" target="" title="" alt="" class="PropertyLink">Molecular Formula</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Sum" target="" title="" alt="" class="PropertyLink">Sum Of Degrees</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 8pt;">
+                        <MadCap:xref href="#Cluster" target="" title="" alt="" class="PropertyLink">Cluster Count</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Gibbs" target="" title="" alt="" class="PropertyLink">Gibbs Free Energy</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Mol3" target="" title="" alt="" class="PropertyLink">Molecular Weight</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Sum2" target="" title="" alt="" class="PropertyLink">Sum of Valence Degrees</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 8pt;">
+                        <MadCap:xref href="#Connolly" target="" title="" alt="" class="PropertyLink">Connolly Accessible Area</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">H</b>
+                    </td>
+                    <td><b style="color: #ff0000;">N</b>
+                    </td>
+                    <td><b style="color: #ff0000;">T</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 8pt;">
+                        <MadCap:xref href="#connolly4" target="" title="" alt="" class="PropertyLink">Connolly Molecular Surface Area</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Heat2" target="" title="" alt="" class="PropertyLink">Heat of Formation</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Num" target="" title="" alt="" class="PropertyLink">Num Rotatable Bonds</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Topologi" target="" title="" alt="" class="PropertyLink">Topological Diameter</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 8pt;">
+                        <MadCap:xref href="#connolly5" target="" title="" alt="" class="PropertyLink">Connolly Solvent Accessible Surface Area</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Henrys" target="" title="" alt="" class="PropertyLink">Henry’s Law Constant</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">O</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Total" target="" title="" alt="" class="PropertyLink">Total Connectivity</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 8pt;">
+                        <MadCap:xref href="#Connolly3" target="" title="" alt="" class="PropertyLink">Connolly Solvent Excluded Volume</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">I</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Ovality" target="" title="" alt="" class="PropertyLink">Ovality</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Total3" target="" title="" alt="" class="PropertyLink">Total Valence Connectivity</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 8pt;">
+                        <MadCap:xref href="#Critical" target="" title="" alt="" class="PropertyLink">Critical Pressure</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Ideal" target="" title="" alt="" class="PropertyLink">Ideal Gas Thermal Capacity</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">P</b>
+                    </td>
+                    <td><b style="color: #ff0000;">V</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 8pt;">
+                        <MadCap:xref href="#Critical2" target="" title="" alt="" class="PropertyLink">Critical Temperature</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">M</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Polar" target="" title="" alt="" class="PropertyLink">Polar Surface Area</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Vapor" target="" title="" alt="" class="PropertyLink">Vapor Pressure</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 8pt;">
+                        <MadCap:xref href="#Critical3" target="" title="" alt="" class="PropertyLink">Critical Volume</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Mass" target="" title="" alt="" class="PropertyLink">Mass</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Principa" target="" title="" alt="" class="PropertyLink">Principal Moment Of Inertia</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">W</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td><b style="color: #ff0000;">E</b>
+                    </td>
+                    <td>
+                        <p>
+                            <MadCap:xref href="#Melting" target="" title="" alt="" class="PropertyLink">Melting point</MadCap:xref>
+                        </p>
+                    </td>
+                    <td><b style="color: #ff0000;">R</b>
+                    </td>
+                    <td>
+                        <p>
+                            <MadCap:xref href="#Water" target="" title="" alt="" class="PropertyLink">Water Solubility</MadCap:xref>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Exact" target="" title="" alt="" class="PropertyLink">Exact Mass</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#MR" target="" title="" alt="" class="PropertyLink">Molar Refractivity</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Radius" target="" title="" alt="" class="PropertyLink">Radius</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Wiener" target="" title="" alt="" class="PropertyLink">Wiener Index</MadCap:xref>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="Body">
+            <H3 class="Heading3">About molecular networks</H3>
+            <DIV class="Body">*MOSES.pKa, MOSES.logS and MOSES.logP for predicting acid dissociation constants, aqueoues solubility and octanol/water distribution coefficients of chemical compounds are computational calculator modules based on Molecular Networks' chemoinformatics platform MOSES. MOSES is developed, maintained and owned by Molecular Networks GmbH, Erlangen, Germany. For further information please visit <a href="http://www.molecular-networks.com/moses" target="_blank">www.molecular-networks.com/moses</a>. All rights reserved. Molecular Networks GmbH, Erlangen, Germany (<a href="http://www.molecular-networks.com/" target="_blank">www.molecular-networks.com</a>).</DIV>
+            <h5 class="PropertyName"><a name="Balaban"></a>Balaban index</h5>
+        </div>
+        <p>
+            <img src="BalabanIndex.png" style="width: 161px;height: 54px;" />
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st">q is the number of edges in the molecular graph.</div>
+        <div class="Bullet1-inner">
+            <img src="../Resources/Images/mu_symbol.png" />= (q-n+1) is the cyclomatic number of molecular graph.</div>
+        <div class="Bullet1-inner">n is the number of atoms in the molecular graph.</div>
+        <div class="Bullet1-last">S<span class="_Override" style="font-size: 80%;vertical-align: sub;">i</span> is the sum of all entries in the i<span class="_Override" style="font-size: 80%;vertical-align: super;">th</span> row (or column) of the topological distance matrix of the molecule. The distance matrix stores the shortest path between all pairs of atoms.</div>
+        <h5 class="PropertyName"><a name="Boiling"></a>
+            <MadCap:keyword term="boiling point">
+            </MadCap:keyword>Boiling point</h5>
+        <div class="Body">The boiling point is report in Kelvin.</div>
+        <div class="Body">A solution boils at a slightly higher temperature than the pure solvent. The change in boiling point is calculated using the formula:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="BoilingPoint.png" style="width: 106px;height: 42px;" />
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">Where K<span class="_Override" style="font-size: 80%;vertical-align: sub;">b</span> is the molal boiling point constant, m is the concentration of the solute expressed as molality, and <span class="_Override" style="font-family: Symbol;">D</span>T<span class="_Override" style="font-size: 80%;vertical-align: sub;">b</span> is the change in temperature.</div>
+        <h5 class="PropertyName"><a name="Cluster"></a>
+            <MadCap:keyword term="cluster count">
+            </MadCap:keyword>Cluster count</h5>
+        <div class="Body">Is the number of paths of a given length in the distance matrix.</div>
+        <h5 class="PropertyName"><a name="Connolly"></a>
+            <MadCap:keyword term="Connolly accessible area">
+            </MadCap:keyword>Connolly accessible area</h5>
+        <div class="Body">This is the locus of the center of a spherical probe (representing the solvent) as it is rolled over the molecular model.</div>
+        <h5 class="PropertyName"><a name="connolly4"></a>
+            <MadCap:keyword term="Connolly molecular surface area" />Connolly molecular surface area</h5>
+        <div class="Body">The contact surface created when a spherical probe (representing the solvent) is rolled over the molecular model. Units Angstroms<span class="_Override" style="font-size: 80%;vertical-align: super;">2</span>.</div>
+        <h5 class="PropertyName"><a name="connolly5"></a>
+            <MadCap:keyword term="Connolly solvent accessible surface area" />Connolly solvent accessible surface area</h5>
+        <div class="Body">The locus of the center of a spherical probe (representing the solvent) as it is rolled over the molecular model. Units Angstroms<span class="_Override" style="font-size: 80%;vertical-align: super;">2</span>.</div>
+        <h5 class="PropertyName"><a name="Connolly3"></a>
+            <MadCap:keyword term="Connolly solvent excluded Vvolume">
+            </MadCap:keyword>Connolly solvent excluded volume</h5>
+        <div class="Body">This is the volume of space bounded by the solvent accessible molecular surface.</div>
+        <h5 class="PropertyName"><a name="Critical"></a>
+            <MadCap:keyword term="critical pressure">
+            </MadCap:keyword>Critical pressure</h5>
+        <div class="Body">Reported in bars, this is the least applied pressure required at the critical temperature to liquefy a gas.</div>
+        <h5 class="PropertyName"><a name="Critical2"></a>
+            <MadCap:keyword term="critical temperature">
+            </MadCap:keyword>Critical temperature</h5>
+        <div class="Body">Reported in Kelvin, this is the temperature above which a gas cannot be liquefied, regardless of the pressure applied.</div>
+        <h5 class="PropertyName"><a name="Critical3"></a>
+            <MadCap:keyword term="critical volume">
+            </MadCap:keyword>Critical volume</h5>
+        <div class="Body">Reported in cm<sup class="superscript">3</sup>/mol, this is the volume occupied by one mole of a substance at the critical temperature and pressure.</div>
+        <h5 class="PropertyName"><a name="Exact"></a>
+            <MadCap:keyword term="exact mass">
+            </MadCap:keyword>Exact mass</h5>
+        <div class="Body">This is the sum of the masses of the individual isotopes in the molecule. For example, the exact mass of water containing two hydrogen-1 (1H) and one oxygen-16 (16O) is 1.0078 + 1.0078 + 15.9994 = 18.0106. The exact mass of heavy water, containing two hydrogen-2 (deuterium or 2H) and one oxygen-16 (16O) is 2.014 + 2.014 + 15.9994 = 20.027.</div>
+        <h5 class="PropertyName"><a name="Formal"></a>
+            <MadCap:keyword term="formal charge">
+            </MadCap:keyword>Formal charge</h5>
+        <div class="Body">This is the charge assigned to an atom in a molecule, assuming that electrons in a chemical bond are shared equally between atoms, regardless of relative electronegativity.</div>
+        <div class="Body">The formal charge of any atom in a molecule can be calculated using the formula:</div>
+        <div class="Body">FC=V-N-B/2</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">Where ‘V’ is the number of valence electrons of the atom in isolation (atom in ground state); ‘N’ is the number of non-bonding electrons on this atom in the molecule; and ‘B’ is the total number of electrons shared in covalent bonds with other atoms in the molecule.</div>
+        <h5 class="PropertyName"><a name="Freezing"></a>Freezing point</h5>
+        <div class="Body">The freezing point for the structure at 1 atm. Units Kelvin.</div>
+        <h5 class="PropertyName"><a name="Gibbs"></a>Gibbs free energy<MadCap:keyword term="Gibbs free energy"></MadCap:keyword></h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">{need to understand this better. The CRC handbook (77th edition, page 5-31), states the Gibbs energy as -32KJ/mol for ethane(gas) at 1Bar and 298K where <MadCap:variable name="MyImport.Prod_CD"></MadCap:variable> states it as 34Kcal/mole (a positive number) in the GAMESS interface and -34KJ/mol (a negative number and different units) in the property broker. As a result, none of the values agree.}</div>
+        <div class="Body">Reported in KJ/mole, Gibbs free energy is defined as:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="GibbsFreeEnergy.png" style="width: 147px;height: 31px;" />
+        </p>
+        <div class="Body">which is same as:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="GibbFreeEnergy2.png" style="width: 105px;height: 31px;" />
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st">U is the internal energy (SI unit: Joule) </div>
+        <div class="Bullet1-inner">p is pressure (SI unit: Pascal) </div>
+        <div class="Bullet1-inner">V is volume (SI unit: m3) </div>
+        <div class="Bullet1-inner">T is the temperature (SI unit: Kelvin) </div>
+        <div class="Bullet1-inner">S is the entropy (SI unit: joule per Kelvin) </div>
+        <div class="Bullet1-last">H is the enthalpy (SI unit: Joule) </div>
+        <div class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">H and S are thermodynamic values found at standard temperature and pressure..</div>
+        <h5 class="PropertyName"><a name="Heat2"></a>
+            <MadCap:keyword term="heat of formation">
+            </MadCap:keyword>Heat of formation</h5>
+        <div class="Body">Reported in KJ/mole, the heat of formation is the increase in enthalpy resulting from the formation of one mole of a substance from its constituent elements at constant pressure.</div>
+        <h5 class="PropertyName"><a name="Henrys"></a>
+            <MadCap:keyword term="Henry’s Law constant">
+            </MadCap:keyword>Henry’s Law constant</h5>
+        <div class="Body">A unitless value, Henry's Law Constant can be expressed as:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="HenrysLawConstant.png" style="width: 103px;height: 48px;" />
+        </p>
+        <div class="Body">Where ‘p’ is the partial pressure of the solute in the gas above the solution, ‘c’ is the concentration of the solute and ‘k<span class="_Override" style="font-size: 80%;vertical-align: sub;">H,pc</span>’ is a constant with the dimensions of pressure divided by concentration. The constant, known as the Henry's law constant, depends on the solute, solvent, and temperature.</div>
+        <h5 class="PropertyName"><a name="Ideal"></a>
+            <MadCap:keyword term="ideal gas thermal capacity">
+            </MadCap:keyword>Ideal gas thermal capacity</h5>
+        <div class="Body">The thermal capacity at constant volume of an ideal gas is:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="IdealGasThermalCapacity.png" />
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st">c<span class="_Override" style="font-size: 80%;vertical-align: sub;">V</span> is a constant dependent on temperature </div>
+        <div class="Bullet1-inner">U is the internal energy</div>
+        <div class="Bullet1-inner">T is the absolute temperature</div>
+        <div class="Bullet1-inner">V is the volume </div>
+        <div class="Bullet1-inner">n is the amount of substance of the gas </div>
+        <div class="Bullet1-inner">R is the gas constant (8.314 J·K−1mol-1 in SI units) </div>
+        <div class="Bullet1-inner">N is the number of gas particles </div>
+        <div class="Bullet1-last">k<sub class="subscript">B</sub> is the Boltzmann constant (1.381×10−23J·K−1 in SI units)</div>
+        <div class="Body">The thermal capacity at constant pressure of an ideal gas is:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="IdealGasThermalCapacity2.png" style="width: 192px;height: 46px;" />
+        </p>
+        <div class="Body">Where ‘H’ is the enthalpy of the gas, calculated as: H = U + pV.</div>
+        <h5 class="PropertyName"><a name="LogP"></a>
+            <MadCap:keyword term="LogP" />MOLECULAR_NETWORKS_LOGP</h5>
+        <div class="Body">The partition coefficient is a ratio of concentrations of un-ionized compound between two solutions. To measure the partition coefficient of ionizable solutes, the pH of the aqueous phase is adjusted so that the predominant form of the compound is un-ionized. The logarithm of the ratio of the concentrations of the un-ionized solute in the solvents is called LogP.</div>
+        <div class="Body">Normally, one of the solvents chosen is water; the second is hydrophobic, such as octanol.</div>
+        <h5 class="PropertyName"><a name="LOGS"></a>MOLECULAR_NETWORKS_LOGS</h5>
+        <DIV class="Body">MOLECULAR_NETWORKS_LogS determines the solubility of a substance, measured in mol/liter. The aqueous solubility of a compound is known to significantly affect absorption and distribution characteristics of that compound.</DIV>
+        <h5 class="PropertyName"><a name="Pka"></a>MOLECULAR_NETWORKS_PKa</h5>
+        <p>MOLECULAR_NETWORKS_PKa is the negative log of the acid dissociation constant Ka. It describes the tendency of compounds or ions to dissociate in solution.</p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <h5 class="PropertyName"><a name="Mass"></a>
+            <MadCap:keyword term="mass">
+            </MadCap:keyword>Mass</h5>
+        <div class="Body">This is the mass of one molecule of a substance, relative to the unified atomic mass unit u (equal to 1/12 the mass of one atom of 12C). Also called molecular mass.</div>
+        <h5 class="PropertyName"><a name="Melting"></a>Melting point</h5>
+        <div class="Body">Is the temperature at which a solid becomes a liquid at standard atmospheric pressure. At the melting point, the solid and liquid phase exist in equilibrium. The formula to calculate melting point is:</div>
+        <p>
+            <img src="MeltingPoint.png" style="width: 66px;height: 49px;">
+            </img>
+        </p>
+        <div class="Body">Where ‘T’ is the temperature at the melting point, ‘<span class="_Override" style="font-family: Symbol;">D</span>S’ is the change in entropy of melting, and ‘<span class="_Override" style="font-family: Symbol;">D</span>H’ is the change in enthalpy of melting.</div>
+        <h5 class="PropertyName"><a name="Chemical_Properties_575597764_1197612"></a><a name="MR"></a>
+            <MadCap:keyword term="mol refractivity">
+            </MadCap:keyword>Molar refractivity</h5>
+        <div class="Body">Is a measure of the total polarizability of one mole of a substance. It is dependent on the temperature, index of refraction, and pressure.</div>
+        <div class="Body">The molar refractivity, ‘A’ is expressed as:</div>
+        <p>
+            <img src="MolRefractivity.png" style="width: 114px;height: 45px;" />
+        </p>
+        <div class="Body">Where ‘N<span class="_Override" style="font-size: 80%;vertical-align: sub;">A</span>’ is the Avogadro constant and <span class="_Override" style="font-family: Symbol;">a</span> is the mean polarizability.</div>
+        <h5 class="PropertyName"><a name="Mol"></a>
+            <MadCap:keyword term="mol formula">
+            </MadCap:keyword>Molecular formula</h5>
+        <div class="Body">This is the molecular formula of the compound.</div>
+        <div class="Body">&#160;</div>
+        <h5 class="PropertyName"><a name="Mol3"></a>
+            <MadCap:keyword term="mol weight">
+            </MadCap:keyword>Molecular weight</h5>
+        <div class="Body">This is the sum of the atomic weights of all atoms in a molecule.</div>
+        <h5 class="PropertyName"><a name="Num"></a>Num rotatable bonds<MadCap:keyword term="number rotatable bonds;rotatable bonds"></MadCap:keyword></h5>
+        <div class="Body">Is the number of rotatable bonds in a molecule. A rotatable bond is defined as an acyclic bond drawn as a single bond (amide C-N bonds, O=C--N, are rotatable) where the atom on each end has at least one other non-hydrogen substituent. This topological parameter is a measure of molecular flexibility. Unsaturated bonds, and single bonds connected to hydrogens or terminal atoms, single bonds of amides, sulphonamides, and those connecting two hindered aromatic rings (having at least three ortho substituents) are considered non-rotatable.</div>
+        <h5 class="PropertyName"><a name="Ovality"></a>Ovality<MadCap:keyword term="ovality"></MadCap:keyword></h5>
+        <div class="Body">This refers to a measure of how the shape of a molecule approaches a sphere (at one extreme) or a cigar shape (at the other). Ovality is described by a ratio of volume to area:</div>
+        <p>
+            <img src="Ovality.png" style="width: 247px;height: 33px;" />
+        </p>
+        <div class="Body">Where ‘A’ is area, ‘V’ is Volume, and ‘O’ is Ovality.</div>
+        <div class="Body">The ovality of a helium atom is 1.0 and HC<sub class="subscript">24</sub>H (12 triple bonds) is ~1.7 (equivalent to 1.7).</div>
+        <h5 class="PropertyName"><a name="Polar"></a>Polar surface area<MadCap:keyword term="polar surface area"></MadCap:keyword></h5>
+        <div class="Body">The Polar Surface Area (PSA) is defined as the surface sum over all polar atoms </div>
+        <h5 class="PropertyName"><a name="Principa"></a>
+            <MadCap:keyword term="principal moment">
+            </MadCap:keyword>Principal moment Of inertia</h5>
+        <div class="Body">This refers to the principal moments of inertia about the principal axes of 	a molecule. The moments of inertia are computed for a series of straight lines through the center of mass using the formula:</div>
+        <p>
+            <img src="PrincipalMoment.png" style="width: 107px;height: 60px;" />
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">Where, ‘I’ is the moment of inertia, ‘m<span class="_Override" style="font-size: 80%;vertical-align: sub;">i</span>’s are point masses whose distances from the rotation axis are denoted by ‘d<span class="_Override" style="font-size: 80%;vertical-align: sub;">i</span>’s.</p>
+        <div class="Bullet1-1st">Distances are established along each line proportional to the reciprocal of the square root of I on either side of the center of mass. The locus of these distances forms an ellipsoidal surface. The principal moments are associated with the principal axes of the ellipsoid. </div>
+        <div class="Bullet1-last">If all three moments are equal, the molecule is considered to be a symmetrical top. If no moments are equal, the molecule is considered to be an asymmetrical top. </div>
+        <h5 class="PropertyName"><a name="Radius"></a>Radius<MadCap:keyword term="radius"></MadCap:keyword></h5>
+        <div class="Body">The eccentricity of an atom is the largest value in its row (or column) of the distance matrix, and represents how far away from the molecular center it resides.</div>
+        <div class="Body">The diameter (D) is the maximum such value for all atoms, and is held by the most outlying atom(s). Examples: Diameter of methane = 0; ethane = 1; propane = 2; n-butane = 3.</div>
+        <div class="Body">The radius R is the minimum such value, and is held by the most central atom(s). Examples: Radius of methane = 0; ethane = 1; propane = 1; n-butane = 2.</div>
+        <h5 class="PropertyName"><a name="Shape"></a>Shape attribute<MadCap:keyword term="shape attribute;branching, calculating"></MadCap:keyword></h5>
+        <div class="Body">The shape attribute (kappa) measures the branching of a molecule, and is scaled so as to fall between the minimum and maximum values possible for the given order. The first-order shape attribute counts the number of one-bond paths. The second-order attribute counts the number of two-bond paths, and so on. The first three orders (1..3) are available.</div>
+        <h5 class="PropertyName"><a name="Shape2"></a>Shape coefficient<MadCap:keyword term="shape coefficient"></MadCap:keyword></h5>
+        <div class="Body">The shape coefficient, I is given by:</div>
+        <div class="Body">
+            <img src="ShapeCoefficient.png" style="width: 104px;height: 32px;" />
+        </div>
+        <div class="Body">Where the diameter (D) is the maximum such value for all atoms, and is held by the most outlying atom(s). The radius (R) is the minimum such value, and is held by the most central atom(s). </div>
+        <div class="Body"> Examples values for D: methane = 0; ethane = 1; propane = 2; n-butane = 3.</div>
+        <p> Example values for R: Radius: methane = 0; ethane = 1; propane = 1; n-butane = 2.</p>
+        <h5 class="PropertyName"><a name="Sum"></a>Sum Of degrees<MadCap:keyword term="sum of degrees"></MadCap:keyword></h5>
+        <div class="Body">Is the sum of degrees of every atom. An atom’s degree is the number of nonhydrogen atoms to which it is bonded.</div>
+        <h5 class="PropertyName"><a name="Sum2"></a>Sum of valence degrees<MadCap:keyword term="sum of valence degrees"></MadCap:keyword></h5>
+        <div class="Body">Is the sum of degrees of every atom. An atom’s valence degree is equal to the sum of its adjacent bonds' orders, including hydrogens.
+
+</div>
+        <h5 class="PropertyName"><a name="Topologi"></a>Topological diameter<MadCap:keyword term="topological diameter"></MadCap:keyword></h5>
+        <div class="Body">Is the longest dimension of a molecule.</div>
+        <h5 class="PropertyName"><a name="Total"></a>Total connectivity<MadCap:keyword term="total connectivity"></MadCap:keyword></h5>
+        <div class="Body">Is the connectivity considered over all the heteroatoms.</div>
+        <h5 class="PropertyName"><a name="Total3"></a>Total Valence Connectivity<MadCap:keyword term="total valence connectivity"></MadCap:keyword></h5>
+        <div class="Body">Is the valence connectivity considered over all the heteroatoms. </div>
+        <h5 class="PropertyName"><a name="Vapor"></a>
+            <MadCap:keyword term="vapor pressure">
+            </MadCap:keyword>Vapor pressure</h5>
+        <div class="Body">Is the pressure exerted by a vapor in equilibrium with its solid or liquid phase. Vapor pressure measures the concentration of solvent molecules in the gas phase.</div>
+        <div class="Body">Vapor pressure can be calculated using Raoult’s law. The formula to calculate vapor pressure is:</div>
+        <p class="GraphicAnchor">
+            <img src="VaporPressure.png" style="width: 114px;height: 56px;" />
+        </p>
+        <p class="GraphicAnchor">Where ‘p’ is vapor pressure, ‘i’ is a component index, and ‘<span class="_Override" style="font-family: Symbol;">c</span>’ is a mole fraction.</p>
+        <h5 class="PropertyName"><a name="Water"></a>
+            <MadCap:keyword term="water solubility">
+            </MadCap:keyword>Water solubility</h5>
+        <div class="Body">Is the maximum amount of a substance that can be dissolved in water at equilibrium at a given temperature and pressure. Water solubility is measured in mg/L. </div>
+        <h5 class="PropertyName"><a name="Wiener"></a>Wiener index<MadCap:keyword term="Weiner index"></MadCap:keyword></h5>
+        <div class="Body">Provides measure of branching defined as:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">&#160;</p>
+        <p>
+            <img src="WeinerIndex.png" style="width: 90px;height: 35px;" />
+        </p>
+        <p class="GraphicAnchor">Where D<span class="_Override" style="font-size: 80%;vertical-align: sub;">ij</span> are the off-diagonal elements of the distance matrix.</p>
+    </body>
+</html>

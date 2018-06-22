@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="10-Excel_3629383264_1142329" />
+    <Anchor
+      Name="10-Excel_3629383264_1126536" />
+    <Anchor
+      Name="10-Excel_3629383264_1071819" />
+    <Anchor
+      Name="10-Excel_3629383264_1156469" />
+    <Anchor
+      Name="10-Excel_3629383264_1071845" />
+    <Anchor
+      Name="10-Excel_3629383264_1071865" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="ChemDraw/Excel:adding structures"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="adding:structures in ChemDraw/Excel"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="ChemDraw/Excel:adding structure files"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="19" />
+    <IndexCacheEntry
+      Term="ChemDraw/Excel:adding structures as SMILES"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="53" />
+    <IndexCacheEntry
+      Term="Inchi Strings"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="63" />
+    <IndexCacheEntry
+      Term="ChemDraw/Excel:adding structures by name"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="73" />
+    <IndexCacheEntry
+      Term="saving:structures in ChemDraw/Excel"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="84" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw_Excel" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw_Excel" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/ring tools.png" />
+    <Link
+      Url="Content/MyImport/ChemDraw_HotKeys.htm" />
+    <Link
+      Url="Content/MyImport/3-Drawing_10.htm" />
+    <Link
+      Url="Content/MyImport/5_9.jpg" />
+    <Link
+      Url="Content/MyImport/5_4.jpg" />
+    <Link
+      Url="Content/MyImport/cyclohexane rings.png" />
+    <Link
+      Url="Content/MyImport/delocalised ring.png" />
+    <Link
+      Url="Content/MyImport/5_3.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/ring tools.png" />
+    <Link
+      Url="Content/MyImport/ChemDraw_HotKeys.htm#ChemDraw_HotKeys_3667536632_1108970" />
+    <Link
+      Url="Content/MyImport/3-Drawing_10.htm#Reducing" />
+    <Link
+      Url="Content/MyImport/5_9.jpg" />
+    <Link
+      Url="Content/MyImport/5_4.jpg" />
+    <Link
+      Url="Content/MyImport/cyclohexane rings.png" />
+    <Link
+      Url="Content/MyImport/delocalised ring.png" />
+    <Link
+      Url="Content/MyImport/5_3.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="3-Drawing_10_1269804279_1160626" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1256776" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1256838" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="cyclopropane ring tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="tools:cyclopropane ring"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="cyclohexane chair ring tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="tools:cyclohexane chair"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="cyclopentadiene ring tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="tools:cyclopentadiene ring"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="tools:cyclooctane ring"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Main toolbar"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="rings:drawing with fixed length"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="drawing:rings with fixed length"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="spiro and sprout rings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="22" />
+    <IndexCacheEntry
+      Term="drawing:resonance delocalized rings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="Kekule structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="resonance delocalized rings, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="delocalized rings, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="cycloalkane rings, converting to delocalized rings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="resonance structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="58" />
+    <IndexCacheEntry
+      Term="drawing:benzene and cyclopentadiene rings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="59" />
+    <IndexCacheEntry
+      Term="cyclopentadiene rings, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="59" />
+    <IndexCacheEntry
+      Term="benzene ring:drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="59" />
+    <IndexCacheEntry
+      Term="cyclopentadiene ring, changing orientation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="59" />
+    <IndexCacheEntry
+      Term="benzene ring:changing orientation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="59" />
+    <IndexCacheEntry
+      Term="orientation:cyclopentadiene ring tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="orientation:benzene ring tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/9_40.jpg" />
+    <Link
+      Url="Content/MyImport/Captions.htm" />
+    <Link
+      Url="Content/MyImport/b-alanine.jpg" />
+    <Link
+      Url="Content/MyImport/defining nickname2.png" />
+    <Link
+      Url="Content/MyImport/defining nickname3.png" />
+    <Link
+      Url="Content/MyImport/radical.png" />
+    <Link
+      Url="Content/MyImport/radical1.png" />
+    <Link
+      Url="Content/MyImport/9_18.jpg" />
+    <Link
+      Url="Content/MyImport/9_19.jpg" />
+    <Link
+      Url="Content/MyImport/connection point double.png" />
+    <Link
+      Url="Content/MyImport/9_21.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/9_40.jpg" />
+    <Link
+      Url="Content/MyImport/Captions.htm#3-Drawing_10_1269804279_1381278" />
+    <Link
+      Url="Content/MyImport/b-alanine.jpg" />
+    <Link
+      Url="Content/MyImport/defining nickname2.png" />
+    <Link
+      Url="Content/MyImport/defining nickname3.png" />
+    <Link
+      Url="Content/MyImport/radical.png" />
+    <Link
+      Url="Content/MyImport/radical1.png" />
+    <Link
+      Url="Content/MyImport/9_18.jpg" />
+    <Link
+      Url="Content/MyImport/9_19.jpg" />
+    <Link
+      Url="Content/MyImport/connection point double.png" />
+    <Link
+      Url="Content/MyImport/9_21.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1308763" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_43542" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_Leucine_nickname" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_20135" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1308798" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1308835" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1308841" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="nicknames:defining"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="labels"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="deleting:nicknames"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="105" />
+    <IndexCacheEntry
+      Term="nicknames:deleting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="105" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/_2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

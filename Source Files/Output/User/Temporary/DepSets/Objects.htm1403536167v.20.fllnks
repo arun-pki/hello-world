@@ -1,0 +1,765 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/5_27.jpg" />
+    <Link
+      Url="Content/MyImport/arrow head.png" />
+    <Link
+      Url="Content/MyImport/arc adjustable handle.png" />
+    <Link
+      Url="Content/MyImport/5_10.jpg" />
+    <Link
+      Url="Content/MyImport/hollow arrow.png" />
+    <Link
+      Url="Content/MyImport/arrow context menu.png" />
+    <Link
+      Url="Content/MyImport/5_28.jpg" />
+    <Link
+      Url="Content/MyImport/5_29.jpg" />
+    <Link
+      Url="Content/MyImport/Structure Perspective.htm" />
+    <Link
+      Url="Content/MyImport/equilibrium arrow.png" />
+    <Link
+      Url="Content/MyImport/5_18.jpg" />
+    <Link
+      Url="Content/MyImport/drawing element.png" />
+    <Link
+      Url="Content/MyImport/Objects.htm" />
+    <Link
+      Url="Content/MyImport/rectangle corner handles.png" />
+    <Link
+      Url="Content/MyImport/info window.png" />
+    <Link
+      Url="Content/MyImport/Polymers.htm" />
+    <Link
+      Url="Content/MyImport/single bracket.png" />
+    <Link
+      Url="Content/MyImport/edit curve.png" />
+    <Link
+      Url="Content/MyImport/mouse cursor.png" />
+    <Link
+      Url="Content/MyImport/changing shape.png" />
+    <Link
+      Url="Content/MyImport/5_2.jpg" />
+    <Link
+      Url="Content/MyImport/selection tools.png" />
+    <Link
+      Url="Content/MyImport/5_30.jpg" />
+    <Link
+      Url="Content/MyImport/5_1.jpg" />
+    <Link
+      Url="Content/MyImport/resize1.png" />
+    <Link
+      Url="Content/MyImport/resize2.png" />
+    <Link
+      Url="Content/MyImport/5_6.jpg" />
+    <Link
+      Url="Content/MyImport/rotate1.png" />
+    <Link
+      Url="Content/MyImport/center of rotation.png" />
+    <Link
+      Url="Content/MyImport/center of rotation moved.png" />
+    <Link
+      Url="Content/MyImport/8-Presentation.htm" />
+    <Link
+      Url="Content/MyImport/scale dialog box.png" />
+    <Link
+      Url="Content/MyImport/distribute1.png" />
+    <Link
+      Url="Content/MyImport/distribute2.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/5_27.jpg" />
+    <Link
+      Url="Content/MyImport/arrow head.png" />
+    <Link
+      Url="Content/MyImport/arc adjustable handle.png" />
+    <Link
+      Url="Content/MyImport/5_10.jpg" />
+    <Link
+      Url="Content/MyImport/hollow arrow.png" />
+    <Link
+      Url="Content/MyImport/arrow context menu.png" />
+    <Link
+      Url="Content/MyImport/5_28.jpg" />
+    <Link
+      Url="Content/MyImport/5_29.jpg" />
+    <Link
+      Url="Content/MyImport/Structure Perspective.htm" />
+    <Link
+      Url="Content/MyImport/equilibrium arrow.png" />
+    <Link
+      Url="Content/MyImport/5_18.jpg" />
+    <Link
+      Url="Content/MyImport/drawing element.png" />
+    <Link
+      Url="Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1238224" />
+    <Link
+      Url="Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1278777" />
+    <Link
+      Url="Content/MyImport/rectangle corner handles.png" />
+    <Link
+      Url="Content/MyImport/info window.png" />
+    <Link
+      Url="Content/MyImport/Objects.htm#The" />
+    <Link
+      Url="Content/MyImport/Polymers.htm#5-Query_617691554_1242637" />
+    <Link
+      Url="Content/MyImport/single bracket.png" />
+    <Link
+      Url="Content/MyImport/edit curve.png" />
+    <Link
+      Url="Content/MyImport/mouse cursor.png" />
+    <Link
+      Url="Content/MyImport/changing shape.png" />
+    <Link
+      Url="Content/MyImport/5_2.jpg" />
+    <Link
+      Url="Content/MyImport/selection tools.png" />
+    <Link
+      Url="Content/MyImport/5_30.jpg" />
+    <Link
+      Url="Content/MyImport/5_1.jpg" />
+    <Link
+      Url="Content/MyImport/resize1.png" />
+    <Link
+      Url="Content/MyImport/resize2.png" />
+    <Link
+      Url="Content/MyImport/5_6.jpg" />
+    <Link
+      Url="Content/MyImport/rotate1.png" />
+    <Link
+      Url="Content/MyImport/center of rotation.png" />
+    <Link
+      Url="Content/MyImport/center of rotation moved.png" />
+    <Link
+      Url="Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1071574" />
+    <Link
+      Url="Content/MyImport/scale dialog box.png" />
+    <Link
+      Url="Content/MyImport/distribute1.png" />
+    <Link
+      Url="Content/MyImport/distribute2.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="3-Drawing_10_1269804279_1393822" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1261735" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_10131" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_88194" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_Curved_arrows" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_Colored_Arrows" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_Customizing_block_arrows" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1381313" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_Drawing_Elements" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_rotating" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1393817" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1237221" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1264138" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_The_Curve_Tools" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1333443" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_92832" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1261673" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1155280" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_69439" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1278777" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_60861" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1082469" />
+    <Anchor
+      Name="The" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1393880" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1357729" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_96528" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_89279" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_join" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1238195" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_group" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1238224" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_12663" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_scale" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1238265" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_19565" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1257547" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1238497" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1238510" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="arrows:adjustment handles"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="adjustment handles"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="arrows:cursor types"
+      Conditions="MyImport.Book_only,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="arrows:undo"
+      Conditions="MyImport.Book_only,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="44" />
+    <IndexCacheEntry
+      Term="arrows:changing direction"
+      Conditions="MyImport.Book_only,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="44" />
+    <IndexCacheEntry
+      Term="arrows:hollow arrows"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="47" />
+    <IndexCacheEntry
+      Term="drawing elements:fill patterns"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="116" />
+    <IndexCacheEntry
+      Term="drawing elements:color"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="116" />
+    <IndexCacheEntry
+      Term="printing:drawing elements fill"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="116" />
+    <IndexCacheEntry
+      Term="resizing and rotating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="126" />
+    <IndexCacheEntry
+      Term="structure perspective tool, using with objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="134" />
+    <IndexCacheEntry
+      Term="objects:3D rotation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="134" />
+    <IndexCacheEntry
+      Term="lines, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="136" />
+    <IndexCacheEntry
+      Term="arcs:drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="144" />
+    <IndexCacheEntry
+      Term="drawing:arcs"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="144" />
+    <IndexCacheEntry
+      Term="tools:arc"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="146" />
+    <IndexCacheEntry
+      Term="arcs"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="146" />
+    <IndexCacheEntry
+      Term="palette:arcs"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="146" />
+    <IndexCacheEntry
+      Term="arcs:resizing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="153" />
+    <IndexCacheEntry
+      Term="resizing:arcs"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="153" />
+    <IndexCacheEntry
+      Term="brackets:tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="168" />
+    <IndexCacheEntry
+      Term="parentheses"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="168" />
+    <IndexCacheEntry
+      Term="braces"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="168" />
+    <IndexCacheEntry
+      Term="tools:bracket"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="168" />
+    <IndexCacheEntry
+      Term="brackets:drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="172" />
+    <IndexCacheEntry
+      Term="palette:brackets"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="172" />
+    <IndexCacheEntry
+      Term="single brackets"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="174" />
+    <IndexCacheEntry
+      Term="brackets:single"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="174" />
+    <IndexCacheEntry
+      Term="paired brackets"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="180" />
+    <IndexCacheEntry
+      Term="brackets:paired"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="180" />
+    <IndexCacheEntry
+      Term="drawing:daggers"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="187" />
+    <IndexCacheEntry
+      Term="daggers"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="187" />
+    <IndexCacheEntry
+      Term="framing objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="194" />
+    <IndexCacheEntry
+      Term="objects:framing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="194" />
+    <IndexCacheEntry
+      Term="curves"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="203" />
+    <IndexCacheEntry
+      Term="pen tools"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="203" />
+    <IndexCacheEntry
+      Term="drawing:curves"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="203" />
+    <IndexCacheEntry
+      Term="selecting objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="248" />
+    <IndexCacheEntry
+      Term="objects:selecting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="248" />
+    <IndexCacheEntry
+      Term="selecting:with lasso"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="258" />
+    <IndexCacheEntry
+      Term="Lasso tool:selecting objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="258" />
+    <IndexCacheEntry
+      Term="tools:lasso"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="258" />
+    <IndexCacheEntry
+      Term="selecting:with marquee"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="266" />
+    <IndexCacheEntry
+      Term="Marquee tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="266" />
+    <IndexCacheEntry
+      Term="tools:Marquee"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="266" />
+    <IndexCacheEntry
+      Term="structure:selecting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="284" />
+    <IndexCacheEntry
+      Term="selecting:entire structure"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="284" />
+    <IndexCacheEntry
+      Term="selecting objects:by clicking"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="288" />
+    <IndexCacheEntry
+      Term="highlight box:selecting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="288" />
+    <IndexCacheEntry
+      Term="selection tool:highlight box"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="288" />
+    <IndexCacheEntry
+      Term="selecting:bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="288" />
+    <IndexCacheEntry
+      Term="bonds:selecting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="288" />
+    <IndexCacheEntry
+      Term="imported objects, selecting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="288" />
+    <IndexCacheEntry
+      Term="selecting multiple objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="297" />
+    <IndexCacheEntry
+      Term="selection tool:deselecting objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="307" />
+    <IndexCacheEntry
+      Term="deselecting objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="307" />
+    <IndexCacheEntry
+      Term="deselecting one object"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="316" />
+    <IndexCacheEntry
+      Term="selection tool:deselecting objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="316" />
+    <IndexCacheEntry
+      Term="deselecting objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="316" />
+    <IndexCacheEntry
+      Term="resizing objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="327" />
+    <IndexCacheEntry
+      Term="rotating objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="346" />
+    <IndexCacheEntry
+      Term="rotate:objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="347" />
+    <IndexCacheEntry
+      Term="rotate:command"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="364" />
+    <IndexCacheEntry
+      Term="rotate:dialog box"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="364" />
+    <IndexCacheEntry
+      Term="repeat command, rotations"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="377" />
+    <IndexCacheEntry
+      Term="objects:moving"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="402" />
+    <IndexCacheEntry
+      Term="moving:objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="402" />
+    <IndexCacheEntry
+      Term="positioning:objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="402" />
+    <IndexCacheEntry
+      Term="duplicating objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="417" />
+    <IndexCacheEntry
+      Term="copying objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="417" />
+    <IndexCacheEntry
+      Term="objects:copying"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="417" />
+    <IndexCacheEntry
+      Term="Info window"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="427" />
+    <IndexCacheEntry
+      Term="mirror images, creating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="452" />
+    <IndexCacheEntry
+      Term="stereochemistry:drawing mirror images"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="452" />
+    <IndexCacheEntry
+      Term="drawing:mirror images"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="452" />
+    <IndexCacheEntry
+      Term="deleting:objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="468" />
+    <IndexCacheEntry
+      Term="objects:deleting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="468" />
+    <IndexCacheEntry
+      Term="selection tool:deleting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="468" />
+    <IndexCacheEntry
+      Term="deleting:delete key"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="468" />
+    <IndexCacheEntry
+      Term="objects:joining"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="479" />
+    <IndexCacheEntry
+      Term="joining objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="479" />
+    <IndexCacheEntry
+      Term="joining structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="479" />
+    <IndexCacheEntry
+      Term="selection tool:joining"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="479" />
+    <IndexCacheEntry
+      Term="grouping objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="498" />
+    <IndexCacheEntry
+      Term="objects:grouping"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="498" />
+    <IndexCacheEntry
+      Term="integral groups, creating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="512" />
+    <IndexCacheEntry
+      Term="groups:integral"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="512" />
+    <IndexCacheEntry
+      Term="ungrouping objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="527" />
+    <IndexCacheEntry
+      Term="objects:ungrouping"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="527" />
+    <IndexCacheEntry
+      Term="objects ungrouping"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="528" />
+    <IndexCacheEntry
+      Term="ungroup command"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="528" />
+    <IndexCacheEntry
+      Term="scaling objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="541" />
+    <IndexCacheEntry
+      Term="scaling objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="542" />
+    <IndexCacheEntry
+      Term="scaling:objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="543" />
+    <IndexCacheEntry
+      Term="scaling:fixed length"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="543" />
+    <IndexCacheEntry
+      Term="fixed lengths:scaling"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="543" />
+    <IndexCacheEntry
+      Term="aligning objects:overview"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="573" />
+    <IndexCacheEntry
+      Term="aligning objects:align submenu"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="573" />
+    <IndexCacheEntry
+      Term="objects:distributing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="584" />
+    <IndexCacheEntry
+      Term="distributing objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="584" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.ONLY for WebHELP (MAC) output" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

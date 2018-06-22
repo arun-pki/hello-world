@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/MyImport/nucleotide_1.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_2.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_3.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_4.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_5.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_6.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_7.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_8.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_9.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_10.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_11.png" />
+    <Link
+      Url="Content/Pasting HELM strings.htm" />
+    <Link
+      Url="Content/Resources/Images/sequence.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/MyImport/nucleotide_1.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_2.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_3.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_4.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_5.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_6.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_7.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_8.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_9.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_10.png" />
+    <Link
+      Url="Content/MyImport/nucleotide_11.png" />
+    <Link
+      Url="Content/Pasting HELM strings.htm" />
+    <Link
+      Url="Content/Resources/Images/sequence.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

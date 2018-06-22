@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/16_3.png" />
+    <Link
+      Url="Content/MyImport/16_4.png" />
+    <Link
+      Url="Content/MyImport/16_5.jpg" />
+    <Link
+      Url="Content/MyImport/text tool table.png" />
+    <Link
+      Url="Content/MyImport/Objects.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/16_3.png" />
+    <Link
+      Url="Content/MyImport/16_4.png" />
+    <Link
+      Url="Content/MyImport/16_5.jpg" />
+    <Link
+      Url="Content/MyImport/text tool table.png" />
+    <Link
+      Url="Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1278777" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="8-Presentation_208243784_table" />
+    <Anchor
+      Name="8-Presentation_208243784_1178260" />
+    <Anchor
+      Name="8-Presentation_208243784_1178262" />
+    <Anchor
+      Name="8-Presentation_208243784_1178292" />
+    <Anchor
+      Name="8-Presentation_208243784_1178309" />
+    <Anchor
+      Name="8-Presentation_208243784_1178320" />
+    <Anchor
+      Name="8-Presentation_208243784_1178325" />
+    <Anchor
+      Name="8-Presentation_208243784_1178351" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Table:clearing cells"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="Table:adjusting rows and columns"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="Table:adjusting the whole table"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="Table:alignment"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="Table:fit to cells"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="creating:tables"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="Table:creating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="text:caption, creating tables"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="captions:creating tables"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="Column spacing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="89" />
+    <IndexCacheEntry
+      Term="Table:column spacing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="89" />
+    <IndexCacheEntry
+      Term="captions:Table column spacing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="89" />
+    <IndexCacheEntry
+      Term="Moving:in tables"
+      Conditions="MyImport.Comment,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="95" />
+    <IndexCacheEntry
+      Term="Table:moving in"
+      Conditions="MyImport.Comment,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="95" />
+    <IndexCacheEntry
+      Term="Table:inserting rows"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="128" />
+    <IndexCacheEntry
+      Term="Inserting:rows in tables"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="128" />
+    <IndexCacheEntry
+      Term="captions:inserting rows in tables"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="128" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.Comment" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/_2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

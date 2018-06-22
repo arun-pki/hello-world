@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/preferences.png" />
+    <Link
+      Url="Content/Resources/Images/general tab mac.png" />
+    <Link
+      Url="Content/Resources/Images/chiral option mac.png" />
+    <Link
+      Url="Content/Resources/Images/chiral option win.png" />
+    <Link
+      Url="Content/Resources/Images/chiral1.png" />
+    <Link
+      Url="Content/Resources/Images/chiral2.png" />
+    <Link
+      Url="Content/Resources/Images/stereoflag mac.png" />
+    <Link
+      Url="Content/MyImport/Stereoflag.png" />
+    <Link
+      Url="Content/Resources/Images/hide mac.png" />
+    <Link
+      Url="Content/Resources/Images/hide win.png" />
+    <Link
+      Url="Content/Resources/Images/abs dialog mac.png" />
+    <Link
+      Url="Content/Resources/Images/abs dialog win.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/preferences.png" />
+    <Link
+      Url="Content/Resources/Images/general tab mac.png" />
+    <Link
+      Url="Content/Resources/Images/chiral option mac.png" />
+    <Link
+      Url="Content/Resources/Images/chiral option win.png" />
+    <Link
+      Url="Content/Resources/Images/chiral1.png" />
+    <Link
+      Url="Content/Resources/Images/chiral2.png" />
+    <Link
+      Url="Content/Resources/Images/stereoflag mac.png" />
+    <Link
+      Url="Content/MyImport/Stereoflag.png" />
+    <Link
+      Url="Content/Resources/Images/hide mac.png" />
+    <Link
+      Url="Content/Resources/Images/hide win.png" />
+    <Link
+      Url="Content/Resources/Images/abs dialog mac.png" />
+    <Link
+      Url="Content/Resources/Images/abs dialog win.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="A-Customize_2096640490_1462731" />
+    <Anchor
+      Name="A-Customize_2096640490_81470" />
+    <Anchor
+      Name="A-Customize_2096640490_1462715" />
+    <Anchor
+      Name="A-Customize_2096640490_Theme_Options" />
+    <Anchor
+      Name="A-Customize_2096640490_1462723" />
+    <Anchor
+      Name="Configur" />
+    <Anchor
+      Name="A-Customize_2096640490_1462750" />
+    <Anchor
+      Name="A-Customize_2096640490_1560389" />
+    <Anchor
+      Name="A-Customize_2096640490_39067" />
+    <Anchor
+      Name="A-Customize_2096640490_1502890" />
+    <Anchor
+      Name="A-Customize_2096640490_1462813" />
+    <Anchor
+      Name="A-Customize_2096640490_35951" />
+    <Anchor
+      Name="A-Customize_2096640490_1462875" />
+    <Anchor
+      Name="A-Customize_2096640490_1462889" />
+    <Anchor
+      Name="A-Customize_2096640490_51208" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="preferences:overview"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="setting:preferences"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="default:document location"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="44" />
+    <IndexCacheEntry
+      Term="document:location, default"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="44" />
+    <IndexCacheEntry
+      Term="default:file format"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="caption text boxes:creating new line"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="127" />
+    <IndexCacheEntry
+      Term="text box:creating new line"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="127" />
+    <IndexCacheEntry
+      Term="text box:closing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="127" />
+    <IndexCacheEntry
+      Term="atom label text boxes, closing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="127" />
+    <IndexCacheEntry
+      Term="atom labels:text boxes, creating new line"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="127" />
+    <IndexCacheEntry
+      Term="caption text boxes:closing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="128" />
+    <IndexCacheEntry
+      Term="preferences:require CTRL+ENTER"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="133" />
+    <IndexCacheEntry
+      Term="preferences:require Option+Return"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="133" />
+    <IndexCacheEntry
+      Term="tolerance:effect on highlight box"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="152" />
+    <IndexCacheEntry
+      Term="ChemDraw Items folder:description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="163" />
+    <IndexCacheEntry
+      Term="Hotkeys"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="165" />
+    <IndexCacheEntry
+      Term="customized settings, saving"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="220" />
+    <IndexCacheEntry
+      Term="saving customized settings"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="220" />
+    <IndexCacheEntry
+      Term="customizing:saving document settings"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="220" />
+    <IndexCacheEntry
+      Term="default:changing"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="220" />
+    <IndexCacheEntry
+      Term="changing:default settings"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="220" />
+    <IndexCacheEntry
+      Term="saving:defaults"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="220" />
+    <IndexCacheEntry
+      Term="text settings:changing defaults"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="221" />
+    <IndexCacheEntry
+      Term="drawing settings:changing defaults"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="221" />
+    <IndexCacheEntry
+      Term="preferences:text, see text settings"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="221" />
+    <IndexCacheEntry
+      Term="preferences:drawing, see Drawing settings"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="222" />
+    <IndexCacheEntry
+      Term="style sheet:saving document settings"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="222" />
+    <IndexCacheEntry
+      Term="non-PostScript printing:high resolution"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="222" />
+    <IndexCacheEntry
+      Term="high resolution:non-PostScript printing"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="222" />
+    <IndexCacheEntry
+      Term="printing:high-resolution non-PostScript"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="223" />
+    <IndexCacheEntry
+      Term="quickdraw:bitmapped image"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="223" />
+    <IndexCacheEntry
+      Term="bitmapped:printing quality"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="223" />
+    <IndexCacheEntry
+      Term="page definition language:quickdraw"
+      Conditions="MyImport.Mac,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="223" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.Comment" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.ONLY for WebHELP (MAC) output" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

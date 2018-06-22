@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Bond Properties.htm" />
+    <Link
+      Url="Content/MyImport/13_32.jpg" />
+    <Link
+      Url="Content/MyImport/13_33.jpg" />
+    <Link
+      Url="Content/MyImport/13_24.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Bond Properties.htm#5-Query_617691554_1077575" />
+    <Link
+      Url="Content/MyImport/13_32.jpg" />
+    <Link
+      Url="Content/MyImport/13_33.jpg" />
+    <Link
+      Url="Content/MyImport/13_24.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="5-Query_617691554_1174340" />
+    <Anchor
+      Name="5-Query_617691554_86888" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="atom-to-atom mapping"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="reaction atom-to-atom mapping"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="tools:reaction atom-to-atom mapping"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="mapping:reaction"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="reaction mapping:overview"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="mapping:atom"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="assigning:atom mapping"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="manual mapping:overview"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="reaction mapping:manual"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="mapping:manual"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="manual mapping:clearing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="reaction mapping:clearing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="clearing:mapping"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="mapping:clearing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="72" />
+    <IndexCacheEntry
+      Term="exporting:mapping"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="80" />
+    <IndexCacheEntry
+      Term="reaction mapping:exporting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="80" />
+    <IndexCacheEntry
+      Term="mapping:exporting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="80" />
+    <IndexCacheEntry
+      Term="Clipboard"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="82" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

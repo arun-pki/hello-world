@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/adv biotemp.png" />
+    <Link
+      Url="Content/MyImport/anatomy.png" />
+    <Link
+      Url="Content/MyImport/animals.png" />
+    <Link
+      Url="Content/MyImport/bioinstruments.png" />
+    <Link
+      Url="Content/MyImport/micro1.png" />
+    <Link
+      Url="Content/MyImport/organells.png" />
+    <Link
+      Url="Content/MyImport/Templates.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/MyImport/6_11.jpg" />
+    <Link
+      Url="Content/MyImport/membrane arc.png" />
+    <Link
+      Url="Content/MyImport/6_12.jpg" />
+    <Link
+      Url="Content/MyImport/6_13.jpg" />
+    <Link
+      Url="Content/MyImport/plasmid map.png" />
+    <Link
+      Url="Content/MyImport/6_15.jpg" />
+    <Link
+      Url="Content/MyImport/6_16.jpg" />
+    <Link
+      Url="Content/MyImport/6_17.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/adv biotemp.png" />
+    <Link
+      Url="Content/MyImport/anatomy.png" />
+    <Link
+      Url="Content/MyImport/animals.png" />
+    <Link
+      Url="Content/MyImport/bioinstruments.png" />
+    <Link
+      Url="Content/MyImport/micro1.png" />
+    <Link
+      Url="Content/MyImport/organells.png" />
+    <Link
+      Url="Content/MyImport/Templates.htm#4-Adv_Draw_2238496342_1308706" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/MyImport/6_11.jpg" />
+    <Link
+      Url="Content/MyImport/membrane arc.png" />
+    <Link
+      Url="Content/MyImport/6_12.jpg" />
+    <Link
+      Url="Content/MyImport/6_13.jpg" />
+    <Link
+      Url="Content/MyImport/plasmid map.png" />
+    <Link
+      Url="Content/MyImport/6_15.jpg" />
+    <Link
+      Url="Content/MyImport/6_16.jpg" />
+    <Link
+      Url="Content/MyImport/6_17.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="11-BioDraw_1302985861_1190174" />
+    <Anchor
+      Name="11-BioDraw_1302985861_35169" />
+    <Anchor
+      Name="11-BioDraw_1302985861_1146421" />
+    <Anchor
+      Name="11-BioDraw_1302985861_1146427" />
+    <Anchor
+      Name="11-BioDraw_1302985861_coloring_residues" />
+    <Anchor
+      Name="11-BioDraw_1302985861_tRNA" />
+    <Anchor
+      Name="11-BioDraw_1302985861_ribosomes_A_and_B" />
+    <Anchor
+      Name="11-BioDraw_1302985861_plasmid_maps" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="BioDraw objects:line and fill properties"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="BioDraw objects:color"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="BioDraw templates"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="templates:BioDraw"
+      Conditions=""
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="templates:BioDraw"
+      Conditions=""
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="anatomy templates"
+      Conditions=""
+      LocalConditions=""
+      Position="36" />
+    <IndexCacheEntry
+      Term="BioDraw templates:anatomy"
+      Conditions=""
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="BioDraw templates:bio instrumentsbio instruments template"
+      Conditions=""
+      LocalConditions=""
+      Position="44" />
+    <IndexCacheEntry
+      Term="bio instruments template"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="BioDraw templates:microorganismsmicro organism template"
+      Conditions=""
+      LocalConditions=""
+      Position="49" />
+    <IndexCacheEntry
+      Term="micro organism template"
+      Conditions=""
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="BioDraw templates:organellesorganelles template"
+      Conditions=""
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="organelles template"
+      Conditions=""
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="objects:bioDraw, customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="62" />
+    <IndexCacheEntry
+      Term="BioDraw objects:customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="63" />
+    <IndexCacheEntry
+      Term="receptor tool, customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="78" />
+    <IndexCacheEntry
+      Term="G-protein tool, customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="84" />
+    <IndexCacheEntry
+      Term="gamma subunit, customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="85" />
+    <IndexCacheEntry
+      Term="helix protein tool, customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="92" />
+    <IndexCacheEntry
+      Term="DNA tool, customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="membrane (line), customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="104" />
+    <IndexCacheEntry
+      Term="membrane (arc), customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="111" />
+    <IndexCacheEntry
+      Term="membrane (ellipse), customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="117" />
+    <IndexCacheEntry
+      Term="Micelle, customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="124" />
+    <IndexCacheEntry
+      Term="Plasmid map, customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="130" />
+    <IndexCacheEntry
+      Term="Ribosomes, customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="136" />
+    <IndexCacheEntry
+      Term="tRNA, customizing"
+      Conditions=""
+      LocalConditions=""
+      Position="142" />
+    <IndexCacheEntry
+      Term="BioDraw:drawing a membrane line"
+      Conditions=""
+      LocalConditions=""
+      Position="176" />
+    <IndexCacheEntry
+      Term="BioDraw:drawing a membrane arc"
+      Conditions=""
+      LocalConditions=""
+      Position="193" />
+    <IndexCacheEntry
+      Term="BioDraw:drawing a helix protein"
+      Conditions=""
+      LocalConditions=""
+      Position="202" />
+    <IndexCacheEntry
+      Term="BioDraw:drawing DNA"
+      Conditions=""
+      LocalConditions=""
+      Position="219" />
+    <IndexCacheEntry
+      Term="tRNA"
+      Conditions=""
+      LocalConditions=""
+      Position="247" />
+    <IndexCacheEntry
+      Term="ribosomes A and B"
+      Conditions=""
+      LocalConditions=""
+      Position="254" />
+    <IndexCacheEntry
+      Term="ribosome"
+      Conditions=""
+      LocalConditions=""
+      Position="257" />
+    <IndexCacheEntry
+      Term="ribosome"
+      Conditions=""
+      LocalConditions=""
+      Position="259" />
+    <IndexCacheEntry
+      Term="plasmid map"
+      Conditions=""
+      LocalConditions=""
+      Position="269" />
+    <IndexCacheEntry
+      Term="plasmid map"
+      Conditions=""
+      LocalConditions=""
+      Position="271" />
+    <IndexCacheEntry
+      Term="plasmid map"
+      Conditions=""
+      LocalConditions=""
+      Position="273" />
+    <IndexCacheEntry
+      Term="plasmid map"
+      Conditions="MyImport.For_PDF"
+      LocalConditions=""
+      Position="280" />
+    <IndexCacheEntry
+      Term="plasmid map"
+      Conditions="MyImport.Mac"
+      LocalConditions=""
+      Position="294" />
+    <IndexCacheEntry
+      Term="plasmid map:adding markers to"
+      Conditions=""
+      LocalConditions=""
+      Position="309" />
+    <IndexCacheEntry
+      Term="plasmid map:resizing regions"
+      Conditions=""
+      LocalConditions=""
+      Position="336" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

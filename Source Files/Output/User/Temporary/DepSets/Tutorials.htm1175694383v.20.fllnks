@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/ChemScript chapter/htm topics/Getting_Started.htm" />
+    <Link
+      Url="Content/ChemScript chapter/Images/1_2.jpg" />
+    <Link
+      Url="Content/ChemScript chapter/Images/1_3.jpg" />
+    <Link
+      Url="Content/ChemScript chapter/Images/1_4.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/ChemScript chapter/htm topics/Getting_Started.htm" />
+    <Link
+      Url="Content/ChemScript chapter/Images/1_2.jpg" />
+    <Link
+      Url="Content/ChemScript chapter/Images/1_3.jpg" />
+    <Link
+      Url="Content/ChemScript chapter/Images/1_4.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="chemscript_680541004_40147" />
+    <Anchor
+      Name="chemscript_680541004_60909" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Tutorials"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Python"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="Create an SD file"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="22" />
+    <IndexCacheEntry
+      Term="Create an SD file"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="Create a list of CDXML files"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="Filter an SD file"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="Computing Canonical Codes"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="Canonical Codes"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="44" />
+    <IndexCacheEntry
+      Term="Simple salt stripping"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="46" />
+    <IndexCacheEntry
+      Term="Structure Overlay"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="48" />
+    <IndexCacheEntry
+      Term="Reaction Transformation"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="53" />
+    <IndexCacheEntry
+      Term="Reaction Transformation"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="Salt Stripping"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="69" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

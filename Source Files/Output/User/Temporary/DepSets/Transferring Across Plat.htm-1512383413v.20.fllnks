@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="9-Sharing_Info_2779241888_1209981" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="transferring across platforms"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="transferring information:across platforms"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="800" MadCap:lastWidth="624" MadCap:conditions="MyImport.ChemDraw help">
+    <head>
+        <link href="../Resources/TableStyles/_2col_table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Resources/Stylesheets/Cambridgesoft1.css" rel="stylesheet" />
+    </head>
+    <body>
+        <H2 class="Heading2"><a name="4-Adv_Draw_2238496342_1308763"></a><a name="4-Adv_Draw_2238496342_43542"></a>Defining Nicknames</H2>
+        <div class="Body">A nickname<span class="superscript"><MadCap:keyword term="nicknames:defining" /></span> is an alphanumeric abbreviation that represents a substructure<MadCap:footnote style="mc-footnote-comment-format: '{n}';mc-footnote-format: '{n}';"><div class="Footnote">A substructure can be any part of a drawn structure.</div></MadCap:footnote>. Nicknames are useful for drawing large structures, or structures that repeatedly use similar features. Contracted <MadCap:keyword term="labels" />labels are similar to nicknames, but they are for one-time use only, in the current document.</div>
+        <div class="Body">ChemDraw includes a library of nicknames of common functional groups and monomers. For example, if you typically draw protein structures, you may consider using amino acid nicknames in your drawings rather than drawing each amino acid.</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Book_only">.</p>
+        <p MadCap:conditions="MyImport.Book_only">
+            <img src="9_40.jpg" style="width: 157.9997px;height: 174px;margin-left: 1.9512px;margin-top: 4.5px;margin-right: 0.7668023px;margin-bottom: 1.265762px;" />
+        </p>
+        <p class="Caption" MadCap:autonum="Figure 1.1: ">
+            <MadCap:conditionalText MadCap:conditions="MyImport.Book_only"><a name="4-Adv_Draw_2238496342_Leucine_nickname"></a> Leucine, as found in the Nicknames Library</MadCap:conditionalText>
+        </p>
+        <div class="Body"><a name="4-Adv_Draw_2238496342_20135"></a>The substructure that a nickname represents connects to the rest of the structure using one or more attachment points. Attachment points must be single bonds. For substructures with two or more attachment points, the attachment point numbering sequence determines the order in which other parts of the structure are attached. For example, if you expand the structure H-Leu-OH, the hydrogen is bonded to the first attachment point in leucine and the hydroxyl group to the second. </div>
+        <div class="Body">For more information, see <MadCap:xref href="Captions.htm#3-Drawing_10_1269804279_1381278" target="" title="" alt="">"Using nicknames" on page 1</MadCap:xref>.</div>
+        <div class="Body">To define a new nickname: </div>
+        <div class="Body">(In the example below, a b-alanine structure is used.)</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Draw the b-alanine structure.</div>
+        <p class="GraphicAnchor">
+        </p>
+        <p>
+            <img src="b-alanine.jpg" style="width: 181.9997px;height: 93.99936px;margin-left: 0.75024px;margin-top: 1.50048px;margin-right: 4.11272E-06px;margin-bottom: 5.960464E-07px;" />
+        </p>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Draw a bond to the NH2 group.</div>
+        <div class="numlist1-inner" MadCap:autonum="3. ">Delete the label on the OH group.</div>
+        <div class="Body">
+            <img src="defining nickname2.png" />
+        </div>
+        <div class="numlist1-inner" MadCap:autonum="4. ">Using the Attachment Point tool, add an attachment to the N-terminus.</div>
+        <div class="numlist1-inner" MadCap:autonum="5. ">Add an attachment to the C-terminus.</div>
+        <div class="Body">
+            <img src="defining nickname3.png" />
+        </div>
+        <div class="numlist1-inner" MadCap:autonum="6. ">Select the structure, and navigate to <span class="Action_Object">Structure&gt;Define Nickname</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="7. ">Type a short name for the nickname.</div>
+        <Div class="Tip" MadCap:autonum="&lt;b&gt;Tip: &lt;/b&gt; ">To avoid possible conflicts with elements, specify names with more than two  characters.</Div>
+        <div class="numlist1-last" MadCap:autonum="8. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Note" MadCap:autonum=" &lt;b&gt;Note: &lt;/b&gt; ">The attachment point order is determined by the order in which you add the attachment points to the structure.</div>
+        <div class="Body">You can also define nicknames from a structure containing a single radical. Attachment points are added at the site of the radical.     </div>
+        <div class="Body">
+            <img src="radical.png" /> <img src="radical1.png" /></div>
+        <p>Nicknames can also be defined by carving a substructure out of a structure.</p>
+        <h3 class="Heading3"><a name="4-Adv_Draw_2238496342_1308798"></a>Nicknames and Atom Labels</h3>
+        <div class="Body">If you use a nickname that is the same as an element name, a message indicates that the element is replaced with the nickname. For example, using <span class="Action_Object">Ac</span> for an acetyl group replaces the element Actinium. The Check Structure command recognizes the label as an acetyl group rather than Actinium. </div>
+        <div class="Body">The nicknames list provides these Nickname/Element conflicts:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <table class="TableStyle__2col_table" style="caption-side: top;mc-table-style: url('../Resources/TableStyles/_2col_table.css');margin-left: 0;margin-right: auto;" cellspacing="0">
+            <col width="82px" />
+            <col width="165px" />
+            <col width="111px" />
+            <thead>
+                <tr>
+                    <td class="TableStyle__2col_table_Head_0_0_RowSep_ColSep" style="font-weight: bold;">
+                        <div class="Body">Symbol</div>
+                    </td>
+                    <td class="TableStyle__2col_table_Head_0_0_RowSep_ColSep" style="font-weight: bold;">
+                        <p class="TableText">Nickname</p>
+                    </td>
+                    <td class="TableStyle__2col_table_Head_0_0_RowSep_ColEnd" style="font-weight: bold;">
+                        <p class="TableText">Element</p>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColSep">
+                        <p class="TableText">Ac</p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColSep">
+                        <p class="TableText">Acetyl</p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColEnd">
+                        <p class="TableText">Actinium</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle__2col_table_Body_1_0_RowSep_ColSep">
+                        <p class="TableText">Am</p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_1_0_RowSep_ColSep">
+                        <p class="TableText">Amyl</p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_1_0_RowSep_ColEnd">
+                        <p class="TableText">Americium</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColSep">
+                        <p class="TableText">Np</p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColSep">
+                        <p class="TableText"><span class="_Override" style="font-style: italic;">para</span>-Nitrophenyl</p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColEnd">
+                        <p class="TableText">Neptunium</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle__2col_table_Body_1_0_RowEnd_ColSep">
+                        <p class="TableText">Pr</p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_1_0_RowEnd_ColSep">
+                        <p class="TableText">Propyl</p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_1_0_RowEnd_ColEnd">
+                        <p class="TableText">Praeseodymium</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="Note" MadCap:autonum=" &lt;b&gt;Note: &lt;/b&gt; ">If you use the Periodic Table dialog to insert atoms into structures, the elements will preferentially be deposited. Selecting Ac from the Periodic Table and clicking on an atom will place Actinium rather than Acetyl.</div>
+        <div class="Body">To remove the overriding nicknames, navigate to <span class="Action_Object">File</span>&gt;<span class="Action_Object">List Nicknames</span> and delete the overriding nickname definition.</div>
+        <h3 class="Heading3"><a name="4-Adv_Draw_2238496342_1308835"></a>Deleting Nicknames<MadCap:keyword term="deleting: nicknames;nicknames: deleting" /></h3>
+        <div class="Body">To delete a nickname from the nickname library:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Navigate to <span class="Action_Object">File</span>&gt;<span class="Action_Object">List Nicknames</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="2. ">Select the nickname and click <span class="Action_Object">Delete</span>.</div>
+        <h3 class="Heading3"><a name="4-Adv_Draw_2238496342_1308841"></a>Troubleshooting Nicknames</h3>
+        <div class="Body">If the Define Nicknames command is disabled, check for the following:</div>
+        <div class="Bullet1-1st">A connection point that is not present</div>
+        <div class="Bullet1-inner">More than two connection points that are defined</div>
+        <div class="Bullet1-last">A connection point that is not a single bond</div>
+        <div class="Body">In Figure <i class="Emphasis">a</i> below, the entire functional group was selected. Because there is no atom that indicates a connection point, you cannot define a nickname. When a sulfonamide group is attached to an unselected bond, you can define a nickname.</div>
+        <div class="Body">In Figure <i class="Emphasis">b</i>, there is more than one attachment point on a single atom in a nickname.</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <table class="TableStyle__2col_table" style="caption-side: top;mc-table-style: url('../Resources/TableStyles/_2col_table.css');margin-left: 0;margin-right: auto;" cellspacing="0">
+            <col width="23px" />
+            <col width="119px" />
+            <col width="134px" />
+            <thead>
+                <tr>
+                    <td colspan="2" class="TableStyle__2col_table_Head_0_0_RowSep_ColSep">
+                        <p class="TableHead"><span class="Callout">Incorrect</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle__2col_table_Head_0_0_RowSep_ColEnd">
+                        <p class="TableHead"><span class="Callout">Correct</span>
+                        </p>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColSep">
+                        <div class="Body">a</div>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColSep">
+                        <p class="TableText">&#160;</p>
+                        <p style="text-align: center;">
+                            <img src="9_18.jpg" style="width: 111.9994px;height: 129px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.968403px;margin-bottom: 1.033917px;" />
+                        </p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColEnd">
+                        <p class="TableText">&#160;</p>
+                        <p style="text-align: center;">
+                            <img src="9_19.jpg" style="width: 111px;height: 126px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9979211px;margin-bottom: 0.9799234px;" />
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="TableStyle__2col_table_Body_1_0_RowEnd_ColSep">
+                        <div class="Body">b</div>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_1_0_RowEnd_ColSep">
+                        <p class="TableText">&#160;</p>
+                        <p style="text-align: center;">
+                            <img src="connection point double.png" style="width: 103.9997px;height: 166.9997px;margin-left: 2.39976px;" />
+                        </p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_1_0_RowEnd_ColEnd">
+                        <p class="TableText">&#160;</p>
+                        <p style="text-align: center;">
+                            <img src="9_21.jpg" style="width: 84.99936px;height: 150.9994px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9864045px;margin-bottom: 1.022396px;" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="GraphicAnchor">&#160;</p>
+    </body>
+</html>

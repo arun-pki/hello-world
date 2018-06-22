@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="104" MadCap:lastWidth="1092">
+    <body>
+        <H5 class="HeadingRunIn"><a name="Chem3D_Parameter_Tables_757502103_1058800"></a>Atom Type Numbers<MadCap:keyword term="atom:type number field;" /></H5>
+        <div class="Body">An atom type number is assigned to an atom type. For example, a dihedral type field, 1–1–1–4, in the Torsional Parameters table indicates a torsional angle between carbon atoms of type alkane (Atom Type number 1) and carbon atoms of type alkyne (Atom Type number 4). In the 3-membered ring table, the angle type field, 22-22-22, indicates an angle between three cyclopropyl carbons (Atom Type number 22) in a cyclopropane ring<span class="_Override" style="font-family: Arial;">.</span></div>
+        <H5 class="HeadingRunIn">
+            <MadCap:keyword term="atom:type number field;" />
+        </H5>
+    </body>
+</html>

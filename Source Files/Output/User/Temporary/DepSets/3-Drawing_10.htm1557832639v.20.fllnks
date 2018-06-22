@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/11-BioDraw.htm" />
+    <Link
+      Url="Content/MyImport/4-Adv_Draw.htm" />
+    <Link
+      Url="Content/MyImport/A-Chemistry.htm" />
+    <Link
+      Url="Content/MyImport/5_13.jpg" />
+    <Link
+      Url="Content/MyImport/5_15.jpg" />
+    <Link
+      Url="Content/MyImport/ChemDraw_HotKeys.htm" />
+    <Link
+      Url="Content/MyImport/double either.png" />
+    <Link
+      Url="Content/MyImport/Bond Properties.htm" />
+    <Link
+      Url="Content/MyImport/5_21.jpg" />
+    <Link
+      Url="Content/MyImport/5_22.jpg" />
+    <Link
+      Url="Content/MyImport/5_23.jpg" />
+    <Link
+      Url="Content/MyImport/Objects.htm" />
+    <Link
+      Url="Content/MyImport/5_24.jpg" />
+    <Link
+      Url="Content/MyImport/3D Viewing.htm" />
+    <Link
+      Url="Content/MyImport/Document Settings.htm" />
+    <Link
+      Url="Content/MyImport/fixed value.png" />
+    <Link
+      Url="Content/MyImport/Document and Object Sett.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/11-BioDraw.htm#11-BioDraw_1302985861_1190174" />
+    <Link
+      Url="Content/MyImport/4-Adv_Draw.htm#4-Adv_Draw_2238496342_1216633" />
+    <Link
+      Url="Content/MyImport/A-Chemistry.htm#A-Chemistry_1158485972_1107996" />
+    <Link
+      Url="Content/MyImport/5_13.jpg" />
+    <Link
+      Url="Content/MyImport/5_15.jpg" />
+    <Link
+      Url="Content/MyImport/ChemDraw_HotKeys.htm" />
+    <Link
+      Url="Content/MyImport/double either.png" />
+    <Link
+      Url="Content/MyImport/Bond Properties.htm#5-Query_617691554_1077575" />
+    <Link
+      Url="Content/MyImport/5_21.jpg" />
+    <Link
+      Url="Content/MyImport/5_22.jpg" />
+    <Link
+      Url="Content/MyImport/5_23.jpg" />
+    <Link
+      Url="Content/MyImport/Objects.htm#3-Drawing_10_1269804279_60861" />
+    <Link
+      Url="Content/MyImport/5_24.jpg" />
+    <Link
+      Url="Content/MyImport/3D Viewing.htm" />
+    <Link
+      Url="Content/MyImport/Document Settings.htm" />
+    <Link
+      Url="Content/MyImport/fixed value.png" />
+    <Link
+      Url="Content/MyImport/Document and Object Sett.htm#A-Customize_2096640490_63492" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="3-Drawing_10_1269804279_1208922" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_76895" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1261445" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1394140" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_43681" />
+    <Anchor
+      Name="Reducing" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1156706" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_45576" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1393754" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1393757" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_53942" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="drawing:single bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="single bonds, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="palette:single bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="tools:dashed bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="tools:hashed wedge bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="tools:bold wedge bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="tools:hashed bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="tools:bold bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="tools:hollow wedge bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="tools:dative bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="squiggly bond tool see tools, wavy bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="tools:wavy bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="tools:bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="Main toolbar"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="double bond:drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="30" />
+    <IndexCacheEntry
+      Term="drawing:double bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="30" />
+    <IndexCacheEntry
+      Term="drawing:double either bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="43" />
+    <IndexCacheEntry
+      Term="double either bonds, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="43" />
+    <IndexCacheEntry
+      Term="drawing:triple bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="triple bonds, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="quadruple bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="drawing:quadruple bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="bonds:quadruple"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="bonds:orientation for dative or wedged bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="wedged bonds, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="dative bonds, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="editing:bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="86" />
+    <IndexCacheEntry
+      Term="bonds:editing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="86" />
+    <IndexCacheEntry
+      Term="editing:bond type"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="93" />
+    <IndexCacheEntry
+      Term="changing bond type"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="93" />
+    <IndexCacheEntry
+      Term="bonds:changing type"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="93" />
+    <IndexCacheEntry
+      Term="double bond:changing type"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="100" />
+    <IndexCacheEntry
+      Term="double bond:orientation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="107" />
+    <IndexCacheEntry
+      Term="orientation:double bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="107" />
+    <IndexCacheEntry
+      Term="moving:atoms"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="142" />
+    <IndexCacheEntry
+      Term="atoms:moving"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="148" />
+    <IndexCacheEntry
+      Term="moving:atoms"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="148" />
+    <IndexCacheEntry
+      Term="bond crossings:changing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="160" />
+    <IndexCacheEntry
+      Term="bonds:layering"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="160" />
+    <IndexCacheEntry
+      Term="bonds:drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="179" />
+    <IndexCacheEntry
+      Term="drawing:fixed angle bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="197" />
+    <IndexCacheEntry
+      Term="fixed angle bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="197" />
+    <IndexCacheEntry
+      Term="Info window:displaying fixed angles"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="197" />
+    <IndexCacheEntry
+      Term="bonds:fixed angle"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="197" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/_2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

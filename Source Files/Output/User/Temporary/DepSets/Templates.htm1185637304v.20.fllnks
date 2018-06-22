@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="http://chembionews.cambridgesoft.com/Articles/Default.aspx" />
+    <Link
+      Url="Content/MyImport/annotatetemp.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="http://chembionews.cambridgesoft.com/Articles/Default.aspx?articleID=677" />
+    <Link
+      Url="http://chembionews.cambridgesoft.com/Articles/Default.aspx?articleID=675" />
+    <Link
+      Url="Content/MyImport/annotatetemp.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1308706" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_44043" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1311250" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1308719" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1308722" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="BioDraw:templates"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="templates:overview"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="ChemDraw items folder:templates"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="templates:orientating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="88" />
+    <IndexCacheEntry
+      Term="resizing:template panes"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="templates:resizing panes"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="91" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

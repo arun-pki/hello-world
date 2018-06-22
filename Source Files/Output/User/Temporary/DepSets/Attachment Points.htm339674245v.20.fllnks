@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Format_A.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Expand Generic Structure.htm" />
+    <Link
+      Url="Content/MyImport/9_27.jpg" />
+    <Link
+      Url="Content/MyImport/9_23.jpg" />
+    <Link
+      Url="Content/MyImport/9_24.jpg" />
+    <Link
+      Url="Content/MyImport/9_25.jpg" />
+    <Link
+      Url="Content/MyImport/9_26.jpg" />
+    <Link
+      Url="Content/MyImport/9_31.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Format_A.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Expand Generic Structure.htm#5-Query_617691554_1292528" />
+    <Link
+      Url="Content/MyImport/9_27.jpg" />
+    <Link
+      Url="Content/MyImport/9_23.jpg" />
+    <Link
+      Url="Content/MyImport/9_24.jpg" />
+    <Link
+      Url="Content/MyImport/9_25.jpg" />
+    <Link
+      Url="Content/MyImport/9_26.jpg" />
+    <Link
+      Url="Content/MyImport/9_31.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="4-Adv_Draw_2238496342_multi" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1083540" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_76592" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_55533" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1285876" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1339897" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="bonds:multi center attachment"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="multi-center attachments"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="multi-center attachments, see also variable attachments"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Hapticity"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="24" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Format_A.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

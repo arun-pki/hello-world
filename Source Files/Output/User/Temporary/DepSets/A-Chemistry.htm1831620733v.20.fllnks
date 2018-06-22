@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/17_43.jpg" />
+    <Link
+      Url="Content/MyImport/17_44.jpg" />
+    <Link
+      Url="Content/MyImport/17_3.jpg" />
+    <Link
+      Url="Content/MyImport/17_4.jpg" />
+    <Link
+      Url="Content/MyImport/17_5.jpg" />
+    <Link
+      Url="Content/MyImport/17_6.jpg" />
+    <Link
+      Url="Content/MyImport/17_7.jpg" />
+    <Link
+      Url="Content/MyImport/17_8.jpg" />
+    <Link
+      Url="Content/MyImport/17_9.jpg" />
+    <Link
+      Url="Content/MyImport/17_10.jpg" />
+    <Link
+      Url="Content/MyImport/17_11.jpg" />
+    <Link
+      Url="Content/MyImport/17_12.jpg" />
+    <Link
+      Url="Content/MyImport/17_14.jpg" />
+    <Link
+      Url="Content/MyImport/wedge.png" />
+    <Link
+      Url="Content/MyImport/17_13.jpg" />
+    <Link
+      Url="Content/MyImport/17_16.jpg" />
+    <Link
+      Url="Content/MyImport/17_38.jpg" />
+    <Link
+      Url="Content/MyImport/17_39.jpg" />
+    <Link
+      Url="Content/MyImport/17_41.jpg" />
+    <Link
+      Url="Content/MyImport/17_42.jpg" />
+    <Link
+      Url="Content/MyImport/17_17.jpg" />
+    <Link
+      Url="Content/MyImport/17_19.jpg" />
+    <Link
+      Url="Content/MyImport/17_48.jpg" />
+    <Link
+      Url="Content/MyImport/17_49.jpg" />
+    <Link
+      Url="Content/MyImport/17_18.jpg" />
+    <Link
+      Url="Content/MyImport/17_20.jpg" />
+    <Link
+      Url="Content/MyImport/17_40.jpg" />
+    <Link
+      Url="Content/MyImport/17_21.jpg" />
+    <Link
+      Url="Content/MyImport/17_22.jpg" />
+    <Link
+      Url="Content/MyImport/17_25.jpg" />
+    <Link
+      Url="Content/MyImport/17_26.jpg" />
+    <Link
+      Url="Content/MyImport/17_27.jpg" />
+    <Link
+      Url="Content/MyImport/17_28.jpg" />
+    <Link
+      Url="Content/MyImport/17_29.jpg" />
+    <Link
+      Url="Content/MyImport/17_30.jpg" />
+    <Link
+      Url="Content/MyImport/17_31.jpg" />
+    <Link
+      Url="Content/MyImport/17_32.jpg" />
+    <Link
+      Url="Content/MyImport/17_33.jpg" />
+    <Link
+      Url="Content/MyImport/17_23.jpg" />
+    <Link
+      Url="Content/MyImport/17_34.jpg" />
+    <Link
+      Url="Content/MyImport/17_24.jpg" />
+    <Link
+      Url="Content/MyImport/17_35.jpg" />
+    <Link
+      Url="Content/MyImport/17_1.jpg" />
+    <Link
+      Url="Content/MyImport/17_15.jpg" />
+    <Link
+      Url="Content/MyImport/17_36.jpg" />
+    <Link
+      Url="Content/MyImport/17_37.jpg" />
+    <Link
+      Url="Content/MyImport/17_2.jpg" />
+    <Link
+      Url="Content/MyImport/17_46.jpg" />
+    <Link
+      Url="Content/MyImport/17_47.jpg" />
+    <Link
+      Url="Content/MyImport/17_45.jpg" />
+    <Link
+      Url="Content/MyImport/Polymers.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/17_43.jpg" />
+    <Link
+      Url="Content/MyImport/17_44.jpg" />
+    <Link
+      Url="Content/MyImport/17_3.jpg" />
+    <Link
+      Url="Content/MyImport/17_4.jpg" />
+    <Link
+      Url="Content/MyImport/17_5.jpg" />
+    <Link
+      Url="Content/MyImport/17_6.jpg" />
+    <Link
+      Url="Content/MyImport/17_7.jpg" />
+    <Link
+      Url="Content/MyImport/17_8.jpg" />
+    <Link
+      Url="Content/MyImport/17_9.jpg" />
+    <Link
+      Url="Content/MyImport/17_10.jpg" />
+    <Link
+      Url="Content/MyImport/17_11.jpg" />
+    <Link
+      Url="Content/MyImport/17_12.jpg" />
+    <Link
+      Url="Content/MyImport/17_14.jpg" />
+    <Link
+      Url="Content/MyImport/wedge.png" />
+    <Link
+      Url="Content/MyImport/17_13.jpg" />
+    <Link
+      Url="Content/MyImport/17_16.jpg" />
+    <Link
+      Url="Content/MyImport/17_38.jpg" />
+    <Link
+      Url="Content/MyImport/17_39.jpg" />
+    <Link
+      Url="Content/MyImport/17_41.jpg" />
+    <Link
+      Url="Content/MyImport/17_42.jpg" />
+    <Link
+      Url="Content/MyImport/17_17.jpg" />
+    <Link
+      Url="Content/MyImport/17_19.jpg" />
+    <Link
+      Url="Content/MyImport/17_48.jpg" />
+    <Link
+      Url="Content/MyImport/17_49.jpg" />
+    <Link
+      Url="Content/MyImport/17_18.jpg" />
+    <Link
+      Url="Content/MyImport/17_20.jpg" />
+    <Link
+      Url="Content/MyImport/17_40.jpg" />
+    <Link
+      Url="Content/MyImport/17_21.jpg" />
+    <Link
+      Url="Content/MyImport/17_22.jpg" />
+    <Link
+      Url="Content/MyImport/17_25.jpg" />
+    <Link
+      Url="Content/MyImport/17_26.jpg" />
+    <Link
+      Url="Content/MyImport/17_27.jpg" />
+    <Link
+      Url="Content/MyImport/17_28.jpg" />
+    <Link
+      Url="Content/MyImport/17_29.jpg" />
+    <Link
+      Url="Content/MyImport/17_30.jpg" />
+    <Link
+      Url="Content/MyImport/17_31.jpg" />
+    <Link
+      Url="Content/MyImport/17_32.jpg" />
+    <Link
+      Url="Content/MyImport/17_33.jpg" />
+    <Link
+      Url="Content/MyImport/17_23.jpg" />
+    <Link
+      Url="Content/MyImport/17_34.jpg" />
+    <Link
+      Url="Content/MyImport/17_24.jpg" />
+    <Link
+      Url="Content/MyImport/17_35.jpg" />
+    <Link
+      Url="Content/MyImport/17_1.jpg" />
+    <Link
+      Url="Content/MyImport/17_15.jpg" />
+    <Link
+      Url="Content/MyImport/17_36.jpg" />
+    <Link
+      Url="Content/MyImport/17_37.jpg" />
+    <Link
+      Url="Content/MyImport/17_2.jpg" />
+    <Link
+      Url="Content/MyImport/17_46.jpg" />
+    <Link
+      Url="Content/MyImport/17_47.jpg" />
+    <Link
+      Url="Content/MyImport/17_45.jpg" />
+    <Link
+      Url="Content/MyImport/Polymers.htm#5-Query_617691554_1290197" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="A-Chemistry_1158485972_1113284" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1110085" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1107996" />
+    <Anchor
+      Name="Wedged" />
+    <Anchor
+      Name="Hollow_wedged" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1112954" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1072014" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1072043" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1072120" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1072154" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1072171" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1094137" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1094186" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1073176" />
+    <Anchor
+      Name="A-Chemistry_1158485972_Cahn-Ingold-Prelog" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1101152" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1102824" />
+    <Anchor
+      Name="A-Chemistry_1158485972_Annotations" />
+    <Anchor
+      Name="A-Chemistry_1158485972_1072367" />
+    <Anchor
+      Name="A-Chemistry_1158485972_92761" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="chemistry:of ChemDraw"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="drawing:database conventions"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="database conventions, in structure drawings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="bonds:types"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="types of bonds"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="atom labels:specification"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="126" />
+    <IndexCacheEntry
+      Term="chemically significant text"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="233" />
+    <IndexCacheEntry
+      Term="empirical formulas"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="233" />
+    <IndexCacheEntry
+      Term="charges:specifications"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="272" />
+    <IndexCacheEntry
+      Term="isotopes:specifications"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="344" />
+    <IndexCacheEntry
+      Term="element:recognized"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="344" />
+    <IndexCacheEntry
+      Term="radicals:specification"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="375" />
+    <IndexCacheEntry
+      Term="H-Dot and H-Dash:specification"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="383" />
+    <IndexCacheEntry
+      Term="Cahn-Ingold-Prelog"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="429" />
+    <IndexCacheEntry
+      Term="ligand, defined"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="437" />
+    <IndexCacheEntry
+      Term="RS, see stereochemistry indicators"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="454" />
+    <IndexCacheEntry
+      Term="asymmetry, see stereochemistry indicators"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="454" />
+    <IndexCacheEntry
+      Term="stereochemistry:indicators"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="454" />
+    <IndexCacheEntry
+      Term="indicators:stereochemistry"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="454" />
+    <IndexCacheEntry
+      Term="stereochemistry:see also indicators"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="482" />
+    <IndexCacheEntry
+      Term="stereochemistry:flags"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="482" />
+    <IndexCacheEntry
+      Term="chirality, see stereochemistry, flags"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="483" />
+    <IndexCacheEntry
+      Term="analysis:messages"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="516" />
+    <IndexCacheEntry
+      Term="messages:analysis"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="516" />
+    <IndexCacheEntry
+      Term="error messages"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="516" />
+    <IndexCacheEntry
+      Term="status messages"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="516" />
+    <IndexCacheEntry
+      Term="messages:status"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="516" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Deleted" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

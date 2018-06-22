@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="3659" MadCap:lastWidth="646" MadCap:disableMasterStylesheet="true" MadCap:tocPath="Getting Started|Documents" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+    <head><title>Document Properties</title>
+        <link href="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Stylesheets/Cambridgesoft1.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h3 class="Heading2" MadCap:xrefTargetName="Document Properties" MadCap:sourceTitle="Document Properties"><a MadCap:generatedBookmark="TOC" name="Document Properties"></a>Document Properties</h3>
+        <DIV class="Body">The document properties feature enables you to provide properties within a document which can be indexed by external aggregation engines like Attivio and Elastic search. Adding document properties enable quick and easy retrievable during global search.</DIV>
+        <DIV class="Body">You can attach arbitrary data which may be based on certain criteria or requirements to the documents so it can be later indexed. For example, a requirement that all the documents produced within a specific company should have the company name can be achieved by attaching a required property 'Company name' with the 'Rule' field set as 'Required'. You can also add properties that provide more information about the content of the document. For example, you can add a property which describes a specific biological drawing or content within the document. </DIV>
+        <DIV class="Caution" MadCap:autonum="&lt;b&gt;Caution: &lt;/b&gt; ">To be able to view the saved document properties later, the document should be saved in CDX or CDXML format.</DIV>
+        <DIV class="Body">To attach a document property:</DIV>
+        <DIV class="numlist1-1st" MadCap:autonum="1. ">Go to <b>File&gt; Document Properties...</b>. The Document Properties dialog appears.</DIV>
+        <DIV class="Body">
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/documetn properties.png" MadCap:conditions="MyImport.For_PDF" />
+        </DIV>
+        <DIV class="numlist1-inner" MadCap:autonum="2. ">Click <b MadCap:conditions="MyImport.For_PDF">Add</b>. </DIV>
+        <DIV class="Body">The document Properties dialog has the following fields/attributes:</DIV>
+        <DIV class="Bullet1-1st"><b>Name</b> - Specify the property Name. </DIV>
+        <DIV class="NoteInd" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">The <b>Name</b> field cannot be blank. Redundant or duplicate names are not permitted.</DIV>
+        <DIV class="Bullet1-inner"><b>Value</b>- Specify the value for the property</DIV>
+        <DIV class="Bullet1-inner"><b>Type</b>- Select the type of data from the following three options:</DIV>
+        <DIV class="Bullet2-inner"><b>String</b>
+        </DIV>
+        <DIV class="Bullet2-inner"><b>Whole Number</b>
+        </DIV>
+        <DIV class="Bullet2-inner"><b>Decimal</b>
+        </DIV>
+        <DIV class="NoteInd" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">You cannot save the document properties if there is a mismatch between the value specified and the type selected. For example, if 'Decimal' is selected as type, and a text value is specified, you will get an error and will not be able to save the document property.</DIV>
+        <DIV class="Bullet1-inner"><b>Rule</b>- Select the type of property:</DIV>
+        <DIV class="Bullet2-inner"><b>Required</b>- It is mandatory to enter a value and you will not be able to save the document properties if the Value field is blank. An error in the status field will be displayed.</DIV>
+        <DIV class="NoteInd" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">Style sheet can be saved without setting value for a required property.</DIV>
+        <DIV class="Bullet2-inner"><b>Recommended</b> - You can save the document properties with the Value field blank, but a warning will be displayed in the status field implying that the document was saved with an unset recommended property.</DIV>
+        <DIV class="Bullet2-last"><b>Optional</b>- The document properties will be saved irrespective of whether the Value field is set or unset.</DIV>
+        <DIV class="Bullet1-last"><b>Status</b>- It indicates whether the value specified is correct/incorrect and also displays any error or warnings generated.</DIV>
+        <DIV class="numlist1-last" MadCap:autonum="3. ">Click <b>Save</b> to save the document properties.</DIV>
+        <DIV class="Body">You will not be allowed to save the document properties if there is any   mismatch between the value specified and the type selected or a required value is not specified. A message describing the error appears.</DIV>
+        <DIV class="Body">
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/required error.png" MadCap:conditions="MyImport.For_PDF" />
+        </DIV>
+        <DIV class="Body">Click <b>Edit</b> to open the Document Properties dialog and set the required values.</DIV>
+        <DIV class="Body">&#160;</DIV>
+        <DIV class="Body">We can add a maximum of 100 properties. Click <b MadCap:conditions="MyImport.For_PDF">Add </b> to add multiple properties. An empty row appears every time you click <b MadCap:conditions="MyImport.For_PDF">Add</b>.</DIV>
+        <DIV class="Body">
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/add.png" MadCap:conditions="MyImport.For_PDF" />
+        </DIV>
+        <h4 class="Heading3">Delete Document Properties</h4>
+        <DIV class="Body">You can also chose to delete document properties that are obsolete or not required any more.</DIV>
+        <DIV class="Body">To delete a document property:</DIV>
+        <DIV class="numlist1-1st" MadCap:autonum="1. ">Select the document property to be deleted.</DIV>
+        <DIV class="numlist1-last" MadCap:autonum="2. ">Click <b MadCap:conditions="MyImport.For_PDF">Delete</b>.</DIV>
+        <DIV class="Body">
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Delete.png" MadCap:conditions="MyImport.For_PDF" />
+        </DIV>
+        <DIV class="Body">The selected document property is deleted.</DIV>
+        <h4 class="Heading3">Sorting</h4>
+        <DIV class="Body">You can sort the document properties based on any field you desire. To sort, click the desired field name. A small <MadCap:conditionalText MadCap:conditions="MyImport.For_PDF">triangle</MadCap:conditionalText> on the right side of the field name indicates the sorting order(ascending /descending).</DIV>
+        <DIV class="Body">
+            <img src="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/sorting.png" MadCap:conditions="MyImport.For_PDF" />
+        </DIV>
+        <DIV class="Body">&#160;</DIV>
+    </body>
+</html>

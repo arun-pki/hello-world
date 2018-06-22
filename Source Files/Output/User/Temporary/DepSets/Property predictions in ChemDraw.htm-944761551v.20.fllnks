@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="../ChemBioFinder_latest/Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm" />
+    <Link
+      Url="http://www.molecular-networks.com/moses" />
+    <Link
+      Url="http://www.molecular-networks.com/" />
+    <Link
+      Url="Content/MyImport/BoilingPoint.png" />
+    <Link
+      Url="Content/MyImport/GibbsFreeEnergy.png" />
+    <Link
+      Url="Content/MyImport/GibbFreeEnergy2.png" />
+    <Link
+      Url="Content/MyImport/HenrysLawConstant.png" />
+    <Link
+      Url="Content/MyImport/LogP.png" />
+    <Link
+      Url="Content/MyImport/MeltingPoint.png" />
+    <Link
+      Url="Content/MyImport/pka.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="../ChemBioFinder_latest/Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#Boiling" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#Heat2" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#pKa" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#Henrys" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#Critical" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#tPSA" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#Critical2" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#LogP" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#Critical3" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#LogS" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#CLogP" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#Melting" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#Gibbs" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm#MR" />
+    <Link
+      Url="http://www.molecular-networks.com/moses" />
+    <Link
+      Url="http://www.molecular-networks.com/" />
+    <Link
+      Url="Content/MyImport/BoilingPoint.png" />
+    <Link
+      Url="Content/MyImport/GibbsFreeEnergy.png" />
+    <Link
+      Url="Content/MyImport/GibbFreeEnergy2.png" />
+    <Link
+      Url="Content/MyImport/HenrysLawConstant.png" />
+    <Link
+      Url="Content/MyImport/LogP.png" />
+    <Link
+      Url="Content/MyImport/MeltingPoint.png" />
+    <Link
+      Url="Content/MyImport/pka.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Boiling" />
+    <Anchor
+      Name="Critical" />
+    <Anchor
+      Name="Critical2" />
+    <Anchor
+      Name="Critical3" />
+    <Anchor
+      Name="CLogP" />
+    <Anchor
+      Name="Gibbs" />
+    <Anchor
+      Name="Heat2" />
+    <Anchor
+      Name="Henrys" />
+    <Anchor
+      Name="LogP" />
+    <Anchor
+      Name="LogS" />
+    <Anchor
+      Name="Melting" />
+    <Anchor
+      Name="MR" />
+    <Anchor
+      Name="pKa" />
+    <Anchor
+      Name="tPSA" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="boiling point"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="138" />
+    <IndexCacheEntry
+      Term="critical pressure"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="151" />
+    <IndexCacheEntry
+      Term="critical temperature"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="155" />
+    <IndexCacheEntry
+      Term="critical volume"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="159" />
+    <IndexCacheEntry
+      Term="CLogP"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="167" />
+    <IndexCacheEntry
+      Term="CMR"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="169" />
+    <IndexCacheEntry
+      Term="Gibbs free energy"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="173" />
+    <IndexCacheEntry
+      Term="heat of formation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="195" />
+    <IndexCacheEntry
+      Term="Henry’s Law constant"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="199" />
+    <IndexCacheEntry
+      Term="melting point"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="222" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Comment" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="../ChemBioFinder_latest/Content/Resources/TableStyles/_2col_table.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Getting Started"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="ChemScript library:loading"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="ChemScript Help"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="Entering SMILES Data"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Report a Chemical Name"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="Counting Atoms"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="44" />
+    <IndexCacheEntry
+      Term="Exiting IDLE"
+      Conditions="Default.PrintOnly"
+      LocalConditions=""
+      Position="50" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.PrintOnly" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/ChemScript chapter/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

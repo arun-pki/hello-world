@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Fischer Indole2.gif" />
+    <Link
+      Url="Content/MyImport/COMBICopyMolecule.png" />
+    <Link
+      Url="Content/MyImport/CombiChem.htm" />
+    <Link
+      Url="Content/MyImport/ConfigurePlates.png" />
+    <Link
+      Url="Content/MyImport/12_5.jpg" />
+    <Link
+      Url="Content/MyImport/PlateBrowser.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Fischer Indole2.gif" />
+    <Link
+      Url="Content/MyImport/COMBICopyMolecule.png" />
+    <Link
+      Url="Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159261" />
+    <Link
+      Url="Content/MyImport/ConfigurePlates.png" />
+    <Link
+      Url="Content/MyImport/12_5.jpg" />
+    <Link
+      Url="Content/MyImport/PlateBrowser.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="10-Excel_3629383264_1159200" />
+    <Anchor
+      Name="10-Excel_3629383264_1159204" />
+    <Anchor
+      Name="10-Excel_3629383264_Combichem" />
+    <Anchor
+      Name="10-Excel_3629383264_1159261" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc456421296" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc456525090" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc456527453" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc456674629" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc457016256" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc457037214" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc458497092" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc458497478" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc459793619" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc461522407" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc456674633" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc457016260" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc457037218" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc458497096" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc458497482" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc459793623" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc461522411" />
+    <Anchor
+      Name="10-Excel_3629383264__Toc456421300" />
+    <Anchor
+      Name="Creating" />
+    <Anchor
+      Name="10-Excel_3629383264_1159341" />
+    <Anchor
+      Name="Browsing" />
+    <Anchor
+      Name="10-Excel_3629383264_1159393" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="reaction templates"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Help"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="reaction worksheet"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="reactant worksheets"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="69" />
+    <IndexCacheEntry
+      Term="reactant lists"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="Combi experiments:creating"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="151" />
+    <IndexCacheEntry
+      Term="reactant worksheets:recreating"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="152" />
+    <IndexCacheEntry
+      Term="change plate assignment"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="274" />
+    <IndexCacheEntry
+      Term="plate assignments:to change"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="274" />
+    <IndexCacheEntry
+      Term="plate assignments:removing"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="276" />
+    <IndexCacheEntry
+      Term="preferences"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="316" />
+    <IndexCacheEntry
+      Term="Instructions"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="322" />
+    <IndexCacheEntry
+      Term="Reaction"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="325" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.Combichem" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.Combichem" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Prod_CD"
+    OriginalName="Prod_CD">ChemDraw 16.0</Variable>
+  <Variable
+    Name="Huckel">Huckel</Variable>
+  <Variable
+    Name="Prod_3D"
+    Definition="Some text">ChemDraw 16.0</Variable>
+  <Variable
+    Name="Product_COMO"
+    Comment=""
+    Definition="Some text">ChemFinder/Office</Variable>
+  <Variable
+    Name="Prod_CF"
+    Comment=""
+    Definition="Some text">ChemFinder</Variable>
+  <Variable
+    Name="DrawXL"
+    Comment=""
+    Definition="Some text">ChemDraw/Excel</Variable>
+</CatapultVariableSet>

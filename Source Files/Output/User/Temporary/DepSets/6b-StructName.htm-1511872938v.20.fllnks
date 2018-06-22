@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/Resources/Images/S2N.png" />
+    <Link
+      Url="Content/Resources/Images/build tab.png" />
+    <Link
+      Url="Content/Resources/Images/build tab win.png" />
+    <Link
+      Url="Content/Resources/Images/rac.png" />
+    <Link
+      Url="Content/Resources/Images/rel.png" />
+    <Link
+      Url="Content/Resources/Images/mixed.png" />
+    <Link
+      Url="Content/MyImport/10_3.jpg" />
+    <Link
+      Url="Content/MyImport/10_2.jpg" />
+    <Link
+      Url="Content/MyImport/10_1.jpg" />
+    <Link
+      Url="Content/Resources/polymerstruct.png" />
+    <Link
+      Url="Content/Resources/stoichstruct2name.png" />
+    <Link
+      Url="Content/MyImport/Captions.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/Resources/Images/S2N.png" />
+    <Link
+      Url="Content/Resources/Images/build tab.png" />
+    <Link
+      Url="Content/Resources/Images/build tab win.png" />
+    <Link
+      Url="Content/Resources/Images/rac.png" />
+    <Link
+      Url="Content/Resources/Images/rel.png" />
+    <Link
+      Url="Content/Resources/Images/mixed.png" />
+    <Link
+      Url="Content/MyImport/10_3.jpg" />
+    <Link
+      Url="Content/MyImport/10_2.jpg" />
+    <Link
+      Url="Content/MyImport/10_1.jpg" />
+    <Link
+      Url="Content/Resources/polymerstruct.png" />
+    <Link
+      Url="Content/Resources/stoichstruct2name.png" />
+    <Link
+      Url="Content/MyImport/Captions.htm#Analysis" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="6b-StructName_545059099_1137019" />
+    <Anchor
+      Name="6b-StructName_545059099_1109502" />
+    <Anchor
+      Name="6b-StructName_545059099_14256" />
+    <Anchor
+      Name="6b-StructName_545059099_47323" />
+    <Anchor
+      Name="6b-StructName_545059099_1107053" />
+    <Anchor
+      Name="6b-StructName_545059099_Struct=Name" />
+    <Anchor
+      Name="6b-StructName_545059099_1107046" />
+    <Anchor
+      Name="6b-StructName_545059099_1083734" />
+    <Anchor
+      Name="6b-StructName_545059099_60141" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Struct=Name"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="Struct=Name"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="adding:chemical names"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="captions:inserting from structure"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="convert structure to name, automatic captions"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="structure:converting to name"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="name:of structure, inserting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="supported structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="non-ringed structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="113" />
+    <IndexCacheEntry
+      Term="ringed structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="123" />
+    <IndexCacheEntry
+      Term="ring assemblies"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="136" />
+    <IndexCacheEntry
+      Term="unsupported structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="177" />
+    <IndexCacheEntry
+      Term="labels:auto-update"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="185" />
+    <IndexCacheEntry
+      Term="auto update"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="185" />
+    <IndexCacheEntry
+      Term="hot-linked properties"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="185" />
+    <IndexCacheEntry
+      Term="Struct=Name"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="198" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

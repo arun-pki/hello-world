@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_11.jpg" />
+    <Link
+      Url="Content/MyImport/13_12.jpg" />
+    <Link
+      Url="Content/MyImport/13_13.jpg" />
+    <Link
+      Url="Content/MyImport/13_14.jpg" />
+    <Link
+      Url="Content/MyImport/13_28.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_11.jpg" />
+    <Link
+      Url="Content/MyImport/13_12.jpg" />
+    <Link
+      Url="Content/MyImport/13_13.jpg" />
+    <Link
+      Url="Content/MyImport/13_14.jpg" />
+    <Link
+      Url="Content/MyImport/13_28.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="5-Query_617691554_1292528" />
+    <Anchor
+      Name="5-Query_617691554_34395" />
+    <Anchor
+      Name="5-Query_617691554_1236812" />
+    <Anchor
+      Name="5-Query_617691554_R-Logic_queries" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="generic structures, expanding"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Rest H"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/_2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

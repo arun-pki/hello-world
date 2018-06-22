@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MySingleColumnPDF"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPageLayout="/Content/Resources/PageLayouts/SingleColumnPrint.flpgl"
+  ConditionTagExpression="include[MyImport.For_PDF] exclude[MyConditions.Book or MyConditions.Book_only or MyConditions.Comment or MyConditions.ZZ_Draft or MyImport.Book or MyImport.Book_only or MyImport.Comment or MyImport.Deleted or MyImport.FM8_SYSTEM_HIDEELEMENT or MyImport.FM8_TRACK_CHANGES_ADDED or MyImport.FM8_TRACK_CHANGES_DELETED or MyImport.Mac or MyImport.Online_Help or &quot;MyImport.ONLY for WebHELP (MAC) output&quot;] "
+  PatchHeadingLevels="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/Cambridgesoft1.css"
+  DisableAutoSync="true"
+  Medium="print"
+  MasterToc="/Project/TOCs/TOC for PDF.fltoc"
+  OutputFile="ChemDraw">
+  <DocumentProperties
+    Author="PerkinElmer Informatics"
+    Title="ChemDraw v18.0 User Guide" />
+  <PDF
+    ShowUsedBookmarks="false"
+    TitleBar="DocumentTitle" />
+  <Variables>
+    <Variable
+      Name="MyImport/Prod_CD">ChemDraw 16.0</Variable>
+    <Variable
+      Name="MyImport/Prod_3D">ChemDraw 16.0</Variable>
+    <Variable
+      Name="MyImport/Prod_CF">ChemFinder</Variable>
+    <Variable
+      Name="MyImport/Product_COMO">ChemFinder/Office</Variable>
+  </Variables>
+</CatapultTarget>

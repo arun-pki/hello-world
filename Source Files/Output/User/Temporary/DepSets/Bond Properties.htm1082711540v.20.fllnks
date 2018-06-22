@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Atom Properties.htm" />
+    <Link
+      Url="Content/MyImport/Bond Properties.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Atom Properties.htm#5-Query_617691554_1286685" />
+    <Link
+      Url="Content/MyImport/Bond Properties.htm#5-Query_617691554_1285594" />
+    <Link
+      Url="Content/MyImport/Bond Properties.htm#5-Query_617691554_1236361" />
+    <Link
+      Url="Content/MyImport/Bond Properties.htm#5-Query_617691554_1236404" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="5-Query_617691554_1077575" />
+    <Anchor
+      Name="5-Query_617691554_97837" />
+    <Anchor
+      Name="5-Query_617691554_46682" />
+    <Anchor
+      Name="5-Query_617691554_25283" />
+    <Anchor
+      Name="5-Query_617691554_1277066" />
+    <Anchor
+      Name="5-Query_617691554_1210593" />
+    <Anchor
+      Name="5-Query_617691554_1077683" />
+    <Anchor
+      Name="5-Query_617691554_1287764" />
+    <Anchor
+      Name="5-Query_617691554_1285594" />
+    <Anchor
+      Name="5-Query_617691554_90084" />
+    <Anchor
+      Name="5-Query_617691554_1236361" />
+    <Anchor
+      Name="5-Query_617691554_55453" />
+    <Anchor
+      Name="5-Query_617691554_1236404" />
+    <Anchor
+      Name="5-Query_617691554_19988" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="bond properties:defining"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="properties:bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="bond properties, assigningbonds:properties, assigningassiging:bond properties"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="bond properties, assigningbonds:properties, assigning"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="bonds:properties, assigning"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="bond properties:query indicators"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="35" />
+    <IndexCacheEntry
+      Term="properties:bond query indicators"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="35" />
+    <IndexCacheEntry
+      Term="properties:bond, removing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="109" />
+    <IndexCacheEntry
+      Term="use defaults:bond properties"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="109" />
+    <IndexCacheEntry
+      Term="reset defaults:bond properties"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="109" />
+    <IndexCacheEntry
+      Term="default:bond properties, resetting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="109" />
+    <IndexCacheEntry
+      Term="bond properties:removing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="109" />
+    <IndexCacheEntry
+      Term="atom properties:description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="125" />
+    <IndexCacheEntry
+      Term="properties:atom, description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="125" />
+    <IndexCacheEntry
+      Term="bond properties:types"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="130" />
+    <IndexCacheEntry
+      Term="properties:bond types"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="130" />
+    <IndexCacheEntry
+      Term="topology"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="164" />
+    <IndexCacheEntry
+      Term="properties:bond, topology"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="164" />
+    <IndexCacheEntry
+      Term="bond properties:topology"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="164" />
+    <IndexCacheEntry
+      Term="reaction center"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="179" />
+    <IndexCacheEntry
+      Term="properties:bond, reaction center"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="179" />
+    <IndexCacheEntry
+      Term="bond properties:reaction center"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="179" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

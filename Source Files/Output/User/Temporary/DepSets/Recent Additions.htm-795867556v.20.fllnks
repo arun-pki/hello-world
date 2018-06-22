@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Recent Additions"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/Autosave and Versioning.htm" />
+    <Link
+      Url="Content/MyImport/Documents.htm" />
+    <Link
+      Url="Content/Browsing Versions.htm" />
+    <Link
+      Url="Content/ChemCloud topics/What is ChemDraw for E-Notebook.htm" />
+    <Link
+      Url="Content/MyImport/ChemDraw_HotKeys.htm" />
+    <Link
+      Url="Content/Drawing Monomer Sequences.htm" />
+    <Link
+      Url="Content/ChemDraw Add-ins.htm" />
+    <Link
+      Url="Content/MyImport/6b-StructName.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/Autosave and Versioning.htm" />
+    <Link
+      Url="Content/MyImport/Documents.htm" />
+    <Link
+      Url="Content/Browsing Versions.htm" />
+    <Link
+      Url="Content/ChemCloud topics/What is ChemDraw for E-Notebook.htm" />
+    <Link
+      Url="Content/MyImport/ChemDraw_HotKeys.htm" />
+    <Link
+      Url="Content/Drawing Monomer Sequences.htm" />
+    <Link
+      Url="Content/ChemDraw Add-ins.htm" />
+    <Link
+      Url="Content/MyImport/6b-StructName.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Recent" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="What’s New"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.ONLY for WebHELP (MAC) output" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Objects.htm" />
+    <Link
+      Url="Content/MyImport/8-Presentation.htm" />
+    <Link
+      Url="Content/MyImport/Document Settings.htm" />
+    <Link
+      Url="Content/MyImport/5_17.jpg" />
+    <Link
+      Url="Content/MyImport/Drawing Reactions.htm" />
+    <Link
+      Url="Content/MyImport/drawing polymers.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1238265" />
+    <Link
+      Url="Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1133021" />
+    <Link
+      Url="Content/MyImport/Document Settings.htm" />
+    <Link
+      Url="Content/MyImport/5_17.jpg" />
+    <Link
+      Url="Content/MyImport/Drawing Reactions.htm#Clean" />
+    <Link
+      Url="Content/MyImport/drawing polymers.htm#Clean" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="3-Drawing_10_1269804279_1393909" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

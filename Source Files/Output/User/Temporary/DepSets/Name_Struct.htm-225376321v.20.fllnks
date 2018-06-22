@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/Resources/Images/n2S.png" />
+    <Link
+      Url="Content/Resources/Images/build tab.png" />
+    <Link
+      Url="Content/Resources/Images/build tab win.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/Resources/Images/n2S.png" />
+    <Link
+      Url="Content/Resources/Images/build tab.png" />
+    <Link
+      Url="Content/Resources/Images/build tab win.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="6b-StructName_545059099_1098708" />
+    <Anchor
+      Name="6b-StructName_545059099_1109001" />
+    <Anchor
+      Name="6b-StructName_545059099_78972" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Name=Struct"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="name to structure see Name=Struct"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="chemical name, structure from"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="insert name as structure"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="automatic:drawing of structure"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="inserting:name as structure"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="name:inserting as structure"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="drawing:structure automatically from name"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="name, automatic structure from"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Name=Struct:converting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="converting names to structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="converting:name to structure"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="Clipboard"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="41" />
+    <IndexCacheEntry
+      Term="supported structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="Struct=Name, structure types supported"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="ringed structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="144" />
+    <IndexCacheEntry
+      Term="convert name to structure, limitations"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="174" />
+    <IndexCacheEntry
+      Term="limitations, name-to-structure"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="174" />
+    <IndexCacheEntry
+      Term="Name=Struct:limitations"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="174" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/_2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

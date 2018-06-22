@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/15_3.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/15_3.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="margin width, specifying"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="margin width:setting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="atom labels:white space"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="white space, adjusting in atom labels"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="atom labels:margin width"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="margin width:specifying"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="5" />
+    <IndexCacheEntry
+      Term="layering:atom labels"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="atom labels:layering"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="picture layers:atom labels"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="drawing settings:margin width, effect on atom labels"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

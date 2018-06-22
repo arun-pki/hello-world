@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Objects.htm" />
+    <Link
+      Url="Content/MyImport/s-orbitals.png" />
+    <Link
+      Url="Content/MyImport/sigma.png" />
+    <Link
+      Url="Content/MyImport/p orbitals.png" />
+    <Link
+      Url="Content/MyImport/hybrid orbitals.png" />
+    <Link
+      Url="Content/MyImport/d orbitals.png" />
+    <Link
+      Url="Content/MyImport/chemical symbols1.png" />
+    <Link
+      Url="Content/MyImport/Drawing Reactions.htm" />
+    <Link
+      Url="Content/MyImport/11_8.jpg" />
+    <Link
+      Url="Content/MyImport/Attachment Points.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1238224" />
+    <Link
+      Url="Content/MyImport/s-orbitals.png" />
+    <Link
+      Url="Content/MyImport/sigma.png" />
+    <Link
+      Url="Content/MyImport/p orbitals.png" />
+    <Link
+      Url="Content/MyImport/hybrid orbitals.png" />
+    <Link
+      Url="Content/MyImport/d orbitals.png" />
+    <Link
+      Url="Content/MyImport/chemical symbols1.png" />
+    <Link
+      Url="Content/MyImport/Drawing Reactions.htm#4-Adv_Draw_2238496342_86163" />
+    <Link
+      Url="Content/MyImport/11_8.jpg" />
+    <Link
+      Url="Content/MyImport/Attachment Points.htm#4-Adv_Draw_2238496342_1083540" />
+    <Link
+      Url="Content/MyImport/Objects.htm#3-Drawing_10_1269804279_1155280" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="6a-Chem_969106972_1135203" />
+    <Anchor
+      Name="6a-Chem_969106972_14963" />
+    <Anchor
+      Name="6a-Chem_969106972_1135215" />
+    <Anchor
+      Name="6a-Chem_969106972_1220626" />
+    <Anchor
+      Name="6a-Chem_969106972_46754" />
+    <Anchor
+      Name="6a-Chem_969106972_1135359" />
+    <Anchor
+      Name="6a-Chem_969106972_80563" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="S-orbitals, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="drawing:s-orbitals"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="25" />
+    <IndexCacheEntry
+      Term="Sigma orbitals, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="35" />
+    <IndexCacheEntry
+      Term="drawing:sigma orbitals"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="35" />
+    <IndexCacheEntry
+      Term="single lobe orbitals, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="drawing:single lobe orbitals"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="p-orbitals, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="51" />
+    <IndexCacheEntry
+      Term="drawing:p-orbitals"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="51" />
+    <IndexCacheEntry
+      Term="hybrid orbitals, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="drawing:hybrid orbitals"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="d-orbitals, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="69" />
+    <IndexCacheEntry
+      Term="drawing:d-orbitals"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="69" />
+    <IndexCacheEntry
+      Term="chemical symbols:circle minus"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="88" />
+    <IndexCacheEntry
+      Term="circle minus"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="88" />
+    <IndexCacheEntry
+      Term="symbols, chemical:circle minus"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="88" />
+    <IndexCacheEntry
+      Term="chemical symbols:circle plus"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="89" />
+    <IndexCacheEntry
+      Term="circle plus"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="89" />
+    <IndexCacheEntry
+      Term="symbols, chemical:circle plus"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="89" />
+    <IndexCacheEntry
+      Term="minus (symbol)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="chemical symbols:plus (symbol)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="97" />
+    <IndexCacheEntry
+      Term="plus (symbol)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="97" />
+    <IndexCacheEntry
+      Term="symbols, chemical:plus (symbol)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="97" />
+    <IndexCacheEntry
+      Term="chemical symbols:minus (symbol)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="symbols, chemical:minus (symbol)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="H–dot"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="101" />
+    <IndexCacheEntry
+      Term="H–dash"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="102" />
+    <IndexCacheEntry
+      Term="Lone Pair"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="108" />
+    <IndexCacheEntry
+      Term="lone pair symbol"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="109" />
+    <IndexCacheEntry
+      Term="Lewis dot symbol, see lone pair symbol"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="109" />
+    <IndexCacheEntry
+      Term="Radical"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="124" />
+    <IndexCacheEntry
+      Term="Radical Cation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="132" />
+    <IndexCacheEntry
+      Term="Radical Anion"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="133" />
+    <IndexCacheEntry
+      Term="radicals:drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="134" />
+    <IndexCacheEntry
+      Term="anion, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="134" />
+    <IndexCacheEntry
+      Term="cation, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="134" />
+    <IndexCacheEntry
+      Term="drawing:radicals"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="134" />
+    <IndexCacheEntry
+      Term="Charge Symbols"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="141" />
+    <IndexCacheEntry
+      Term="charges:symbols, drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="142" />
+    <IndexCacheEntry
+      Term="drawing:charge symbols"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="142" />
+    <IndexCacheEntry
+      Term="attachment points"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="151" />
+    <IndexCacheEntry
+      Term="attachment point:tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="152" />
+    <IndexCacheEntry
+      Term="polymer beads"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="159" />
+    <IndexCacheEntry
+      Term="rotate:chemical symbols"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="163" />
+    <IndexCacheEntry
+      Term="chemical symbols:rotating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="163" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.ONLY for WebHELP (MAC) output" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.SKU_only" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

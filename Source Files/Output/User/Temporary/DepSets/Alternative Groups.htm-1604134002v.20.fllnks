@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_25.jpg" />
+    <Link
+      Url="Content/MyImport/13_5.jpg" />
+    <Link
+      Url="Content/MyImport/13_6.jpg" />
+    <Link
+      Url="Content/MyImport/13_7.jpg" />
+    <Link
+      Url="Content/MyImport/Alternative Groups.htm" />
+    <Link
+      Url="Content/MyImport/13_9.jpg" />
+    <Link
+      Url="Content/MyImport/13_2.jpg" />
+    <Link
+      Url="Content/MyImport/13_16.jpg" />
+    <Link
+      Url="Content/MyImport/13_10.jpg" />
+    <Link
+      Url="Content/MyImport/13_30.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_25.jpg" />
+    <Link
+      Url="Content/MyImport/13_5.jpg" />
+    <Link
+      Url="Content/MyImport/13_6.jpg" />
+    <Link
+      Url="Content/MyImport/13_7.jpg" />
+    <Link
+      Url="Content/MyImport/Alternative Groups.htm#5-Query_617691554_1224491" />
+    <Link
+      Url="Content/MyImport/13_9.jpg" />
+    <Link
+      Url="Content/MyImport/13_2.jpg" />
+    <Link
+      Url="Content/MyImport/13_16.jpg" />
+    <Link
+      Url="Content/MyImport/13_10.jpg" />
+    <Link
+      Url="Content/MyImport/13_30.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="5-Query_617691554_1078473" />
+    <Anchor
+      Name="5-Query_617691554_1224491" />
+    <Anchor
+      Name="5-Query_617691554_62642" />
+    <Anchor
+      Name="5-Query_617691554_47572" />
+    <Anchor
+      Name="5-Query_617691554_32949" />
+    <Anchor
+      Name="5-Query_617691554_1078660" />
+    <Anchor
+      Name="5-Query_617691554_1298908" />
+    <Anchor
+      Name="5-Query_617691554_16092" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="alternative groups:description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="generic groups"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="G groups"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="R groups"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="alternative groups:defining"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="tools:alternative group"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="attachment point:defining"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="attachment point:tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="tools:attachment point"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="alternative groups:attachment point symbol"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="attachment point:symbol"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="alternative groups:attachment rank indicators"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="attachment points, multiple"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="multiple attachment points"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="alternative groups:multiple attachment points"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="alternative groups:attachment point numbering"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="86" />
+    <IndexCacheEntry
+      Term="attachment point:numbering"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="86" />
+    <IndexCacheEntry
+      Term="attachment rank indicators, showing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="93" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

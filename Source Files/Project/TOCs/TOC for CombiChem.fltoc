@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc>
+  <TocEntry
+    Title="PDFCover"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/PDFCover.flpgl"
+    Link="/Content/PDFCover.htm"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    conditions="MyImport.For_PDF"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    PageType="first" />
+  <TocEntry
+    Title="Table Of Contents"
+    Link="/Content/MyImport/CDOnlineTOC.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/SingleColumnPrintTOC.flpgl"
+    StartSection="false"
+    conditions="MyImport.For_PDF"
+    PageNumber="1"
+    PageNumberReset="continue"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"></TocEntry>
+  <TocEntry
+    Title="CombiChem"
+    Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159200"
+    conditions="MyImport.Combichem">
+    <TocEntry
+      Title="Getting Started"
+      Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159204"
+      conditions="MyImport.Combichem" />
+    <TocEntry
+      Title="Configuring Plates"
+      Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159341"
+      conditions="MyImport.Combichem" />
+    <TocEntry
+      Title="Setting Preferences"
+      Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159393"
+      conditions="MyImport.Combichem" />
+    <TocEntry
+      Title="ChemFinder/Office"
+      Link="/Content/MyImport/ChemFinder_Office.htm#10-Excel_3629383264_1159408"
+      conditions="MyImport.Combichem">
+      <TocEntry
+        Title="ChemDraw for Excel"
+        Link="/Content/MyImport/ChemFinder_Office.htm#10-Excel_3629383264_1152124"
+        conditions="MyImport.Combichem" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Index"
+    Link="/Content/MyImport/CDOnlineIX.htm#CDOnlineIX_983353755_250146"
+    conditions="MyConditions.Book_only"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/IndexPageLayout.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false" />
+</CatapultToc>

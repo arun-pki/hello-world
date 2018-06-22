@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Name="Book"
+    BackgroundColor="#0000ff" />
+  <ConditionTag
+    Name="Book_only"
+    BackgroundColor="#0000ff" />
+  <ConditionTag
+    Name="Comment"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="FM8_SYSTEM_HIDEELEMENT" />
+  <ConditionTag
+    Name="FM8_TRACK_CHANGES_ADDED"
+    BackgroundColor="#218921" />
+  <ConditionTag
+    Name="FM8_TRACK_CHANGES_DELETED"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="For_PDF"
+    BackgroundColor="#ff00ff" />
+  <ConditionTag
+    Name="Help" />
+  <ConditionTag
+    Name="Index"
+    BackgroundColor="#0000ff" />
+  <ConditionTag
+    Name="Mac" />
+  <ConditionTag
+    Name="Online_Help"
+    BackgroundColor="#00ff00" />
+  <ConditionTag
+    Name="PC" />
+  <ConditionTag
+    Name="ZZ_Draft" />
+  <ConditionTag
+    Name="SKU_only"
+    BackgroundColor="#ff0000" />
+  <ConditionTag
+    Name="Figure" />
+  <ConditionTag
+    Name="For_Index" />
+  <ConditionTag
+    Name="Deleted"
+    BackgroundColor="#7fffd4"
+    Comment="Not in release v14.0" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="ChemDraw_Excel"
+    Comment="only for ChemDraw/Excel conditional tags.." />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Combichem"
+    Comment="only for combichem help" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="ChemDraw help"
+    Comment="used to generate chemdraw/excel help" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="ONLY for WebHELP (MAC) output"
+    Comment=""
+    OriginalName="ONLY for WebHELP (MAC) output" />
+</CatapultConditionTagSet>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_36.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_36.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="5-Query_617691554_1174498" />
+    <Anchor
+      Name="5-Query_617691554_1215808" />
+    <Anchor
+      Name="5-Query_617691554_46534" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="link nodes"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="queries:multiple rings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="flip type"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="polymers:flip type"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="27" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

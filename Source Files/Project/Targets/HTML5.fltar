@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/TOC for CHM.fltoc"
+  Skin="/Project/Skins/HTML5_CD.flskn"
+  ConditionTagExpression="exclude[MyConditions.Book or MyConditions.Book_only or MyConditions.Comment or MyConditions.FM8_SYSTEM_HIDEELEMENT or MyConditions.FM8_TRACK_CHANGES_ADDED or MyConditions.FM8_TRACK_CHANGES_DELETED or MyConditions.ZZ_Draft or MyImport.Book or MyImport.Book_only or MyImport.ChemDraw_Excel or MyImport.Combichem or MyImport.Comment or MyImport.Deleted or MyImport.For_PDF or MyImport.PC or MyImport.ZZ_Draft] "
+  MasterStylesheet="/Content/Resources/Stylesheets/Cambridgesoft1.css"
+  PreCompileScaledImages="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

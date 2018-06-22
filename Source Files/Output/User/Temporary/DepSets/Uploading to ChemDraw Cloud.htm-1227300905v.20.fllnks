@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/ChemCloud topics/Images/upload.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/upload_mac.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/saveas.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/save as_mac.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/listarrow.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/listarrow_mac.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/listview.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/listview_mac.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/overwrite1.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/overwrite1_mac.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/keyword.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/Keyword_mac.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/ChemCloud topics/Images/upload.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/upload_mac.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/saveas.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/save as_mac.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/listarrow.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/listarrow_mac.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/listview.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/listview_mac.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/overwrite1.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/overwrite1_mac.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/keyword.png" />
+    <Link
+      Url="Content/ChemCloud topics/Images/Keyword_mac.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.ONLY for WebHELP (MAC) output" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

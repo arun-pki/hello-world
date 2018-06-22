@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="937" MadCap:lastWidth="647" MadCap:conditions="Default.PrintOnly">
+    <head>
+        <link href="../Resources/Stylesheets/Cambridgesoft1.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h2 class="Heading2">
+            <MadCap:keyword term="Getting Started" />Getting Started</h2>
+        <div class="Body">By default, ChemScript and Python 3.2 are installed on your local computer when you install ChemOffice. After the installation, we suggest that you follow the simple exercises in this section to familiarize yourself with ChemScript.</div>
+        <div class="Body">For editing ChemScript files, we recommend that you use one of the many programming tools that are available. One of these tools, IDLE, is included with the Python installation. To learn more about IDLE, see the online Help in the IDLE main menu.</div>
+        <h5 class="Heading5">Starting IDLE</h5>
+        <div class="Body">From the Start menu, go to <span class="Action_Object">All Programs</span>&gt;<span class="Action_Object">Python 3.2</span>&gt;<span class="Action_Object">IDLE (Python GUI)</span>. After Python starts, a Python shell opens in IDLE and the header indicates a version of Python (Ex. 3.2), and a version of IDLE (Ex. 1.2). A prompt will also appear: “&gt;&gt;&gt;”</div>
+        <h5 class="Heading5">
+            <MadCap:keyword term="ChemScript library: loading" />Loading the ChemScript Library</h5>
+        <div class="Body">At the command prompt, type the line below and press &lt;Enter&gt;:</div>
+        <div class="Body" style="margin-top: 1pt;margin-bottom: 1pt;font-family: 'Courier New';"><span class="Code">import ChemScript18</span>
+        </div>
+        <div class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">The command is case-sensitive. </div>
+        <div class="Body">A “Welcome to CS ChemScript” message appears, followed by a command prompt.</div>
+        <h5 class="Heading5">
+            <MadCap:keyword term="ChemScript Help" />ChemScript Help</h5>
+        <div class="Body">You can read a description of any ChemScript class within IDLE. For example, enter the line below to return Help for the ChemScript <span class="Code">Atom</span> class. </div>
+        <div class="Body"><span class="Code">help(Atom)</span>
+        </div>
+        <div class="Body">The help will begin with a message such as:</div>
+        <div class="BodyInd">“Help on class Atom in module ChemScript17:”</div>
+        <h5 class="Heading5">
+            <MadCap:keyword term="Entering SMILES Data" />Enter SMILES Data</h5>
+        <div class="Body">You can also test to verify that ChemScript is working correctly. One common use for ChemScript is to apply functions to SMILES strings. For example, you can assign a SMILES string to a variable. Type the following line and press  &lt;Enter&gt;:</div>
+        <div class="Body"><span class="Code">myMol = Mol.LoadData('C1CCCCC1C')</span>
+        </div>
+        <div class="Body">This message appears: </div>
+        <div class="Body"><span class="Code">Open molecule successfully: chemical/x-smiles</span>
+        </div>
+        <h5 class="Heading5">
+            <MadCap:keyword term="Report a Chemical Name" />Reporting a Chemical Name</h5>
+        <div class="Body">You can now use the variable to report the chemical name. For example, at the command prompt type the line below and press &lt;Enter&gt;:</div>
+        <div class="Body"><span class="Code">myMol.chemicalName()</span>
+        </div>
+        <div class="Body">The line <span class="Code">methylcyclohexane</span> is returned.</div>
+        <h5 class="Heading5">
+            <MadCap:keyword term="Counting Atoms" />Counting Atoms</h5>
+        <div class="Body">To count the atoms in the string, type the following line and press  &lt;Enter&gt;:</div>
+        <div class="Body"><span class="Code">myMol.CountAtoms()</span>
+        </div>
+        <div class="Body">The command returns the atom count for the structure defined with the chemical/x-smiles format for 'C1CCCCC1C', which is 7.</div>
+        <h5 class="Heading5">
+            <MadCap:keyword term="Exiting IDLE" />Exiting IDLE</h5>
+        <div class="Body">To exit, type this line and press  &lt;Enter&gt;:</div>
+        <div class="Body"><span class="Code">exit()</span>
+        </div>
+        <div class="Body">Confirm any prompts to complete the exit command. Python IDLE exits.</div>
+    </body>
+</html>

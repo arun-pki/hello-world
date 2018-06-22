@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm" />
+    <Link
+      Url="http://www.molecular-networks.com/moses" />
+    <Link
+      Url="http://www.molecular-networks.com/" />
+    <Link
+      Url="Content/MyImport/BalabanIndex.png" />
+    <Link
+      Url="Content/Resources/Images/mu_symbol.png" />
+    <Link
+      Url="Content/MyImport/BoilingPoint.png" />
+    <Link
+      Url="Content/MyImport/GibbsFreeEnergy.png" />
+    <Link
+      Url="Content/MyImport/GibbFreeEnergy2.png" />
+    <Link
+      Url="Content/MyImport/HenrysLawConstant.png" />
+    <Link
+      Url="Content/MyImport/IdealGasThermalCapacity.png" />
+    <Link
+      Url="Content/MyImport/IdealGasThermalCapacity2.png" />
+    <Link
+      Url="Content/MyImport/MeltingPoint.png" />
+    <Link
+      Url="Content/MyImport/MolRefractivity.png" />
+    <Link
+      Url="Content/MyImport/Ovality.png" />
+    <Link
+      Url="Content/MyImport/PrincipalMoment.png" />
+    <Link
+      Url="Content/MyImport/ShapeCoefficient.png" />
+    <Link
+      Url="Content/MyImport/VaporPressure.png" />
+    <Link
+      Url="Content/MyImport/WeinerIndex.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Project/VariableSets/MyImport.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#LogP" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Balaban" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Formal" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#LOGS" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Shape" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Boiling" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Freezing" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Pka" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Shape2" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Mol" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Sum" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Cluster" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Gibbs" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Mol3" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Sum2" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Connolly" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#connolly4" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Heat2" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Num" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Topologi" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#connolly5" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Henrys" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Total" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Connolly3" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Ovality" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Total3" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Critical" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Ideal" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Critical2" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Polar" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Vapor" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Critical3" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Mass" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Principa" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Melting" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Water" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Exact" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#MR" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Radius" />
+    <Link
+      Url="Content/MyImport/Properties and Analysis.htm#Wiener" />
+    <Link
+      Url="http://www.molecular-networks.com/moses" />
+    <Link
+      Url="http://www.molecular-networks.com/" />
+    <Link
+      Url="Content/MyImport/BalabanIndex.png" />
+    <Link
+      Url="Content/Resources/Images/mu_symbol.png" />
+    <Link
+      Url="Content/MyImport/BoilingPoint.png" />
+    <Link
+      Url="Content/MyImport/GibbsFreeEnergy.png" />
+    <Link
+      Url="Content/MyImport/GibbFreeEnergy2.png" />
+    <Link
+      Url="Content/MyImport/HenrysLawConstant.png" />
+    <Link
+      Url="Content/MyImport/IdealGasThermalCapacity.png" />
+    <Link
+      Url="Content/MyImport/IdealGasThermalCapacity2.png" />
+    <Link
+      Url="Content/MyImport/MeltingPoint.png" />
+    <Link
+      Url="Content/MyImport/MolRefractivity.png" />
+    <Link
+      Url="Content/MyImport/Ovality.png" />
+    <Link
+      Url="Content/MyImport/PrincipalMoment.png" />
+    <Link
+      Url="Content/MyImport/ShapeCoefficient.png" />
+    <Link
+      Url="Content/MyImport/VaporPressure.png" />
+    <Link
+      Url="Content/MyImport/WeinerIndex.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Project/VariableSets/MyImport.flvar" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="10-Excel_3629383264_1142260" />
+    <Anchor
+      Name="Balaban" />
+    <Anchor
+      Name="Boiling" />
+    <Anchor
+      Name="Cluster" />
+    <Anchor
+      Name="Connolly" />
+    <Anchor
+      Name="connolly4" />
+    <Anchor
+      Name="connolly5" />
+    <Anchor
+      Name="Connolly3" />
+    <Anchor
+      Name="Critical" />
+    <Anchor
+      Name="Critical2" />
+    <Anchor
+      Name="Critical3" />
+    <Anchor
+      Name="Exact" />
+    <Anchor
+      Name="Formal" />
+    <Anchor
+      Name="Freezing" />
+    <Anchor
+      Name="Gibbs" />
+    <Anchor
+      Name="Heat2" />
+    <Anchor
+      Name="Henrys" />
+    <Anchor
+      Name="Ideal" />
+    <Anchor
+      Name="LogP" />
+    <Anchor
+      Name="LOGS" />
+    <Anchor
+      Name="Pka" />
+    <Anchor
+      Name="Mass" />
+    <Anchor
+      Name="Melting" />
+    <Anchor
+      Name="Chemical_Properties_575597764_1197612" />
+    <Anchor
+      Name="MR" />
+    <Anchor
+      Name="Mol" />
+    <Anchor
+      Name="Mol3" />
+    <Anchor
+      Name="Num" />
+    <Anchor
+      Name="Ovality" />
+    <Anchor
+      Name="Polar" />
+    <Anchor
+      Name="Principa" />
+    <Anchor
+      Name="Radius" />
+    <Anchor
+      Name="Shape" />
+    <Anchor
+      Name="Shape2" />
+    <Anchor
+      Name="Sum" />
+    <Anchor
+      Name="Sum2" />
+    <Anchor
+      Name="Topologi" />
+    <Anchor
+      Name="Total" />
+    <Anchor
+      Name="Total3" />
+    <Anchor
+      Name="Vapor" />
+    <Anchor
+      Name="Water" />
+    <Anchor
+      Name="Wiener" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="boiling point"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="167" />
+    <IndexCacheEntry
+      Term="cluster count"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="180" />
+    <IndexCacheEntry
+      Term="Connolly accessible area"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="184" />
+    <IndexCacheEntry
+      Term="Connolly molecular surface area"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="188" />
+    <IndexCacheEntry
+      Term="Connolly solvent accessible surface area"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="193" />
+    <IndexCacheEntry
+      Term="Connolly solvent excluded Vvolume"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="198" />
+    <IndexCacheEntry
+      Term="critical pressure"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="202" />
+    <IndexCacheEntry
+      Term="critical temperature"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="206" />
+    <IndexCacheEntry
+      Term="critical volume"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="210" />
+    <IndexCacheEntry
+      Term="exact mass"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="215" />
+    <IndexCacheEntry
+      Term="formal charge"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="219" />
+    <IndexCacheEntry
+      Term="Gibbs free energy"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="230" />
+    <IndexCacheEntry
+      Term="heat of formation"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="251" />
+    <IndexCacheEntry
+      Term="Henry’s Law constant"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="255" />
+    <IndexCacheEntry
+      Term="ideal gas thermal capacity"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="264" />
+    <IndexCacheEntry
+      Term="LogP"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="287" />
+    <IndexCacheEntry
+      Term="mass"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="299" />
+    <IndexCacheEntry
+      Term="mol refractivity"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="312" />
+    <IndexCacheEntry
+      Term="mol formula"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="322" />
+    <IndexCacheEntry
+      Term="mol weight"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="327" />
+    <IndexCacheEntry
+      Term="number rotatable bonds"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="331" />
+    <IndexCacheEntry
+      Term="rotatable bonds"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="331" />
+    <IndexCacheEntry
+      Term="ovality"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="335" />
+    <IndexCacheEntry
+      Term="polar surface area"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="344" />
+    <IndexCacheEntry
+      Term="principal moment"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="348" />
+    <IndexCacheEntry
+      Term="radius"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="359" />
+    <IndexCacheEntry
+      Term="shape attribute"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="365" />
+    <IndexCacheEntry
+      Term="branching, calculating"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="365" />
+    <IndexCacheEntry
+      Term="shape coefficient"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="369" />
+    <IndexCacheEntry
+      Term="sum of degrees"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="378" />
+    <IndexCacheEntry
+      Term="sum of valence degrees"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="382" />
+    <IndexCacheEntry
+      Term="topological diameter"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="386" />
+    <IndexCacheEntry
+      Term="total connectivity"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="390" />
+    <IndexCacheEntry
+      Term="total valence connectivity"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="394" />
+    <IndexCacheEntry
+      Term="vapor pressure"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="398" />
+    <IndexCacheEntry
+      Term="water solubility"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="407" />
+    <IndexCacheEntry
+      Term="Weiner index"
+      Conditions="MyImport.ChemDraw_Excel"
+      LocalConditions=""
+      Position="411" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MyImport.Prod_CD" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw_Excel" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw_Excel" />
+    <Condition
+      Tag="MyImport.Comment" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

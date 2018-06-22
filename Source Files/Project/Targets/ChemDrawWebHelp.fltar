@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="ChemDraw 17.1"
+  Type="WebHelp"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  Skin="/Project/Skins/MyHelp.flskn"
+  OutputFile="default"
+  ConditionTagExpression="include[&quot;MyImport.ONLY for WebHELP (MAC) output&quot;] exclude[MyConditions.Book or MyConditions.Book_only or MyConditions.Comment or MyConditions.FM8_SYSTEM_HIDEELEMENT or MyConditions.FM8_TRACK_CHANGES_ADDED or MyConditions.FM8_TRACK_CHANGES_DELETED or MyConditions.ZZ_Draft or MyImport.Book or MyImport.Book_only or MyImport.ChemDraw_Excel or MyImport.Combichem or MyImport.Comment or MyImport.Deleted or MyImport.Figure or MyImport.FM8_SYSTEM_HIDEELEMENT or MyImport.FM8_TRACK_CHANGES_ADDED or MyImport.FM8_TRACK_CHANGES_DELETED or MyImport.For_Index or MyImport.For_PDF or MyImport.Index or MyImport.PC or MyImport.SKU_only or MyImport.ZZ_Draft] "
+  InsertMOTW="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/Cambridgesoft1.css"
+  MasterPage="/Content/Resources/MasterPages/MyMaster.flmsp"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  GetLatestBeforeCompile="true"
+  MasterToc="/Project/TOCs/TOC for CHM.fltoc"
+  DefaultUrl="/Content/MyImport/Recent Additions.htm"
+  PreCompileScaledImages="false">
+  <Destinations></Destinations>
+</CatapultTarget>

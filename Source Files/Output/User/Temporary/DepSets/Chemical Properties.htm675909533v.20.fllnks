@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="http://www.cambridgesoft.com/" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemBio3D.htm" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDrawExcel.htm" />
+    <Link
+      Url="Content/MyImport/ChemBioFinderProperties.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="http://www.cambridgesoft.com/" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDraw.htm" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemBio3D.htm" />
+    <Link
+      Url="Content/MyImport/Property predictions in ChemDrawExcel.htm" />
+    <Link
+      Url="Content/MyImport/ChemBioFinderProperties.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="Chemical_Properties_575597764_1197352" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

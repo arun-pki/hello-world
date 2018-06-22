@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/Document Properties.htm" />
+    <Link
+      Url="Content/MyImport/15_10.jpg" />
+    <Link
+      Url="Content/MyImport/15_11.jpg" />
+    <Link
+      Url="Content/MyImport/15_12.jpg" />
+    <Link
+      Url="Content/MyImport/15_13.jpg" />
+    <Link
+      Url="Content/MyImport/15_14.jpg" />
+    <Link
+      Url="Content/MyImport/15_15.jpg" />
+    <Link
+      Url="Content/MyImport/15_17.jpg" />
+    <Link
+      Url="Content/MyImport/15_18.jpg" />
+    <Link
+      Url="Content/MyImport/15_19.jpg" />
+    <Link
+      Url="Content/MyImport/15_20.jpg" />
+    <Link
+      Url="Content/MyImport/15_21.jpg" />
+    <Link
+      Url="Content/MyImport/15_22.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/Document Properties.htm" />
+    <Link
+      Url="Content/MyImport/15_10.jpg" />
+    <Link
+      Url="Content/MyImport/15_11.jpg" />
+    <Link
+      Url="Content/MyImport/15_12.jpg" />
+    <Link
+      Url="Content/MyImport/15_13.jpg" />
+    <Link
+      Url="Content/MyImport/15_14.jpg" />
+    <Link
+      Url="Content/MyImport/15_15.jpg" />
+    <Link
+      Url="Content/MyImport/15_17.jpg" />
+    <Link
+      Url="Content/MyImport/15_18.jpg" />
+    <Link
+      Url="Content/MyImport/15_19.jpg" />
+    <Link
+      Url="Content/MyImport/15_20.jpg" />
+    <Link
+      Url="Content/MyImport/15_21.jpg" />
+    <Link
+      Url="Content/MyImport/15_22.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="A-Customize_2096640490_1463334" />
+    <Anchor
+      Name="A-Customize_2096640490_87717" />
+    <Anchor
+      Name="A-Customize_2096640490_1572276" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="document settings:Adv. Synth.Catal."
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="75" />
+    <IndexCacheEntry
+      Term="Adv. Synth.Catal."
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="75" />
+    <IndexCacheEntry
+      Term="document settings:J. Mol. Mod."
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="129" />
+    <IndexCacheEntry
+      Term="J. Mol. Mod."
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="129" />
+    <IndexCacheEntry
+      Term="document settings:new document"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="157" />
+    <IndexCacheEntry
+      Term="new document"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="157" />
+    <IndexCacheEntry
+      Term="document settings:new slide"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="185" />
+    <IndexCacheEntry
+      Term="new slide"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="185" />
+    <IndexCacheEntry
+      Term="document settings:phytomedicine"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="213" />
+    <IndexCacheEntry
+      Term="phytomedicine"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="213" />
+    <IndexCacheEntry
+      Term="document settings:RSC document"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="241" />
+    <IndexCacheEntry
+      Term="RSC document"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="241" />
+    <IndexCacheEntry
+      Term="document settings:Science of Synthesis"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="275" />
+    <IndexCacheEntry
+      Term="Science of Synthesis"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="275" />
+    <IndexCacheEntry
+      Term="document settings:Synthesis/Synlett document"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="304" />
+    <IndexCacheEntry
+      Term="Synthesis/Synlett document"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="304" />
+    <IndexCacheEntry
+      Term="document settings:Verlag Helvetica Chimica Acta"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="332" />
+    <IndexCacheEntry
+      Term="Verlag Helvetica Chimica Acta"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="332" />
+    <IndexCacheEntry
+      Term="document settings:Wiley document"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="363" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/_2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

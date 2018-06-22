@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/9_8.jpg" />
+    <Link
+      Url="Content/MyImport/2-Tutorials.htm" />
+    <Link
+      Url="Content/MyImport/reactionarrow1.png" />
+    <Link
+      Url="Content/MyImport/9_9.jpg" />
+    <Link
+      Url="Content/MyImport/9_11.jpg" />
+    <Link
+      Url="Content/MyImport/9_13.jpg" />
+    <Link
+      Url="Content/MyImport/9_14.jpg" />
+    <Link
+      Url="Content/MyImport/reaction clean up before.png" />
+    <Link
+      Url="Content/MyImport/reaction clean up after.png" />
+    <Link
+      Url="Content/MyImport/9_15.jpg" />
+    <Link
+      Url="Content/MyImport/electron pushing tool.png" />
+    <Link
+      Url="Content/MyImport/Electron pushing.png" />
+    <Link
+      Url="Content/MyImport/radical pushing.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/9_8.jpg" />
+    <Link
+      Url="Content/MyImport/2-Tutorials.htm#2-Tutorials_1162660173_1330919" />
+    <Link
+      Url="Content/MyImport/reactionarrow1.png" />
+    <Link
+      Url="Content/MyImport/9_9.jpg" />
+    <Link
+      Url="Content/MyImport/9_11.jpg" />
+    <Link
+      Url="Content/MyImport/9_13.jpg" />
+    <Link
+      Url="Content/MyImport/9_14.jpg" />
+    <Link
+      Url="Content/MyImport/reaction clean up before.png" />
+    <Link
+      Url="Content/MyImport/reaction clean up after.png" />
+    <Link
+      Url="Content/MyImport/9_15.jpg" />
+    <Link
+      Url="Content/MyImport/electron pushing tool.png" />
+    <Link
+      Url="Content/MyImport/Electron pushing.png" />
+    <Link
+      Url="Content/MyImport/radical pushing.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="4-Adv_Draw_2238496342_dissoc" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_retro" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1308433" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_drawing_an_arrow" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_95348" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_17466" />
+    <Anchor
+      Name="Clean" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1308544" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1344370" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_86163" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="retrosynthesis tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="tools:retrosynthesis"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="dissociation tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="tools:dissociation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="mass fragmentation tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="tools:mass fragmentation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="reaction interpreter"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="117" />
+    <IndexCacheEntry
+      Term="reaction interpreter"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="131" />
+    <IndexCacheEntry
+      Term="full-head arrow"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="156" />
+    <IndexCacheEntry
+      Term="arrows:full-head"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="156" />
+    <IndexCacheEntry
+      Term="half-head arrow"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="165" />
+    <IndexCacheEntry
+      Term="arrows:half-head"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="165" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

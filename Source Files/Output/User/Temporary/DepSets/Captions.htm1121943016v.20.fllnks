@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/caption.png" />
+    <Link
+      Url="Content/MyImport/Setting Preferences.htm" />
+    <Link
+      Url="Content/MyImport/formating text.png" />
+    <Link
+      Url="Content/MyImport/coloring text1.png" />
+    <Link
+      Url="Content/MyImport/coloring text2.png" />
+    <Link
+      Url="Content/MyImport/character map.png" />
+    <Link
+      Url="Content/MyImport/5_25.jpg" />
+    <Link
+      Url="Content/MyImport/5_11.jpg" />
+    <Link
+      Url="Content/MyImport/ChemDraw_HotKeys.htm" />
+    <Link
+      Url="Content/MyImport/Defining Nicknames.htm" />
+    <Link
+      Url="Content/MyImport/using nicknames.png" />
+    <Link
+      Url="Content/MyImport/choose nickname.png" />
+    <Link
+      Url="Content/MyImport/Analysis and Properties.htm" />
+    <Link
+      Url="Content/MyImport/5_14.jpg" />
+    <Link
+      Url="Content/MyImport/5_7.jpg" />
+    <Link
+      Url="Content/MyImport/5_8.jpg" />
+    <Link
+      Url="Content/MyImport/5_5.jpg" />
+    <Link
+      Url="Content/MyImport/6b-StructName.htm" />
+    <Link
+      Url="Content/MyImport/analysis data.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Project/ConditionTagSets/MyConditions.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/caption.png" />
+    <Link
+      Url="Content/MyImport/Setting Preferences.htm#A-Customize_2096640490_1560389" />
+    <Link
+      Url="Content/MyImport/formating text.png" />
+    <Link
+      Url="Content/MyImport/coloring text1.png" />
+    <Link
+      Url="Content/MyImport/coloring text2.png" />
+    <Link
+      Url="Content/MyImport/character map.png" />
+    <Link
+      Url="Content/MyImport/5_25.jpg" />
+    <Link
+      Url="Content/MyImport/5_11.jpg" />
+    <Link
+      Url="Content/MyImport/ChemDraw_HotKeys.htm" />
+    <Link
+      Url="Content/MyImport/Defining Nicknames.htm" />
+    <Link
+      Url="Content/MyImport/using nicknames.png" />
+    <Link
+      Url="Content/MyImport/choose nickname.png" />
+    <Link
+      Url="Content/MyImport/Analysis and Properties.htm#A-Customize_2096640490_1463063" />
+    <Link
+      Url="Content/MyImport/5_14.jpg" />
+    <Link
+      Url="Content/MyImport/5_7.jpg" />
+    <Link
+      Url="Content/MyImport/5_8.jpg" />
+    <Link
+      Url="Content/MyImport/5_5.jpg" />
+    <Link
+      Url="Content/MyImport/6b-StructName.htm#6b-StructName_545059099_60141" />
+    <Link
+      Url="Content/MyImport/analysis data.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Project/ConditionTagSets/MyConditions.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="3-Drawing_10_1269804279_1256692" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1260115" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1395254" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1160675" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1381278" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_Using_NickNames" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_Applying_Nicknames" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1160725" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_expanding_nicknames;nicknames,_expanding" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1262232" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_Annotations" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1260096" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_Setting_Preferences" />
+    <Anchor
+      Name="Analysis" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="character map"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="71" />
+    <IndexCacheEntry
+      Term="using nicknames"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="112" />
+    <IndexCacheEntry
+      Term="nicknames"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="112" />
+    <IndexCacheEntry
+      Term="setting preferences"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="195" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyConditions.Comment" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

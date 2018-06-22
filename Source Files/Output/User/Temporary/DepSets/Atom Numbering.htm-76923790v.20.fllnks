@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/atom numbering.png" />
+    <Link
+      Url="Content/MyImport/position atom numbers.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/atom numbering.png" />
+    <Link
+      Url="Content/MyImport/position atom numbers.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="4-Adv_Draw_2238496342_numbers" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1085617" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_85135" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1085630" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1085653" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_97392" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1085662" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="atom:numbers"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="numbering atoms"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="9" />
+    <IndexCacheEntry
+      Term="show:atom numbering"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="indicators:atom numbering"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="atom numbers:showing and hiding"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="hiding atom numbers"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="21" />
+    <IndexCacheEntry
+      Term="atom numbers:editing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="41" />
+    <IndexCacheEntry
+      Term="editing:atom numbers"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="41" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

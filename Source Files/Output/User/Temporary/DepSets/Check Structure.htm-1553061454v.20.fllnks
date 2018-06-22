@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/5_31.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/_2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/5_31.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="3-Drawing_10_1269804279_1390702" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1335630" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1335639" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_75829" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1387732" />
+    <Anchor
+      Name="3-Drawing_10_1269804279_1335656" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="detecting errors:check structure command"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="structure:checking"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="chemistry checking"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="checking chemistry"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="syntax checking"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="check structure:overview"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="detecting errors:error checking"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="chemical warnings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="warnings, chemical"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="chemical syntax checking"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="red boxes on objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="error checking"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="structure:chemical warning"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="disable chemical warnings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="chemical warnings:disable"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="warning preferences"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="62" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/_2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

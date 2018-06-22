@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/16_1.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/16_1.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="8-Presentation_208243784_1168579" />
+    <Anchor
+      Name="8-Presentation_208243784_1071869" />
+    <Anchor
+      Name="8-Presentation_208243784_1071894" />
+    <Anchor
+      Name="8-Presentation_208243784_1105178" />
+    <Anchor
+      Name="8-Presentation_208243784_1072044" />
+    <Anchor
+      Name="8-Presentation_208243784_1162972" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="saving page setup settings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="page setup:saving settings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="style sheet:page setup settings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="stationery pad:page setup settings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="35 mm slide boundary lines"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="viewing drawings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="magnifying:with View menu"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="maximize objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="34" />
+    <IndexCacheEntry
+      Term="show document"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="49" />
+    <IndexCacheEntry
+      Term="objects:using rulers with"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="aligning objects:rulers"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="positioning:rulers"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="ruler guides"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="58" />
+    <IndexCacheEntry
+      Term="show rulers command"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="58" />
+    <IndexCacheEntry
+      Term="displaying:rulers"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="58" />
+    <IndexCacheEntry
+      Term="rulers:showing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="58" />
+    <IndexCacheEntry
+      Term="objects:using crosshair with"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="75" />
+    <IndexCacheEntry
+      Term="positioning:crosshair"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="75" />
+    <IndexCacheEntry
+      Term="crosshair:moving"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="83" />
+    <IndexCacheEntry
+      Term="moving:crosshair"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="83" />
+    <IndexCacheEntry
+      Term="objects:aligning"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="90" />
+    <IndexCacheEntry
+      Term="aligning objects:with crosshair"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="90" />
+    <IndexCacheEntry
+      Term="crosshair:using to align objects"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="90" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

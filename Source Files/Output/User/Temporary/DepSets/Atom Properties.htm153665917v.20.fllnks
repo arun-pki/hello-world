@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_35.jpg" />
+    <Link
+      Url="Content/MyImport/Atom Properties.htm" />
+    <Link
+      Url="Content/MyImport/13_1.jpg" />
+    <Link
+      Url="Content/MyImport/freesiteq.png" />
+    <Link
+      Url="Content/MyImport/freesite1.png" />
+    <Link
+      Url="Content/MyImport/uptoq.png" />
+    <Link
+      Url="Content/MyImport/upto1.png" />
+    <Link
+      Url="Content/MyImport/exactnomatch2.png" />
+    <Link
+      Url="Content/MyImport/exactq.png" />
+    <Link
+      Url="Content/MyImport/exact1.png" />
+    <Link
+      Url="Content/MyImport/exactnomatch.png" />
+    <Link
+      Url="Content/MyImport/13_34.jpg" />
+    <Link
+      Url="Content/MyImport/13_4.jpg" />
+    <Link
+      Url="Content/MyImport/13_3.jpg" />
+    <Link
+      Url="Content/MyImport/13_45.jpg" />
+    <Link
+      Url="Content/MyImport/13_46.jpg" />
+    <Link
+      Url="Content/MyImport/13_47.jpg" />
+    <Link
+      Url="Content/MyImport/13_48.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_35.jpg" />
+    <Link
+      Url="Content/MyImport/Atom Properties.htm#5-Query_617691554_1299522" />
+    <Link
+      Url="Content/MyImport/13_1.jpg" />
+    <Link
+      Url="Content/MyImport/freesiteq.png" />
+    <Link
+      Url="Content/MyImport/freesite1.png" />
+    <Link
+      Url="Content/MyImport/uptoq.png" />
+    <Link
+      Url="Content/MyImport/upto1.png" />
+    <Link
+      Url="Content/MyImport/exactnomatch2.png" />
+    <Link
+      Url="Content/MyImport/exactq.png" />
+    <Link
+      Url="Content/MyImport/exact1.png" />
+    <Link
+      Url="Content/MyImport/exactnomatch.png" />
+    <Link
+      Url="Content/MyImport/13_34.jpg" />
+    <Link
+      Url="Content/MyImport/13_4.jpg" />
+    <Link
+      Url="Content/MyImport/13_3.jpg" />
+    <Link
+      Url="Content/MyImport/13_45.jpg" />
+    <Link
+      Url="Content/MyImport/13_46.jpg" />
+    <Link
+      Url="Content/MyImport/13_47.jpg" />
+    <Link
+      Url="Content/MyImport/13_48.jpg" />
+    <Link
+      Url="Content/MyImport/Atom Properties.htm#5-Query_617691554_1286196" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="5-Query_617691554_1286196" />
+    <Anchor
+      Name="5-Query_617691554_Annotations" />
+    <Anchor
+      Name="5-Query_617691554_1286868" />
+    <Anchor
+      Name="5-Query_617691554_1286685" />
+    <Anchor
+      Name="5-Query_617691554_64497" />
+    <Anchor
+      Name="5-Query_617691554_11143" />
+    <Anchor
+      Name="5-Query_617691554_1287718" />
+    <Anchor
+      Name="5-Query_617691554_1287757" />
+    <Anchor
+      Name="5-Query_617691554_82602" />
+    <Anchor
+      Name="5-Query_617691554_1299522" />
+    <Anchor
+      Name="5-Query_617691554_65201" />
+    <Anchor
+      Name="5-Query_617691554_50542" />
+    <Anchor
+      Name="5-Query_617691554_20352" />
+    <Anchor
+      Name="5-Query_617691554_74050" />
+    <Anchor
+      Name="5-Query_617691554_31826" />
+    <Anchor
+      Name="5-Query_617691554_53897" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="atom properties:in query structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="properties:atom in searching"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="atom:query properties"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="properties:atom, query"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="query indicators:bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="27" />
+    <IndexCacheEntry
+      Term="bonds:query indicatorsquery indicators:bond"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="28" />
+    <IndexCacheEntry
+      Term="indicators:query, editing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="73" />
+    <IndexCacheEntry
+      Term="query indicators:editing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="73" />
+    <IndexCacheEntry
+      Term="editing:query indicators"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="73" />
+    <IndexCacheEntry
+      Term="indicators:query, positioning"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="81" />
+    <IndexCacheEntry
+      Term="positioning:query indicators"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="81" />
+    <IndexCacheEntry
+      Term="atom properties:resetting defaults"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="119" />
+    <IndexCacheEntry
+      Term="use defaults:atom properties"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="119" />
+    <IndexCacheEntry
+      Term="reset defaults:atom properties"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="119" />
+    <IndexCacheEntry
+      Term="default:atom properties, resetting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="119" />
+    <IndexCacheEntry
+      Term="properties:atom, resetting defaults"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="119" />
+    <IndexCacheEntry
+      Term="atom properties:description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="137" />
+    <IndexCacheEntry
+      Term="properties:atom, description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="137" />
+    <IndexCacheEntry
+      Term="substituents"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="142" />
+    <IndexCacheEntry
+      Term="properties:atom, substituents"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="142" />
+    <IndexCacheEntry
+      Term="atom properties:substituents"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="142" />
+    <IndexCacheEntry
+      Term="unspecified atom properties, in queries"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="151" />
+    <IndexCacheEntry
+      Term="free sites:in queries"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="154" />
+    <IndexCacheEntry
+      Term="up to, in queries"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="157" />
+    <IndexCacheEntry
+      Term="implicit hydrogens"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="206" />
+    <IndexCacheEntry
+      Term="hydrogens, implicit"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="206" />
+    <IndexCacheEntry
+      Term="properties:atom, implicit hydrogens"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="206" />
+    <IndexCacheEntry
+      Term="atom properties:implicit hydrogens"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="206" />
+    <IndexCacheEntry
+      Term="ring bond count"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="221" />
+    <IndexCacheEntry
+      Term="properties:atom, ring bond count"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="221" />
+    <IndexCacheEntry
+      Term="atom properties:ring bond count"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="221" />
+    <IndexCacheEntry
+      Term="unsaturation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="238" />
+    <IndexCacheEntry
+      Term="properties:atom, unsaturation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="238" />
+    <IndexCacheEntry
+      Term="atom properties:unsaturation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="238" />
+    <IndexCacheEntry
+      Term="reaction stereo"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="260" />
+    <IndexCacheEntry
+      Term="properties:atom, reaction stereo"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="260" />
+    <IndexCacheEntry
+      Term="atom properties:reaction stereo"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="260" />
+    <IndexCacheEntry
+      Term="free sites:drawing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="275" />
+    <IndexCacheEntry
+      Term="drawing:free sites"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="275" />
+    <IndexCacheEntry
+      Term="translation (query property)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="318" />
+    <IndexCacheEntry
+      Term="isotopic abundance"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="332" />
+    <IndexCacheEntry
+      Term="abnormal valence"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="349" />
+    <IndexCacheEntry
+      Term="properties:atom, abnormal valence"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="349" />
+    <IndexCacheEntry
+      Term="atom properties:abnormal valence"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="349" />
+    <IndexCacheEntry
+      Term="isotopes table file"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="349" />
+    <IndexCacheEntry
+      Term="ChemDraw items folder:isotope table"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="349" />
+    <IndexCacheEntry
+      Term="isotopes text file"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="349" />
+    <IndexCacheEntry
+      Term="Clipboard"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="355" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.For_Index" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

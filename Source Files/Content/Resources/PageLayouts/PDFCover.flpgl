@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="MyImport.Book,MyImport.Comment,MyImport.Jaguar,MyImport.Online_Help,MyImport.FM8_SYSTEM_HIDEELEMENT,MyImport.FM8_TRACK_CHANGES_ADDED,MyImport.FM8_TRACK_CHANGES_DELETED" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="First" Width="8.5in" Height="11in" Padding="20px" PageSize="custom" PageType="right" PaddingLeft="0.25in" PaddingRight="0.25in" PaddingTop="0.25in" PaddingBottom="0.5in">
+        <Frame X="6in" Y="9.354167in" Width="1.604167in" Flow="decoration0" Anchors="" Height="0.9583333in" Right="38px" Bottom="-6px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/PKILogos/PKI_FTB_Logo_RGB.eps" MadCap:mediastyle="@media print { width: 1.5in; }" xhtml:style="width: 149px;height: 78px;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="5.729167in" Y="7.8125in" Width="1in" Height="1in" Flow="body" Right="122px" Bottom="138px" DividerWidth="1in" DividerTopMargin="1in" Anchors="" />
+        <Frame X="-1.447917in" Y="0.7291667in" Width="3.75in" Height="0.4479167in" FlowIndex="5" Flow="decoration1" BackgroundImage="../Images/PKILogos/HHEHFlag.png" BackgroundRepeat="stretch" Right="547px" Bottom="871px" Anchors="" />
+        <Frame X="0.6041667in" Y="4.25in" Width="6.395833in" Height="0.5208333in" Flow="footer" Anchors="" Right="96px" Bottom="526px" BackgroundColor="transparent" BackgroundImage="none">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:Div xhtml:class="Title">ChemDraw 18.0 User Guide</xhtml:Div>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

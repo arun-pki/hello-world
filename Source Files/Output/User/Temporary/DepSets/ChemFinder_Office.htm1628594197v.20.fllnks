@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Project/VariableSets/MyImport.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Project/VariableSets/MyImport.flvar" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="10-Excel_3629383264_1159408" />
+    <Anchor
+      Name="10-Excel_3629383264_1152124" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="ChemFinder for Office"
+      Conditions="MyImport.Combichem"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="product calculations"
+      Conditions="MyImport.Help,MyImport.Combichem"
+      LocalConditions=""
+      Position="85" />
+    <IndexCacheEntry
+      Term="calculations on products"
+      Conditions="MyImport.Help,MyImport.Combichem"
+      LocalConditions=""
+      Position="85" />
+    <IndexCacheEntry
+      Term="ChemDraw for Excel"
+      Conditions="MyImport.Help,MyImport.Combichem"
+      LocalConditions=""
+      Position="85" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MyImport.DrawXL" />
+    <Variable
+      Name="MyImport.Prod_CD" />
+    <Variable
+      Name="MyImport.Prod_CF" />
+    <Variable
+      Name="MyImport.Product_COMO" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="MyImport.Combichem" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.Combichem" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.Book" />
+    <Condition
+      Tag="MyImport.Help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

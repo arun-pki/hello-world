@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Labels.htm" />
+    <Link
+      Url="Content/MyImport/Attachment Points.htm" />
+    <Link
+      Url="Content/MyImport/Atom Numbering.htm" />
+    <Link
+      Url="Content/MyImport/Structure Perspective.htm" />
+    <Link
+      Url="Content/MyImport/Mass Fragmentation.htm" />
+    <Link
+      Url="Content/MyImport/Templates.htm" />
+    <Link
+      Url="Content/MyImport/9_17.jpg" />
+    <Link
+      Url="Content/MyImport/coloring groups2.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Labels.htm#4-Adv_Draw_2238496342_labels" />
+    <Link
+      Url="Content/MyImport/Attachment Points.htm#4-Adv_Draw_2238496342_multi" />
+    <Link
+      Url="Content/MyImport/Atom Numbering.htm#4-Adv_Draw_2238496342_numbers" />
+    <Link
+      Url="Content/MyImport/Structure Perspective.htm#4-Adv_Draw_2238496342_perspective" />
+    <Link
+      Url="Content/MyImport/Mass Fragmentation.htm" />
+    <Link
+      Url="Content/MyImport/Templates.htm#4-Adv_Draw_2238496342_template" />
+    <Link
+      Url="Content/MyImport/9_17.jpg" />
+    <Link
+      Url="Content/MyImport/coloring groups2.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1216633" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_61045" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_48294" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1284458" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1284563" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_24646" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="objects, coloring"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="Coloring groups"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="44" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

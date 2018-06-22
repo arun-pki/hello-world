@@ -1,0 +1,1092 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/User/PDF2/ChemDraw.pdf"
+  BuildVersion="13.3.6494.23016">
+  <Files>
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/sort1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemScript chapter/Images/1_3.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/MolRefractivity.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_13.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_10.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/addin struct.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/filter button.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/upload.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/StockCoverPhotos/glucose.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/lane rotate.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_45.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_3.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_14.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/search1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_16.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_4.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/6_11.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_22.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/defining nickname2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/ring tools.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/sequence.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_31.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/newman2.1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/exactnomatch.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/addin struct2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/SDF_Export_Version.gif" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/PrincipalMoment.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/abs dialog win.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_28.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/delocalised ring.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/reaction.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Fasta2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/TableStyles/Format_A.css" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Delete.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_25.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/branched pep1.2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/chainA.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_20.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/tut61.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/change default.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_3.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_9.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/copy analog2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/header1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_22.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/reactant result.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/6_15.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/lane options.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/imported2 new.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/attach Data1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/TableStyles/NMR_table.css" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/rna sequence.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_25.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/10_2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/copy analog3.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_12.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/HenrysLawConstant.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_17.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/b-alanine.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/addimimported.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/chainb.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/n2S.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_6.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/signals notebook.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_12.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/addin managerwin.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/distribute1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/GibbsFreeEnergy.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/cyclohexane rings.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/double either.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/versionveiwer menu.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_11.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/6_13.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/micro1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/tut63.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/browse.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/anatomy.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_18.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_33.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/sign in.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/arrow head.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/add.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_31.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/replacing residues.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_8.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_33.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/copy analog5.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_10.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/16_5.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_19.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/paste special sub menu.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/copy as1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/addimimportedver.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/line.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/biopolymer editor.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_47.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/newman 3.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/ConfigurePlates.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/bioinstruments.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/info window.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/dev guide.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/saveas.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_14.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_15.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_32.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_18.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_29.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/stochiometric grid hide row.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/helm3.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/alignment.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_31.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_9.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_31.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/branched pep1.4.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/versionviewer.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_12.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_41.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/stochiometric grid.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_16.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/lactam bridge.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_29.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/copy as2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_7.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/stoichstruct2name.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_35.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_8.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/install win.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/copy as menu1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/paste special biopolymer.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/12_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_6.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/formating text.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/Helm_first.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/more.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/copy analog4.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/SerineResidues.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/IdealGasThermalCapacity.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/amino example1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_4.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/user interface new.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/add url.PNG" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/character map.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemScript chapter/Images/1_4.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_8.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Ovality.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/uptoq.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/rna.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_12.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/polymerstruct.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/building_display.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/protectedopening.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/freesiteq.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_10.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/signalsdashboard.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_20.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_8.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/header.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/baseline style.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_39.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/cas win.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_23.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/cloud_act1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_7.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_19.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/replace current monomer.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/build tab win.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/versionviewer1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/VaporPressure.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/upto1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/protected2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_3.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_44.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/6_12.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_6.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_42.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/toggle amino single.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_30.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/replacing residues1.2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/stochiometric grid1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/IdealGasThermalCapacity2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_34.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/band style options.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_10.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_36.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/stochiometric grid3.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/term and conditions.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/11_4.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/search_scifinder.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_9.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Export-Selection.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/exactnomatch2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_25.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_14.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_28.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/band tether.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_4.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/distribute2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/addinloc.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/center of rotation moved.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/11_2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_17.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/helm analog1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_15.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_15.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/scale dialog box.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/radical1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/PlateBrowser.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_7.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_12.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/reactionarrow1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_29.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/tut62.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_7.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/chiral option win.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_36.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/helmcontxt.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_15.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/simple addin.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/status bar.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_5.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/combined.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_16.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_15.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/required error.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/rotate1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/clear1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/MeltingPoint.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/analysis window.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/6_17.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_18.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/overwrite1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/chem3dhotlink.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/search_scifinder2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/ShapeCoefficient.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_4.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/selection tools.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_26.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/search.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/helmmenu.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/BulletIcon.gif" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_35.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/scifinder-icon.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/electron pushing tool.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/chiral2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_5.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_45.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_38.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/branched pep1.3.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/retrosynthesis.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/multiple bond.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/TableStyles/Copy of _2col_table.css" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_20.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_34.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_30.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_35.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/hybrid.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/fixed value.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/custom bands.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_9.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_30.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/StockCoverPhotos/iStock_000009534994XLarge.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_11.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/preferences.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/coloring text1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/radical.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_9.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_22.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/center of rotation.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/defining nickname3.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/change default1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/reaction clean up before.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/caution.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/paste text2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/arc adjustable handle.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_37.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/modify nickname.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/PKILogos/PKI_FTB_Logo_RGB.eps" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/custom2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/amino example.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_10.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/sigma.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/edit curve.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/autonumbering example.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Mergesidechains.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/ethane.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/rac.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/6_16.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_25.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_21.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/branched peptide2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/10_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/chemical symbols1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_17.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/WeinerIndex.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/11_5.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/cas1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_27.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/freesite1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/replace residue1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/14_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/addin manager menu.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/hybrid orbitals.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/std editor.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/r-group reaction.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/membrane arc.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_25.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/add url1.PNG" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_24.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/BoilingPoint.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/annotatetemp.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_46.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/LogP.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/single bracket.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/changing shape.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_18.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/atom labels.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/mu_symbol.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/hollow arrow.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/organells.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/Helm1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_5.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/stochiometric grid4.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/chiral1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/tut66.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/helm string.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/p orbitals.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_23.jpg" />
+    <Url
+      Source="Output/User/PDF2/ChemDraw.pdf" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/14_2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/cyclic peptides.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/branched peptide1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_40.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/remember pass.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/chembio3dhotlink.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_19.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/stochimetric reaction1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/exactq.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/periodic table.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_5.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/protected dialog.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_19.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_11.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/11_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/resize1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/StockCoverPhotos/TranslucentBox.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_4.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_31.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Fischer Indole2.gif" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/rectangle corner handles.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Electron pushing.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_13.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_36.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_3.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/mass fragmentation1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_22.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Fasta1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_48.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_17.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_10.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_3.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Export-Selection-2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_11.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_14.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/analysis data.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/cloud_act2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/scroll.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/keyword.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_34.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/GibbFreeEnergy2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_46.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/mergesidechains2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/BalabanIndex.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/TipIcon.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/arrow context menu.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/16_3.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_11.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_14.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/text tool table.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/PKILogos/PKI_FTB_Logo_RGB_1.25in.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/newman2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/using nicknames.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/11_8.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/TableStyles/_2col_table.css" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/preference-chemnmr.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/rel.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_17.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/phenol.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/drawing settings.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/reactant query.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/imported1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_32.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_27.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/filter3.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/filter1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_5.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_43.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_26.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/product query.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_7.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/mouse cursor.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/filter2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_6.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_7.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/addinlocver.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/newman-after rotation.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_13.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/radical pushing.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_13.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_24.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_19.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_15.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemScript chapter/Images/1_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_37.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/StockCoverPhotos/72044.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/doc comment.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/tut65.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_21.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/connection point double.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/plasmid map.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/overwrite win.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_22.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_11.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_8.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/helm insertion.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_28.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemScript chapter/Images/1_2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/exact1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/color by element struct.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/hide win.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/choose nickname.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/PKILogos/HHEHFlag.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/tut64.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/keyword1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/key.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_9.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/Simpleaddin menu.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/position atom numbers.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/add files.PNG" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/preferences win.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Attach Data.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/bond hotkeys.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_23.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/open.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/mixed.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_48.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/lactam1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/custom1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/listarrow.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_23.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/s-orbitals.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/7_18.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/chemdrawcloud.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_21.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/S2N.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/replacingresidues2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_16.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_7.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_8.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/replacing residues 1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_32.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/pka.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_6.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_10.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_11.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/NoteIcon.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/general tab mac.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/brackets.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/replace residue 2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/copy-move.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_19.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/protected 2.1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/d orbitals.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/resize2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/repacing residues1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_47.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_5.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/coloring text2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_18.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Name-Molecule.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_4.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_20.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/drawing element.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/12_5.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_21.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/branched pep1.1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/equilibrium arrow.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_24.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_18.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/coloring groups2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/Helm2.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_2.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/ChemCloud topics/Images/listview.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_24.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/toggle amino single1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/sorting.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/9_27.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_22.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_13.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/replaced residue.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/adv biotemp.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/documetn properties.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Images/hotspot.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_17.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/10_3.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_21.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/TableStyles/Chapternumber.css" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/gel electo1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/caption.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/16_1.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_13.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/16_4.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_6.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/reaction clean up after.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/automatic align1.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/SerineResidues-collapsed.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_5.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/atom numbering.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/7_20.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_23.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/animals.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_6.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/17_49.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/8_21.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/Stereoflag.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/property labels.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/nucleotide_3.png" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/15_4.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/5_3.jpg" />
+    <Url
+      Source="Output/User/Temporary/PDF2/PDF2_1E523ABD/MyImport/13_14.jpg" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

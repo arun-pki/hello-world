@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="811" MadCap:lastWidth="672" MadCap:conditions="MyImport.ChemDraw help" MadCap:disableMasterStylesheet="true" MadCap:tocPath="Query Structures" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+    <head><title>Stereochemical Symbols</title>
+        <link href="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Stylesheets/Cambridgesoft1.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h2 class="Heading2" MadCap:xrefTargetName="Stereochemical Symbols"><a MadCap:generatedBookmark="TOC" name="Stereochemical Symbols"></a><a name="5-Query_617691554_1287410"></a>Stereochemical Symbols<MadCap:keyword term="stereochemical symbols, drawing;drawing: stereochemical symbols;relative flag, drawing;absolute flag, drawing;racemic flag, drawing" /></h2>
+        <div class="Body">There are three types of flags that indicate stereochemistry:</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Racemic</DIV>
+        <div class="Body">A racemic mixture. </div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Absolute</DIV>
+        <div class="Body">A pure enantiomer of known configuration.</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Relative</DIV>
+        <div class="Body">A pure enantiomer of unknown configuration.</div>
+        <div class="Body">The default atom label size for the document determines font and size for stereochemical flags.</div>
+        <div class="Body">To draw a stereochemical flag: </div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">To display the Query tools, navigate to <span class="Action_Object">View</span>&gt;<span class="Action_Object">Other Toolbars</span>&gt;<span class="Action_Object">Query Tools</span>, or click the Query Tools icon on the Main Tool palette.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">On the Query tools palette, click the tool for the flag you want to use.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click next to the structure to which you want to assign the flag.</div>
+        <h2 class="Heading2"><a name="5-Query_617691554_1287202"></a>3D Properties<MadCap:keyword term="3D query properties;query properties: 3D;adding: 3D query property" /></h2>
+        <div class="Body">3D queries are useful in pharmacophore searching when looking for a 3D relationship among atoms and bonds, (for example in a series of potential receptor ligands). To create a 3D query, you add geometries (lines, planes, and so on) and constraints (specified as ranges) to a query structure. For example, you can specify that two atoms must be between 4 and 5 Å apart, or that two planes must be separated by 80-100 degrees. </div>
+        <div class="Body">To assign 3D properties to a structure:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Select the structure or substructure.</div>
+        <div class="NoteInd" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">Because some 3D properties specify an order, use SHIFT+Click to select them in the order you want.</div>
+        <div class="numlist1-last" MadCap:autonum="2. ">Navigate to <span class="Action_Object">Structure</span>&gt;<span class="Action_Object">Add 3D Property</span> and select an option from the table below. </div>
+        <div class="NoteInd" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">In the table, points may be atoms, centroids, or points. Lines may be lines or normals.</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Angle</DIV>
+        <div class="Body">Defines an angle constraint between three points (in order). Indicated as a range.</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Dihedral</DIV>
+        <div class="Body">Defines a dihedral (torsional) angle constraint among four points (in order), between two lines, or two planes. Indicated as a range.</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Distance</DIV>
+        <div class="Body">Defines a distance constraint between two points, a point and a line, or a point and a plane. Indicated as a range, in angstroms.</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Line</DIV>
+        <div class="Body">Defines the best-fit line for the selected points.</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Plane</DIV>
+        <div class="Body">Defines the best-fit plane for the selected points, or for a point and a line.</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Exclusion Sphere</DIV>
+        <div class="Body">Defines an exclusion sphere around a point. If more than one point is selected, the exclusion sphere is around the first selected point, and the subsequent points are allowed within the exclusion sphere when the query is evaluated. Indicated as a range, in angstroms, beginning at 0.</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Normal</DIV>
+        <div class="Body">Defines the normal from a defined plane in the direction of a point. </div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Point</DIV>
+        <div class="Body">Defines a point positioned at a specified distance from a first point in the direction of a second point (in order), or in the direction of the normal.</div>
+        <DIV class="HeadingRunIn" MadCap:autonum=". &#160;">Centroid</DIV>
+        <div class="Body">Defines a point positioned at the average position of all other points selected.</div>
+        <p><b>Notes:</b>
+        </p>
+        <DIV class="Bullet1-1st">All constraint values can be edited with the text tool. Only exclusion spheres show the change.</DIV>
+        <DIV class="Bullet1-inner">When you create a point, a dialog appears where you specify the distance from the first selected point to the calculated point. The distance may be an absolute value in Å or a percentage of the distance between the selected points. </DIV>
+        <DIV class="Bullet1-inner">Negative values indicate that the calculated point is further from the second point than the first point is, rather than between them.</DIV>
+        <DIV class="Bullet1-inner">Geometry and constraint objects update when you change the structure; they cannot be moved independently. </DIV>
+        <DIV class="Bullet2-inner">They may be used with CDX, MOL, SKC, and TGF files (full read-write compatibility); they are not compatible with other formats. </DIV>
+        <DIV class="Bullet2-inner">They can, however, be saved in print-only formats such as TIFF.</DIV>
+    </body>
+</html>

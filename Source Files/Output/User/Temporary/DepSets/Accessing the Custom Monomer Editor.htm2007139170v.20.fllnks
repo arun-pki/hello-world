@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Images/custom1.png" />
+    <Link
+      Url="Content/Resources/Images/custom1_mac.png" />
+    <Link
+      Url="Content/Resources/Images/copy-move.png" />
+    <Link
+      Url="Content/Resources/Images/copy-move-mac.png" />
+    <Link
+      Url="Content/Resources/Images/custom2.png" />
+    <Link
+      Url="Content/Resources/Images/custom2_mac.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Images/custom1.png" />
+    <Link
+      Url="Content/Resources/Images/custom1_mac.png" />
+    <Link
+      Url="Content/Resources/Images/copy-move.png" />
+    <Link
+      Url="Content/Resources/Images/copy-move-mac.png" />
+    <Link
+      Url="Content/Resources/Images/custom2.png" />
+    <Link
+      Url="Content/Resources/Images/custom2_mac.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/Helm_first.png" />
+    <Link
+      Url="Content/Resources/Images/helm_blank.png" />
+    <Link
+      Url="Content/Resources/Images/helm_blank_mac.png" />
+    <Link
+      Url="Content/Resources/Images/Helm1.png" />
+    <Link
+      Url="Content/Resources/Images/Helm1_mac.png" />
+    <Link
+      Url="Content/Resources/Images/Helm2.png" />
+    <Link
+      Url="Content/Resources/Images/Helm2_mac.png" />
+    <Link
+      Url="Content/Resources/Images/helm3.png" />
+    <Link
+      Url="Content/Resources/Images/helm3_mac.png" />
+    <Link
+      Url="Content/MyImport/helm insertion.png" />
+    <Link
+      Url="Content/MyImport/replace current monomer.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/Helm_first.png" />
+    <Link
+      Url="Content/Resources/Images/helm_blank.png" />
+    <Link
+      Url="Content/Resources/Images/helm_blank_mac.png" />
+    <Link
+      Url="Content/Resources/Images/Helm1.png" />
+    <Link
+      Url="Content/Resources/Images/Helm1_mac.png" />
+    <Link
+      Url="Content/Resources/Images/Helm2.png" />
+    <Link
+      Url="Content/Resources/Images/Helm2_mac.png" />
+    <Link
+      Url="Content/Resources/Images/helm3.png" />
+    <Link
+      Url="Content/Resources/Images/helm3_mac.png" />
+    <Link
+      Url="Content/MyImport/helm insertion.png" />
+    <Link
+      Url="Content/MyImport/replace current monomer.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.Comment" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

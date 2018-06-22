@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="MyImport.Book,MyImport.Comment,MyImport.Jaguar,MyImport.Online_Help,MyImport.FM8_SYSTEM_HIDEELEMENT,MyImport.FM8_TRACK_CHANGES_ADDED,MyImport.FM8_TRACK_CHANGES_DELETED" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="First" Width="8.25in" Height="11in" Padding="20px" PageSize="custom" PageType="right" PaddingLeft="0.25in" PaddingRight="0.25in" PaddingTop="0.25in" PaddingBottom="0.5in">
+        <Frame X="6in" Y="9.354167in" Width="1.5in" Flow="decoration" Anchors="" Height="0.7916667in" Right="24px" Bottom="10px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/PKILogos/PKI_FTB_Logo_RGB.eps" MadCap:mediastyle="@media print { width: 1.5in; }" xhtml:style="width: 149px;height: 78px;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="5.729167in" Y="7.8125in" Width="1in" Height="1in" Flow="body" Right="98px" Bottom="138px" DividerWidth="1in" DividerTopMargin="1in" Anchors="" />
+        <Frame X="0px" Y="0px" Width="7.75in" Height="7.75in" FlowIndex="4" Flow="decoration" BackgroundImage="../Images/StockCoverPhotos/iStock_000009534994XLarge.jpg" BackgroundRepeat="stretch" Anchors="" Right="0px" Bottom="240px" />
+        <Frame X="-1.447917in" Y="0.7291667in" Width="3.75in" Height="0.4479167in" FlowIndex="5" Flow="decoration" BackgroundImage="../Images/PKILogos/HHEHFlag.png" BackgroundRepeat="stretch" Right="523px" Bottom="871px" Anchors="" />
+        <Frame X="60px" Y="480px" Width="490px" Height="130px" FlowIndex="4" Flow="decoration" BackgroundImage="../Images/StockCoverPhotos/TranslucentBox.png" BackgroundRepeat="stretch" Right="194px" Bottom="374px" />
+        <Frame X="0.625in" Y="5.104167in" Width="5in" Height="1in" Flow="footer" Anchors="" Right="204px" Bottom="398px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:Div xhtml:class="Title">Chem3D 14.0</xhtml:Div>
+                        <xhtml:Div xhtml:class="UserGuide">User Guide</xhtml:Div>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="550px" Y="480px" Width="104px" Height="130px" FlowIndex="4" Flow="decoration" BackgroundImage="../Images/StockCoverPhotos/glucose.png" BackgroundRepeat="stretch" Right="90px" Bottom="374px" Anchors="" />
+    </Page>
+</PageStyles>

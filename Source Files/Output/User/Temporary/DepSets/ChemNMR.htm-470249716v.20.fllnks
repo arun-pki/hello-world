@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/NMR_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/preference-chemnmr.png" />
+    <Link
+      Url="Content/MyImport/ChemNMR.htm" />
+    <Link
+      Url="Content/MyImport/11_10.jpg" />
+    <Link
+      Url="Content/MyImport/11_11.jpg" />
+    <Link
+      Url="Content/MyImport/11_12.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/NMR_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/preference-chemnmr.png" />
+    <Link
+      Url="Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1183683" />
+    <Link
+      Url="Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1209750" />
+    <Link
+      Url="Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1183706" />
+    <Link
+      Url="Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1183715" />
+    <Link
+      Url="Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1212032" />
+    <Link
+      Url="Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1209699" />
+    <Link
+      Url="Content/MyImport/ChemNMR.htm#6a-Chem_969106972_1209704" />
+    <Link
+      Url="Content/MyImport/11_10.jpg" />
+    <Link
+      Url="Content/MyImport/11_11.jpg" />
+    <Link
+      Url="Content/MyImport/11_12.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="6a-Chem_969106972_1212985" />
+    <Anchor
+      Name="6a-Chem_969106972_39005" />
+    <Anchor
+      Name="6a-Chem_969106972_1183683" />
+    <Anchor
+      Name="6a-Chem_969106972_71721" />
+    <Anchor
+      Name="6a-Chem_969106972_1183692" />
+    <Anchor
+      Name="6a-Chem_969106972_1209750" />
+    <Anchor
+      Name="6a-Chem_969106972_67535" />
+    <Anchor
+      Name="6a-Chem_969106972_1183706" />
+    <Anchor
+      Name="6a-Chem_969106972_17085" />
+    <Anchor
+      Name="6a-Chem_969106972_1183715" />
+    <Anchor
+      Name="6a-Chem_969106972_31365" />
+    <Anchor
+      Name="6a-Chem_969106972_1212032" />
+    <Anchor
+      Name="6a-Chem_969106972_40296" />
+    <Anchor
+      Name="6a-Chem_969106972_1209699" />
+    <Anchor
+      Name="6a-Chem_969106972_37177" />
+    <Anchor
+      Name="6a-Chem_969106972_1209704" />
+    <Anchor
+      Name="6a-Chem_969106972_86684" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="NMR, see ChemNMR, spectra"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="ChemNMR:using"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="13C, 1H shifts, estimating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="ChemNMR:NMR shifts"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="ChemNMR:example supplementary data"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="carbon-13 shifts, see 13C, 1H shifts, estimating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="39" />
+    <IndexCacheEntry
+      Term="proton shifts, see 13C, 1H shifts, estimating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="40" />
+    <IndexCacheEntry
+      Term="spectrum-structure assignments:viewing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="viewing:spectrum-structure assignments"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="spectrum-structure assignments:removing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="107" />
+    <IndexCacheEntry
+      Term="spectra:removing assignments"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="107" />
+    <IndexCacheEntry
+      Term="clearing:spectrum-structure assignments"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="107" />
+    <IndexCacheEntry
+      Term="custom shift correction data"
+      Conditions="MyImport.PC,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="116" />
+    <IndexCacheEntry
+      Term="ChemNMR database"
+      Conditions="MyImport.PC,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="139" />
+    <IndexCacheEntry
+      Term="ChemNMR directory"
+      Conditions="MyImport.PC,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="143" />
+    <IndexCacheEntry
+      Term="DOS prompt"
+      Conditions="MyImport.PC,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="155" />
+    <IndexCacheEntry
+      Term="MakeChemNMRUserDB.exe"
+      Conditions="MyImport.PC,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="159" />
+    <IndexCacheEntry
+      Term="NMR data:restoring default"
+      Conditions="MyImport.PC,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="174" />
+    <IndexCacheEntry
+      Term="ChemNMR:example supplementary data"
+      Conditions="MyImport.PC,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="189" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.PC" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/NMR_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

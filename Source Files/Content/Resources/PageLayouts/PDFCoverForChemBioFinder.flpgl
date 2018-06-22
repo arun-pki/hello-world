@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="MyImport.Book,MyImport.Comment,MyImport.Jaguar,MyImport.Online_Help,MyImport.FM8_SYSTEM_HIDEELEMENT,MyImport.FM8_TRACK_CHANGES_ADDED,MyImport.FM8_TRACK_CHANGES_DELETED" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="First" Width="7.5in" Height="9in" Padding="20px" PageSize="custom" PageType="right" PaddingLeft="0.5in" PaddingRight="0.5in" PaddingTop="0.5in" PaddingBottom="0.5in">
+        <Frame X="0px" Y="0px" Width="6.5in" Height="4.71875in" Flow="header" BackgroundImage="../Images/StockCoverPhotos/72044.jpg" BackgroundRepeat="stretch" Right="0px" Bottom="315px" Anchors="" />
+        <Frame X="0in" Y="5in" Width="5in" Height="2.9375in" Flow="footer" Anchors="" Right="144px" Bottom="6px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:Div xhtml:class="Title">ChemFinder 14.0</xhtml:Div>
+                        <xhtml:Div xhtml:class="UserGuide">User Guide</xhtml:Div>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="480px" Y="660px" Width="1.5in" Flow="decoration" Anchors="" Right="0px" Bottom="8px" Height="100px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/PKILogos/PKI_FTB_Logo_RGB.eps" MadCap:mediastyle="@media print { width: 1.5in; }" xhtml:style="width: 149px;height: 78px;" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="530px" Y="490px" Width="1in" Height="1in" Flow="body" Right="-2px" Bottom="182px" DividerWidth="1in" DividerTopMargin="1in" Anchors="" />
+    </Page>
+</PageStyles>

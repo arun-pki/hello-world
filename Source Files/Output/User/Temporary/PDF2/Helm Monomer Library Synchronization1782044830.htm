@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="750" MadCap:lastWidth="565" MadCap:disableMasterStylesheet="true" MadCap:tocPath="Drawing Monomer Sequences|[%=System.LinkedTitle%]" MadCap:medium="print" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="PDF">
+    <head><title>Helm Monomer Library Synchronization</title>
+        <link href="file:///D:/ChemDraw-Desktop/Documentation/Windows/ChemDraw/Source Files/Output/User/Temporary/PDF2/PDF2_1E523ABD/Resources/Stylesheets/Cambridgesoft1.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <H3 class="Heading3" MadCap:xrefTargetName="HELM Monomer Library Synchronization" MadCap:sourceTitle="Helm Monomer Library Synchronization"><a MadCap:generatedBookmark="TOC" name="HELM Monomer Library Synchronization"></a>HELM Monomer Library Synchronization</H3>
+        <DIV class="Body">Each time ChemDraw is launched, the monomer libraries listed in the Preference dialog are synchronized in the background. The purpose of synchronization is to make sure that any change in the monomers in remote locations is reflected in ChemDraw's copy of those monomers.</DIV>
+        <DIV class="Body">Synchronization happens in the background when ChemDraw is launched. The status of the synchronization is reported in the Status column of the Monomer Library table found at <b>File&gt;Preferences&gt;Monomer Libraries</b>. Reported statuses are:</DIV>
+        <DIV class="Bullet1-1st"><b>Good</b> - synchronization completed OK</DIV>
+        <DIV class="Bullet1-inner"><b>Syncing</b> - synchronization is in progress</DIV>
+        <DIV class="Bullet1-last"><b>Failed</b> - synchronization failed, often because of no connection between ChemDraw and the remote location. ChemDraw keeps a cache of all libraries, so the copy can still be used in the HELM Monomer toolbar and viewer. This is because when the source library cannot be connected, the network library access becomes Read-Only and only the Monomer Viewer is displayed instead of Monomer Editor. </DIV>
+        <DIV class="Body">Synchronization introduces some subtle scenarios in monomer handling, which are summarized in the table below:</DIV>
+        <DIV class="Body">First, consider a sequence rendered in a ChemDraw document that contains a monomer '<b>X</b>' in a remote library '<b>R</b>'. If monomer '<b>X</b>' is modified in '<b>R</b>', on synchronization ChemDraw implements the behavior shown below:</DIV>
+        <DIV class="Body">
+        </DIV>
+        <table style="width: 100%;border-top-left-radius: 1px;border-top-right-radius: 1px;border-bottom-right-radius: 1px;border-bottom-left-radius: 1px;border-left-style: solid;border-left-width: 1px;border-right-style: solid;border-right-width: 1px;border-top-style: solid;border-top-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;border-collapse: collapse;margin-left: 0;margin-right: auto;">
+            <col style="width: 189px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td style="font-weight: bold;border-bottom-style: solid;border-bottom-width: 1px;">If R... </td>
+                    <td style="font-weight: bold;border-left-style: solid;border-left-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;">ChemDraw behavior...</td>
+                </tr>
+                <tr>
+                    <td style="border-bottom-style: solid;border-bottom-width: 1px;">has X deleted</td>
+                    <td style="border-left-style: solid;border-left-width: 1px;border-bottom-style: solid;border-bottom-width: 1px;">Leaves X in the document unchanged by moving its definition to the Document set.</td>
+                </tr>
+                <tr>
+                    <td>has X changed</td>
+                    <td style="border-left-style: solid;border-left-width: 1px;">Leaves X in the document unchanged by moving its definition to the Document set. However, any new use of X from R will use the new definition.</td>
+                </tr>
+            </tbody>
+        </table>
+        <DIV class="Body">&#160;</DIV>
+        <DIV class="Body">Second, consider a sequence rendered in a ChemDraw document that contains a monomer '<b>Y</b>' in the Document set (because there is no known definition in any library for '<b>Y</b>'). If a remote library '<b>R</b>' is added that contains a definition of '<b>Y</b>' identical in structure and capping groups, then '<b>Y</b>' will be removed from the Document set and associated with '<b>R</b>'. This can also happen during synchronization, if '<b>Y</b>' was added to the remote library '<b>R</b>' through some other process.</DIV>
+    </body>
+</html>

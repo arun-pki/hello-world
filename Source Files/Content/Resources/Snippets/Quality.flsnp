@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="318" MadCap:lastWidth="1119">
+    <head>
+        <link href="../TableStyles/_2col_table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <H5 class="HeadingRunIn"><a name="Chem3D_Parameter_Tables_757502103_1058747"></a>
+        </H5>
+        <div class="Body">The quality of a parameter indicates the relative accuracy of the data.</div>
+        <table class="TableStyle__2col_table" style="width: 279px;caption-side: top;mc-table-style: url('../TableStyles/_2col_table.css');" cellspacing="0">
+            <col width="55px" class="Column-Column1" />
+            <col width="365px" class="Column-Column1" />
+            <tbody>
+                <tr class="Body-Body1">
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColSep">
+                        <p class="TableHead"><span class="_Override" style="line-height: 12pt;">Quality</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColEnd">
+                        <p class="TableHead">Accuracy Level</p>
+                    </td>
+                </tr>
+                <tr class="Body-Body2">
+                    <td class="TableStyle__2col_table_Body_1_0_RowSep_ColSep">
+                        <div class="Body">1</div>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_1_0_RowSep_ColEnd">
+                        <div class="Body">The parameter is an estimate by Chem3D. See <MadCap:xref href="../../MyImport/Parameter Tables.htm#Chem3D_Parameter_Tables_757502103_1140307" target="" title="" alt="">Estimating parameters</MadCap:xref>.</div>
+                    </td>
+                </tr>
+                <tr class="Body-Body1">
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColSep">
+                        <div class="Body">2</div>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_0_0_RowSep_ColEnd">
+                        <div class="Body">The parameter is theorized but not confirmed.</div>
+                    </td>
+                </tr>
+                <tr class="Body-Body2">
+                    <td class="TableStyle__2col_table_Body_1_0_RowSep_ColSep">
+                        <div class="Body">3</div>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_1_0_RowSep_ColEnd">
+                        <div class="Body">The parameter is derived from experimental data.</div>
+                    </td>
+                </tr>
+                <tr class="Body-Body1">
+                    <td class="TableStyle__2col_table_Body_0_0_RowEnd_ColSep">
+                        <div class="Body">4</div>
+                    </td>
+                    <td class="TableStyle__2col_table_Body_0_0_RowEnd_ColEnd">
+                        <div class="Body">The parameter is well-confirmed.</div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="GraphicAnchor">
+            <MadCap:keyword term="Quality field;" />
+        </p>
+    </body>
+</html>

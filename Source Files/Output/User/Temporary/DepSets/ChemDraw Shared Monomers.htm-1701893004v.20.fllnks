@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Images/preferences win.png" />
+    <Link
+      Url="Content/Resources/Images/preferences mac.png" />
+    <Link
+      Url="Content/Helm Monomer Library Synchronization.htm" />
+    <Link
+      Url="Content/Resources/Images/line.png" />
+    <Link
+      Url="Content/Resources/Images/line mac.png" />
+    <Link
+      Url="Content/Resources/Images/more.png" />
+    <Link
+      Url="Content/Resources/Images/add files.PNG" />
+    <Link
+      Url="Content/Resources/Images/add files mac.png" />
+    <Link
+      Url="Content/Resources/Images/combined.png" />
+    <Link
+      Url="Content/Resources/Images/combined mac.png" />
+    <Link
+      Url="Content/Resources/Images/add url.PNG" />
+    <Link
+      Url="Content/Resources/Images/add url mac.png" />
+    <Link
+      Url="Content/Resources/Images/add url1.PNG" />
+    <Link
+      Url="Content/Resources/Images/add url1 mac.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Images/preferences win.png" />
+    <Link
+      Url="Content/Resources/Images/preferences mac.png" />
+    <Link
+      Url="Content/Helm Monomer Library Synchronization.htm" />
+    <Link
+      Url="Content/Resources/Images/line.png" />
+    <Link
+      Url="Content/Resources/Images/line mac.png" />
+    <Link
+      Url="Content/Resources/Images/more.png" />
+    <Link
+      Url="Content/Resources/Images/add files.PNG" />
+    <Link
+      Url="Content/Resources/Images/add files mac.png" />
+    <Link
+      Url="Content/Resources/Images/combined.png" />
+    <Link
+      Url="Content/Resources/Images/combined mac.png" />
+    <Link
+      Url="Content/Resources/Images/add url.PNG" />
+    <Link
+      Url="Content/Resources/Images/add url mac.png" />
+    <Link
+      Url="Content/Resources/Images/add url1.PNG" />
+    <Link
+      Url="Content/Resources/Images/add url1 mac.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

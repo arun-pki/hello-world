@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="http://www.cambridgesoft.com/services/DesktopSupport/Documentation/Chem3DControl/" />
+    <Link
+      Url="http://www.scistore.com/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="http://www.cambridgesoft.com/services/DesktopSupport/Documentation/Chem3DControl/" />
+    <Link
+      Url="http://www.scistore.com/" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="A-Access_1253614424_1074397" />
+    <Anchor
+      Name="A-Access_1253614424_1074496" />
+    <Anchor
+      Name="A-Access_1253614424_1046630" />
+    <Anchor
+      Name="A-Access_1253614424_1072640" />
+    <Anchor
+      Name="A-Access_1253614424_1023297" />
+    <Anchor
+      Name="A-Access_1253614424_1000359" />
+    <Anchor
+      Name="A-Access_1253614424_1081836" />
+    <Anchor
+      Name="A-Access_1253614424_1081839" />
+    <Anchor
+      Name="A-Access_1253614424_1082598" />
+    <Anchor
+      Name="A-Access_1253614424_1051268" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Online menu:register online"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="ChemClub.com"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="registration, online"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="14" />
+    <IndexCacheEntry
+      Term="user guide, online"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="documentation web page"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="Online menu:CS Chem3D technical support"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="FAQs:online, accessing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="troubleshooting:online"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="32" />
+    <IndexCacheEntry
+      Term="Online menu:lookup suppliers on SciStore.com"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="43" />
+    <IndexCacheEntry
+      Term="supplier, finding online"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="43" />
+    <IndexCacheEntry
+      Term="ChemBioFinder.com"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="ACX information, finding"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="Online menu:browse SciStore.com"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="84" />
+    <IndexCacheEntry
+      Term="lab supplies, purchasing online"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="84" />
+    <IndexCacheEntry
+      Term="SciStore.com"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="84" />
+    <IndexCacheEntry
+      Term="chemicals, purchasing online"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="84" />
+    <IndexCacheEntry
+      Term="Online menu:CambridgeSoft home page"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="Web site, CambridgeSoft, accessing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="home page, CambridgeSoft"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="internet, CambridgeSoft web site"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="CambridgeSoft.com"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="91" />
+    <IndexCacheEntry
+      Term="CambridgeSoft Web site, accessing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="92" />
+    <IndexCacheEntry
+      Term="ChemNews.Com"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="92" />
+    <IndexCacheEntry
+      Term="Online menu:register online"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="Online menu:ChemBioOffice SDK"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="sample code, SDK web site"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="ChemOffice SDK, accessing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="SDK Online, accessing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="98" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

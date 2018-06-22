@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/periodic table.png" />
+    <Link
+      Url="Content/MyImport/color by element struct.png" />
+    <Link
+      Url="Content/MyImport/Document and Object Sett.htm" />
+    <Link
+      Url="Content/MyImport/15_5.jpg" />
+    <Link
+      Url="Content/MyImport/MacSetNewColor.png" />
+    <Link
+      Url="Content/MyImport/Transferring Objects.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/periodic table.png" />
+    <Link
+      Url="Content/MyImport/color by element struct.png" />
+    <Link
+      Url="Content/MyImport/Document and Object Sett.htm#A-Customize_2096640490_1462889" />
+    <Link
+      Url="Content/MyImport/15_5.jpg" />
+    <Link
+      Url="Content/MyImport/MacSetNewColor.png" />
+    <Link
+      Url="Content/MyImport/Transferring Objects.htm#9-Sharing_Info_2779241888_1071799" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="A-Customize_2096640490_1551135" />
+    <Anchor
+      Name="A-Customize_2096640490_1551220" />
+    <Anchor
+      Name="A-Customize_2096640490_1572992" />
+    <Anchor
+      Name="A-Customize_2096640490_29773" />
+    <Anchor
+      Name="A-Customize_2096640490_1463236" />
+    <Anchor
+      Name="A-Customize_2096640490_26163" />
+    <Anchor
+      Name="A-Customize_2096640490_1463293" />
+    <Anchor
+      Name="A-Customize_2096640490_1463300" />
+    <Anchor
+      Name="A-Customize_2096640490_1463306" />
+    <Anchor
+      Name="A-Customize_2096640490_85827" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="color:overview"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="colors, maximum number of"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="color:menu"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="52" />
+    <IndexCacheEntry
+      Term="color palette"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="palette:color"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="colors, maximum number of"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="autoscale:template color"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="119" />
+    <IndexCacheEntry
+      Term="color:saving settings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="124" />
+    <IndexCacheEntry
+      Term="style sheet:color palette"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="124" />
+    <IndexCacheEntry
+      Term="color:saving settings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="124" />
+    <IndexCacheEntry
+      Term="printing:preferences"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="131" />
+    <IndexCacheEntry
+      Term="preferences:print"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="131" />
+    <IndexCacheEntry
+      Term="printing:background color"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="131" />
+    <IndexCacheEntry
+      Term="printing:PostScript atom labels"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="131" />
+    <IndexCacheEntry
+      Term="printing:ChemDraw laser prep"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="131" />
+    <IndexCacheEntry
+      Term="ChemDraw laser prep"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="131" />
+    <IndexCacheEntry
+      Term="high resolution printing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="132" />
+    <IndexCacheEntry
+      Term="background color, printing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="132" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.Comment" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

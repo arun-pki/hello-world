@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/8_19.jpg" />
+    <Link
+      Url="Content/MyImport/8_10.jpg" />
+    <Link
+      Url="Content/MyImport/8_11.jpg" />
+    <Link
+      Url="Content/MyImport/8_15.jpg" />
+    <Link
+      Url="Content/MyImport/8_16.jpg" />
+    <Link
+      Url="Content/MyImport/8_18.jpg" />
+    <Link
+      Url="Content/MyImport/8_43.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/8_19.jpg" />
+    <Link
+      Url="Content/MyImport/8_10.jpg" />
+    <Link
+      Url="Content/MyImport/8_11.jpg" />
+    <Link
+      Url="Content/MyImport/8_15.jpg" />
+    <Link
+      Url="Content/MyImport/8_16.jpg" />
+    <Link
+      Url="Content/MyImport/8_18.jpg" />
+    <Link
+      Url="Content/MyImport/8_43.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="2-Tutorials_1162660173_1331024" />
+    <Anchor
+      Name="2-Tutorials_1162660173_47138" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Tutorial 3 (Fischer projections)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="Fischer projections tutorial"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

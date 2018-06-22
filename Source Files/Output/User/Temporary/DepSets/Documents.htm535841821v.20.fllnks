@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Document Settings.htm" />
+    <Link
+      Url="Content/MyImport/open recent.png" />
+    <Link
+      Url="Content/MyImport/doc comment.png" />
+    <Link
+      Url="Content/MyImport/move to.png" />
+    <Link
+      Url="Content/MyImport/rename.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Document Settings.htm#A-Customize_2096640490_1463334" />
+    <Link
+      Url="Content/MyImport/open recent.png" />
+    <Link
+      Url="Content/MyImport/doc comment.png" />
+    <Link
+      Url="Content/MyImport/move to.png" />
+    <Link
+      Url="Content/MyImport/rename.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="1-Basics_10_2813300016_1222377" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1222397" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1248091" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1253680" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1250852" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1222128" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1222131" />
+    <Anchor
+      Name="1-Basics_10_2813300016_1222135" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="commands:new"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="documents:creating"
+      Conditions=""
+      LocalConditions=""
+      Position="12" />
+    <IndexCacheEntry
+      Term="commands:open"
+      Conditions=""
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="selecting an open document"
+      Conditions=""
+      LocalConditions=""
+      Position="60" />
+    <IndexCacheEntry
+      Term="Window menu"
+      Conditions=""
+      LocalConditions=""
+      Position="61" />
+    <IndexCacheEntry
+      Term="open documents"
+      Conditions=""
+      LocalConditions=""
+      Position="61" />
+    <IndexCacheEntry
+      Term="open templates"
+      Conditions=""
+      LocalConditions=""
+      Position="61" />
+    <IndexCacheEntry
+      Term="repeating actions"
+      Conditions=""
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="reversing actions"
+      Conditions=""
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="undo, redo, and repeat"
+      Conditions=""
+      LocalConditions=""
+      Position="98" />
+    <IndexCacheEntry
+      Term="saving documents"
+      Conditions=""
+      LocalConditions=""
+      Position="104" />
+    <IndexCacheEntry
+      Term="commands:save"
+      Conditions=""
+      LocalConditions=""
+      Position="105" />
+    <IndexCacheEntry
+      Term="documents:saving"
+      Conditions=""
+      LocalConditions=""
+      Position="105" />
+    <IndexCacheEntry
+      Term="native file format"
+      Conditions=""
+      LocalConditions=""
+      Position="105" />
+    <IndexCacheEntry
+      Term="file formats:native"
+      Conditions=""
+      LocalConditions=""
+      Position="105" />
+    <IndexCacheEntry
+      Term="file formats:CDX"
+      Conditions=""
+      LocalConditions=""
+      Position="105" />
+    <IndexCacheEntry
+      Term="CDX see file formats"
+      Conditions=""
+      LocalConditions=""
+      Position="105" />
+    <IndexCacheEntry
+      Term="default save file format"
+      Conditions=""
+      LocalConditions=""
+      Position="146" />
+    <IndexCacheEntry
+      Term="stationery pad:saving document settings"
+      Conditions=""
+      LocalConditions=""
+      Position="146" />
+    <IndexCacheEntry
+      Term="save command:default file format"
+      Conditions=""
+      LocalConditions=""
+      Position="146" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.ONLY for WebHELP (MAC) output" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

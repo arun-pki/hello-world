@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="MyImport.Book,MyImport.Comment,MyImport.Jaguar,MyImport.Online_Help,MyImport.FM8_SYSTEM_HIDEELEMENT,MyImport.FM8_TRACK_CHANGES_ADDED,MyImport.FM8_TRACK_CHANGES_DELETED" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Left" Width="8.5in" Height="11in" Padding="20px" PageSize="custom" PageType="left" PaddingLeft="0.5in" PaddingRight="0.5in" PaddingTop="0.75in" PaddingBottom="0.5in">
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="0" Bottom="0" X="0px" Y="8in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.5in" VerticalAlign="middle" TextAlign="left" BorderTopStyle="solid" BorderTopWidth="3pt" BorderTopColor="#ebb700" Width="7.25in">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="../Stylesheets/Cambridgesoft1.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                        <xhtml:link xhtml:href="" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="border-left-style: none;border-left-width: 1px;border-left-color: #000000;border-right-style: none;border-right-width: 1px;border-right-color: #000000;border-top-style: none;border-top-width: 1px;border-top-color: #000000;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #000000;caption-side: top;margin-left: 0;margin-right: auto;mc-table-style: url('../Stylesheets/Cambridgesoft1.css');width: 7.25in;" xhtml:class="TableStyle_Cambridgesoft1" xhtml:cellspacing="0">
+                            <xhtml:col xhtml:class="Column-Column1" xhtml:style="width: 2.17in;" />
+                            <xhtml:col xhtml:class="Column-Column2" xhtml:style="width: 2.17in;" />
+                            <xhtml:col xhtml:class="Column-Column3" xhtml:style="width: 2.17in;" />
+                            <xhtml:tbody>
+                                <xhtml:tr xhtml:class="Body-Body1">
+                                    <xhtml:td xhtml:style="text-align: left;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0"><MadCap:variable xhtml:name="System.PageNumber" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: center;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0"><MadCap:variable xhtml:name="MyImport.Prod_CD" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0_ColEnd"><MadCap:variable xhtml:name="Heading.Level1" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                                <xhtml:tr xhtml:class="Body-Body1">
+                                    <xhtml:td xhtml:style="text-align: left;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0_RowEnd">&#160;</xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: center;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0_RowEnd">User Guide</xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0_RowEnd_ColEnd">&#160;</xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0.25in" PaddingBottom="0.25in" X="0" Y="0" Right="0" Bottom="0" Width="7.5in" Height="9in" BorderTopStyle="solid" BorderTopWidth="3px" BorderTopColor="#ebb700">
+        </Frame>
+    </Page>
+    <Page Name="Right" Width="8.5in" Height="11in" Padding="20px" PageSize="custom" PageType="right" PaddingLeft="0.5in" PaddingRight="0.5in" PaddingTop="0.75in" PaddingBottom="0.5in">
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="0" Bottom="0" X="0px" Y="8in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.5in" VerticalAlign="middle" TextAlign="left" BorderTopStyle="solid" BorderTopWidth="3pt" BorderTopColor="#ebb700" Width="7.25in">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="../Stylesheets/Cambridgesoft1.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                        <xhtml:link xhtml:href="" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="border-left-style: none;border-left-width: 1px;border-left-color: #000000;border-right-style: none;border-right-width: 1px;border-right-color: #000000;border-top-style: none;border-top-width: 1px;border-top-color: #000000;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #000000;caption-side: top;margin-left: 0;margin-right: auto;mc-table-style: url('../Stylesheets/Cambridgesoft1.css');width: 7.25in;" xhtml:class="TableStyle_Cambridgesoft1" xhtml:cellspacing="0">
+                            <xhtml:col xhtml:class="Column-Column1" xhtml:style="width: 2.17in;" />
+                            <xhtml:col xhtml:class="Column-Column2" xhtml:style="width: 2.17in;" />
+                            <xhtml:col xhtml:class="Column-Column3" xhtml:style="width: 2.17in;" />
+                            <xhtml:tbody>
+                                <xhtml:tr xhtml:class="Body-Body1">
+                                    <xhtml:td xhtml:style="text-align: left;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0"><MadCap:variable xhtml:name="System.PageNumber" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: center;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0"><MadCap:variable xhtml:name="MyImport.Prod_CD" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0_ColEnd"><MadCap:variable xhtml:name="Heading.Level1" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                                <xhtml:tr xhtml:class="Body-Body1">
+                                    <xhtml:td xhtml:style="text-align: left;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0_RowEnd">&#160;</xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: center;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0_RowEnd">User Guide</xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;" xhtml:class="TableStyle_Cambridgesoft1_Body_0_0_RowEnd_ColEnd">&#160;</xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="Left" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0.25in" PaddingBottom="0.25in" X="0" Y="0" Right="0" Bottom="0" Width="7.5in" Height="9in" BorderTopStyle="solid" BorderTopWidth="3px" BorderTopColor="#ebb700">
+        </Frame>
+    </Page>
+    <Page Name="First" Width="8.5in" Height="11in" Padding="20px" PageSize="custom" PageType="first" PaddingLeft="0.5in" PaddingRight="0.5in" PaddingTop="0.75in" PaddingBottom="0.5in">
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="0" Bottom="0" X="0" Y="8in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.5in" VerticalAlign="middle" TextAlign="left" BorderTopStyle="solid" BorderTopWidth="3pt" BorderTopColor="#ebb700" Width="7.25in">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="../TableStyles/PDFFooter.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="caption-side: top;border-spacing: 0px 0px;border-collapse: collapse;margin-left: auto;margin-right: auto;mc-table-style: url('../TableStyles/PDFFooter.css');width: 7.25in;" MadCap:mediastyle="@media print { mc-table-style: url('../TableStyles/PDFFooter.css'); }" xhtml:class="TableStyle-PDFFooter" xhtml:cellspacing="0">
+                            <xhtml:col xhtml:class="Column-Column1" MadCap:pattern="0" xhtml:style="width: 2.17in;" />
+                            <xhtml:col xhtml:class="Column-Column2" xhtml:style="width: 2.17in;" />
+                            <xhtml:col xhtml:class="Column-Column3" MadCap:pattern="5" xhtml:style="width: 2.17in;" />
+                            <xhtml:tbody>
+                                <xhtml:tr xhtml:class="Body-Body1">
+                                    <xhtml:td xhtml:style="text-align: left;" xhtml:class="BodyE-Column1-Body1"><MadCap:variable xhtml:name="Heading.Level1" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: center;" xhtml:class="BodyE-Column2-Body1"><MadCap:variable xhtml:name="MyImport.Prod_CD" />
+                                    </xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;" xhtml:class="BodyD-Column3-Body1"><MadCap:variable xhtml:name="System.PageNumber" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                                <xhtml:tr xhtml:class="Body-Body1">
+                                    <xhtml:td xhtml:style="text-align: left;" xhtml:class="BodyB-Column1-Body1">&#160;</xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: center;" xhtml:class="BodyB-Column2-Body1">User Guide</xhtml:td>
+                                    <xhtml:td xhtml:style="text-align: right;" xhtml:class="BodyA-Column3-Body1">&#160;</xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0px" Y="102px" Width="7.5in" Height="0.4166667in" FlowIndex="1" Right="0px" Bottom="794px" Anchors="" ColumnCount="1" Flow="body" />
+        <Frame X="0in" Y="0in" Width="7.5in" Height="1in" Flow="header" Right="0px" Bottom="696px" Anchors="" BorderBottomStyle="solid" BorderBottomWidth="3px" BorderBottomColor="#ebb700">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                        <xhtml:link xhtml:href="../TableStyles/Chapternumber.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:table xhtml:class="TableStyle-Chapternumber" xhtml:style="mc-table-style: url('../TableStyles/Chapternumber.css'); margin-left: auto; margin-right: 0;" xhtml:cellspacing="0">
+                            <xhtml:col xhtml:style="width: 1in;" xhtml:class="Column-Column1" />
+                            <xhtml:tbody>
+                                <xhtml:tr xhtml:class="Body-Body1">
+                                    <xhtml:td xhtml:class="BodyA-Column1-Body1"><MadCap:variable xhtml:name="System.ChapterNumber" xhtml:class="ChapterNumber" />
+                                    </xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="0in" Y="1.5625in" Width="7.5in" Height="7.604167in" FlowIndex="2" Flow="body" Right="-30px" Bottom="56px" Anchors="" PaddingTop="0.25in" />
+    </Page>
+    <Page Width="8.5in" Height="11in" Padding="20px" PageSize="custom" PageType="empty" PaddingLeft="0.5in" PaddingRight="0.5in" PaddingTop="0.5in" PaddingBottom="0.25in" Name="Empty">
+    </Page>
+</PageStyles>

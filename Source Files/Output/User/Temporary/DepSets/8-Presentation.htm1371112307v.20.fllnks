@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/8-Presentation.htm" />
+    <Link
+      Url="Content/MyImport/header.png" />
+    <Link
+      Url="Content/MyImport/header1.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1133021" />
+    <Link
+      Url="Content/MyImport/8-Presentation.htm#8-Presentation_208243784_1071718" />
+    <Link
+      Url="Content/MyImport/header.png" />
+    <Link
+      Url="Content/MyImport/header1.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="8-Presentation_208243784_1071574" />
+    <Anchor
+      Name="8-Presentation_208243784_14951" />
+    <Anchor
+      Name="8-Presentation_208243784_1071598" />
+    <Anchor
+      Name="8-Presentation_208243784_1071638" />
+    <Anchor
+      Name="8-Presentation_208243784_1071644" />
+    <Anchor
+      Name="8-Presentation_208243784_1104850" />
+    <Anchor
+      Name="8-Presentation_208243784_1071718" />
+    <Anchor
+      Name="8-Presentation_208243784_93862" />
+    <Anchor
+      Name="8-Presentation_208243784_1133021" />
+    <Anchor
+      Name="8-Presentation_208243784_90291" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="document window:drawing area"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="drawing area"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="document window:reducing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="reduce:document window"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="border of page"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="page:border"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="document window:enlarging"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="enlarge:document window"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="11" />
+    <IndexCacheEntry
+      Term="show document"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="16" />
+    <IndexCacheEntry
+      Term="magnification control"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="document:setting up multi-paged"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="29" />
+    <IndexCacheEntry
+      Term="document setup:multiple-paged documents"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="paged documents"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="multiple-paged documents, setup"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="37" />
+    <IndexCacheEntry
+      Term="document setup:posters"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="document:posters"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="posters, setup"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="registration marks"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="page:overlap"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="overlap, multipaged documents"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="footers, creating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="74" />
+    <IndexCacheEntry
+      Term="headers, creating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="74" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

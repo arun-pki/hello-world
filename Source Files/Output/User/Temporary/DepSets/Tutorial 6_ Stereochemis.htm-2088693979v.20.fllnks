@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/8_30.jpg" />
+    <Link
+      Url="Content/MyImport/8_31.jpg" />
+    <Link
+      Url="Content/MyImport/tut61.png" />
+    <Link
+      Url="Content/MyImport/tut62.png" />
+    <Link
+      Url="Content/MyImport/tut63.png" />
+    <Link
+      Url="Content/MyImport/tut64.png" />
+    <Link
+      Url="Content/MyImport/tut65.png" />
+    <Link
+      Url="Content/MyImport/tut66.png" />
+    <Link
+      Url="Content/MyImport/8_34.jpg" />
+    <Link
+      Url="Content/MyImport/8_35.jpg" />
+    <Link
+      Url="Content/MyImport/8_36.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/8_30.jpg" />
+    <Link
+      Url="Content/MyImport/8_31.jpg" />
+    <Link
+      Url="Content/MyImport/tut61.png" />
+    <Link
+      Url="Content/MyImport/tut62.png" />
+    <Link
+      Url="Content/MyImport/tut63.png" />
+    <Link
+      Url="Content/MyImport/tut64.png" />
+    <Link
+      Url="Content/MyImport/tut65.png" />
+    <Link
+      Url="Content/MyImport/tut66.png" />
+    <Link
+      Url="Content/MyImport/8_34.jpg" />
+    <Link
+      Url="Content/MyImport/8_35.jpg" />
+    <Link
+      Url="Content/MyImport/8_36.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="2-Tutorials_1162660173_1331298" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Tutorial 6 (Stereochemistry)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="stereochemistry tutorial"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

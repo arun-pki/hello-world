@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/ChemDraw_Excel Functions.htm" />
+    <Link
+      Url="Content/MyImport/A-Prop.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/ChemDraw_Excel Functions.htm#10-Excel_3629383264_1134345" />
+    <Link
+      Url="Content/MyImport/A-Prop.htm#A-Prop_1250800079_1082799" />
+    <Link
+      Url="Content/MyImport/A-Prop.htm#A-Prop_1250800079_1093643" />
+    <Link
+      Url="Content/MyImport/A-Prop.htm#A-Prop_1250800079_1081482" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="A-Prop_1250800079_1093643" />
+    <Anchor
+      Name="A-Prop_1250800079_83085" />
+    <Anchor
+      Name="A-Prop_1250800079_1082799" />
+    <Anchor
+      Name="A-Prop_1250800079_59104" />
+    <Anchor
+      Name="A-Prop_1250800079_1071787" />
+    <Anchor
+      Name="A-Prop_1250800079_1096996" />
+    <Anchor
+      Name="A-Prop_1250800079_1081482" />
+    <Anchor
+      Name="A-Prop_1250800079_66623" />
+    <Anchor
+      Name="A-Prop_1250800079_1085888" />
+    <Anchor
+      Name="A-Prop_1250800079_34632" />
+    <Anchor
+      Name="A-Prop_1250800079_1090449" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="generic structures, expanding"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="LogP"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="chemical properties:LogP"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="13" />
+    <IndexCacheEntry
+      Term="Henry’s Law"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="chemical properties:Henry’s Law"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="molar refractivity"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="chemical properties:molar refractivity"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="CLogP"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="42" />
+    <IndexCacheEntry
+      Term="chemical properties:CMR"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="42" />
+    <IndexCacheEntry
+      Term="chemical properties:CLogP"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="42" />
+    <IndexCacheEntry
+      Term="generic structures, expanding"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="44" />
+    <IndexCacheEntry
+      Term="topological polar surface area"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="89" />
+    <IndexCacheEntry
+      Term="topological polar surface area"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="90" />
+    <IndexCacheEntry
+      Term="chemical properties:TPSA"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="90" />
+    <IndexCacheEntry
+      Term="Joback’s Fragmentation method"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+    <IndexCacheEntry
+      Term="chemical properties:heat of formation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+    <IndexCacheEntry
+      Term="chemical properties:Gibbs free energy"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+    <IndexCacheEntry
+      Term="free energy:calculation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+    <IndexCacheEntry
+      Term="chemical properties:ideal gas thermal capacity"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+    <IndexCacheEntry
+      Term="chemical properties:thermal capacity"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+    <IndexCacheEntry
+      Term="freezing point, calculation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="95" />
+    <IndexCacheEntry
+      Term="chemical properties:freezing point"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="95" />
+    <IndexCacheEntry
+      Term="critical temperature:calculation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="95" />
+    <IndexCacheEntry
+      Term="chemical properties:critical temperature"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="95" />
+    <IndexCacheEntry
+      Term="critical pressure:calculation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="95" />
+    <IndexCacheEntry
+      Term="ChemProp:critical pressure"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="95" />
+    <IndexCacheEntry
+      Term="critical volume, calculation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="chemical properties:critical volume"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="boiling point:calculation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="105" />
+    <IndexCacheEntry
+      Term="chemical properties:boiling point"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="105" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Comment" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

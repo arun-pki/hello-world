@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/9_16.jpg" />
+    <Link
+      Url="Content/MyImport/9_4.jpg" />
+    <Link
+      Url="Content/MyImport/9_2.jpg" />
+    <Link
+      Url="Content/MyImport/9_3.jpg" />
+    <Link
+      Url="Content/MyImport/9_12.jpg" />
+    <Link
+      Url="Content/MyImport/9_10.jpg" />
+    <Link
+      Url="Content/MyImport/9_22.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/9_16.jpg" />
+    <Link
+      Url="Content/MyImport/9_4.jpg" />
+    <Link
+      Url="Content/MyImport/9_2.jpg" />
+    <Link
+      Url="Content/MyImport/9_3.jpg" />
+    <Link
+      Url="Content/MyImport/9_12.jpg" />
+    <Link
+      Url="Content/MyImport/9_10.jpg" />
+    <Link
+      Url="Content/MyImport/9_22.jpg" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1284595" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1140033" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_39235" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1348852" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_labels" />
+    <Anchor
+      Name="4-Adv_Draw_2238496342_1345885" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="contracting labels"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="labels:contracting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="10" />
+    <IndexCacheEntry
+      Term="multi-attached atom labels command"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="atom labels:multi-attached"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="55" />
+    <IndexCacheEntry
+      Term="bonds:adding to an atom label"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="66" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

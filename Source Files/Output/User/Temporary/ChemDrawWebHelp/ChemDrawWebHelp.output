@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/User/ChemDrawWebHelp/default.htm"
+  BuildVersion="11.0.0.32808"
+  AliasFile="/Output/User/ChemDrawWebHelp/Data/Alias.xml">
+  <Files />
+  <Skins>
+    <Url
+      Source="Output/User/ChemDrawWebHelp/Data/SkinMyHelp/Skin.xml" />
+  </Skins>
+</CatapultTargetOutput>

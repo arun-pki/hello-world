@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile conditions="">
+    <Map Name="Exporttables" Link="/Content/MyImport/Exporting Tables.htm" />
+    <Map Name="Importhitlist" Link="/Content/MyImport/Importing Hit Lists.htm" />
+    <Map Name="preferences" Link="/Content/MyImport/Preferences.htm" />
+    <Map Name="importtables" Link="/Content/MyImport/Importing Tables.htm" />
+    <Map Name="normalsearch" Link="/Content/MyImport/Searching.htm#10-Excel_3629383264_1123544" />
+    <Map Name="convertworksheet" Link="/Content/MyImport/10-Excel.htm#10-Excel_3629383264_1137669" />
+    <Map Name="similaritysearch" Link="/Content/MyImport/Searching.htm#10-Excel_3629383264_1102376" />
+    <Map Name="ChemDrawFunctions" Link="/Content/MyImport/ChemDraw_Excel Functions.htm" />
+    <Map Name="Rgroupanalysis" Link="/Content/MyImport/R-Group Analysis.htm" />
+    <Map Name="creatinganexperiment" Link="/Content/MyImport/CombiChem.htm#Creating" />
+    <Map Name="moleculeproperties" Link="/Content/MyImport/Properties and Analysis.htm" />
+    <Map Name="settingpreferences" Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159393" />
+    <Map Name="savingstructures" Link="/Content/MyImport/Adding Structures.htm" />
+    <Map Name="searching" Link="/Content/MyImport/Searching.htm" />
+    <Map Name="synchronizingtables" Link="/Content/MyImport/Synchronizing Tables.htm" />
+    <Map Name="workingwithstrucutres" Link="/Content/MyImport/Working with Structures.htm" />
+    <Map Name="combichem" Link="/Content/MyImport/CombiChem.htm" />
+    <Map Name="configuringplates" Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159341" />
+    <Map Name="addingstructures" Link="/Content/MyImport/Adding Structures.htm" />
+    <Map Name="displayingstructures" Link="/Content/MyImport/Working with Structures.htm#10-Excel_3629383264_1072082" />
+    <Map Name="renamingstructures" Link="/Content/MyImport/Working with Structures.htm#10-Excel_3629383264_1072022" />
+    <Map Name="gettingstarted" Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159204" />
+    <Map Name="whatsnew" Link="/Content/MyImport/WhatsnewinChemDraw.htm" />
+    <Map Name="Usinghelp" Link="/Content/MyImport/About This Manual.htm" />
+    <Map Name="Gettingstarted" Link="/Content/MyImport/1-Basics_10.htm" />
+    <Map Name="Shortcutsandhotkeys" Link="/Content/MyImport/ChemDraw_HotKeys.htm" />
+    <Map Name="Contents" Link="/Content/MyImport/0-Intro_10.htm" />
+    <Map Name="searchingreactants" Link="/Content/MyImport/CombiChem.htm#10-Excel_3629383264_1159261" />
+    <Map Name="browsingplates" Link="/Content/MyImport/CombiChem.htm#Browsing" />
+</CatapultAliasFile>

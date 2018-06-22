@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/8_44.jpg" />
+    <Link
+      Url="Content/MyImport/8_9.jpg" />
+    <Link
+      Url="Content/MyImport/8_20.jpg" />
+    <Link
+      Url="Content/MyImport/8_32.jpg" />
+    <Link
+      Url="Content/MyImport/8_21.jpg" />
+    <Link
+      Url="Content/MyImport/8_22.jpg" />
+    <Link
+      Url="Content/MyImport/8_12.jpg" />
+    <Link
+      Url="Content/MyImport/8_13.jpg" />
+    <Link
+      Url="Content/MyImport/8_14.jpg" />
+    <Link
+      Url="Content/MyImport/8_17.jpg" />
+    <Link
+      Url="Content/MyImport/8_23.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/8_44.jpg" />
+    <Link
+      Url="Content/MyImport/8_9.jpg" />
+    <Link
+      Url="Content/MyImport/8_20.jpg" />
+    <Link
+      Url="Content/MyImport/8_32.jpg" />
+    <Link
+      Url="Content/MyImport/8_21.jpg" />
+    <Link
+      Url="Content/MyImport/8_22.jpg" />
+    <Link
+      Url="Content/MyImport/8_12.jpg" />
+    <Link
+      Url="Content/MyImport/8_13.jpg" />
+    <Link
+      Url="Content/MyImport/8_14.jpg" />
+    <Link
+      Url="Content/MyImport/8_17.jpg" />
+    <Link
+      Url="Content/MyImport/8_23.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="2-Tutorials_1162660173_1331099" />
+    <Anchor
+      Name="2-Tutorials_1162660173_19888" />
+    <Anchor
+      Name="2-Tutorials_1162660173_93165" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Tutorial 4 (Perspective Drawings)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="perspective drawings tutorial"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="cyclohexane ring tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="tools:cyclohexane ring"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="24" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

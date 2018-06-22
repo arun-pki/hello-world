@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/property labels.png" />
+    <Link
+      Url="Content/MyImport/baseline style.png" />
+    <Link
+      Url="Content/MyImport/alignment.png" />
+    <Link
+      Url="Content/MyImport/15_6.jpg" />
+    <Link
+      Url="Content/MyImport/15_4.jpg" />
+    <Link
+      Url="Content/MyImport/automatic align1.png" />
+    <Link
+      Url="Content/MyImport/15_7.jpg" />
+    <Link
+      Url="Content/MyImport/Document and Object Sett.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/property labels.png" />
+    <Link
+      Url="Content/MyImport/baseline style.png" />
+    <Link
+      Url="Content/MyImport/alignment.png" />
+    <Link
+      Url="Content/MyImport/15_6.jpg" />
+    <Link
+      Url="Content/MyImport/15_4.jpg" />
+    <Link
+      Url="Content/MyImport/automatic align1.png" />
+    <Link
+      Url="Content/MyImport/15_7.jpg" />
+    <Link
+      Url="Content/MyImport/Document and Object Sett.htm#A-Customize_2096640490_1462889" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="A-Customize_2096640490_1463005" />
+    <Anchor
+      Name="A-Customize_2096640490_Analysis_and_Properties" />
+    <Anchor
+      Name="A-Customize_2096640490_1463018" />
+    <Anchor
+      Name="A-Customize_2096640490_1463027" />
+    <Anchor
+      Name="A-Customize_2096640490_1463038" />
+    <Anchor
+      Name="A-Customize_2096640490_1463050" />
+    <Anchor
+      Name="A-Customize_2096640490_1463053" />
+    <Anchor
+      Name="A-Customize_2096640490_1463063" />
+    <Anchor
+      Name="A-Customize_2096640490_25245" />
+    <Anchor
+      Name="A-Customize_2096640490_1463112" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="format:text"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="text:formatting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="31" />
+    <IndexCacheEntry
+      Term="style, caption"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="baseline style, captions"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="captions:superscript"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="captions:subscript"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="captions:formula"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="superscript command"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="subscript command"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="56" />
+    <IndexCacheEntry
+      Term="formula command:using"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="57" />
+    <IndexCacheEntry
+      Term="hyphens, font submenu"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="57" />
+    <IndexCacheEntry
+      Term="justification:captions"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+    <IndexCacheEntry
+      Term="captions:justification"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+    <IndexCacheEntry
+      Term="flush left justification"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+    <IndexCacheEntry
+      Term="flush right justification"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="94" />
+    <IndexCacheEntry
+      Term="justification:atom labels"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="108" />
+    <IndexCacheEntry
+      Term="atom labels:justification"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="108" />
+    <IndexCacheEntry
+      Term="format:atom labels"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="108" />
+    <IndexCacheEntry
+      Term="text:atom label format"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="108" />
+    <IndexCacheEntry
+      Term="text:atom labels, automatic justification"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="137" />
+    <IndexCacheEntry
+      Term="atom labels:automatic justification"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="137" />
+    <IndexCacheEntry
+      Term="automatic:justification, atom labels"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="137" />
+    <IndexCacheEntry
+      Term="generic structures, expanding"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="152" />
+    <IndexCacheEntry
+      Term="text settings:captions, font, size, and style"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="182" />
+    <IndexCacheEntry
+      Term="font:new captions"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="182" />
+    <IndexCacheEntry
+      Term="captions:setting font, size and styles"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="182" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.Help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/biopolymer editor.png" />
+    <Link
+      Url="Content/MyImport/drawing polymers.htm" />
+    <Link
+      Url="Content/MyImport/toggle amino single.png" />
+    <Link
+      Url="Content/MyImport/toggle amino single1.png" />
+    <Link
+      Url="Content/MyImport/protectedopening.png" />
+    <Link
+      Url="Content/MyImport/protected2.png" />
+    <Link
+      Url="Content/MyImport/protected 2.1.png" />
+    <Link
+      Url="Content/MyImport/protected dialog.png" />
+    <Link
+      Url="Content/MyImport/paste special biopolymer.png" />
+    <Link
+      Url="Content/MyImport/Fasta1.png" />
+    <Link
+      Url="Content/MyImport/Fasta2.png" />
+    <Link
+      Url="Content/MyImport/paste text2.png" />
+    <Link
+      Url="Content/MyImport/SerineResidues.png" />
+    <Link
+      Url="Content/MyImport/SerineResidues-collapsed.png" />
+    <Link
+      Url="Content/MyImport/beta-Alanine.png" />
+    <Link
+      Url="Content/MyImport/beta-Alanine-selection.png" />
+    <Link
+      Url="Content/MyImport/Mergesidechains.png" />
+    <Link
+      Url="Content/MyImport/mergesidechains2.png" />
+    <Link
+      Url="Content/MyImport/repacing residues1.png" />
+    <Link
+      Url="Content/MyImport/replacing residues 1.png" />
+    <Link
+      Url="Content/MyImport/replacing residues.png" />
+    <Link
+      Url="Content/MyImport/replacing residues1.2.png" />
+    <Link
+      Url="Content/MyImport/replacingresidues2.png" />
+    <Link
+      Url="Content/MyImport/7_18.jpg" />
+    <Link
+      Url="Content/MyImport/hybrid.png" />
+    <Link
+      Url="Content/MyImport/7_20.jpg" />
+    <Link
+      Url="Content/MyImport/7_21.jpg" />
+    <Link
+      Url="Content/MyImport/cyclic peptides.png" />
+    <Link
+      Url="Content/MyImport/branched peptide1.png" />
+    <Link
+      Url="Content/MyImport/branched peptide2.png" />
+    <Link
+      Url="Content/MyImport/branched pep1.1.png" />
+    <Link
+      Url="Content/MyImport/branched pep1.2.png" />
+    <Link
+      Url="Content/MyImport/branched pep1.3.png" />
+    <Link
+      Url="Content/MyImport/modify nickname.png" />
+    <Link
+      Url="Content/MyImport/branched pep1.4.png" />
+    <Link
+      Url="Content/MyImport/chainA.png" />
+    <Link
+      Url="Content/MyImport/chainb.png" />
+    <Link
+      Url="Content/MyImport/lactam1.png" />
+    <Link
+      Url="Content/MyImport/lactam bridge.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/biopolymer editor.png" />
+    <Link
+      Url="Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998650" />
+    <Link
+      Url="Content/MyImport/drawing polymers.htm#drawing_polymers_1910821780_998848" />
+    <Link
+      Url="Content/MyImport/drawing polymers.htm#Replacing" />
+    <Link
+      Url="Content/MyImport/toggle amino single.png" />
+    <Link
+      Url="Content/MyImport/toggle amino single1.png" />
+    <Link
+      Url="Content/MyImport/protectedopening.png" />
+    <Link
+      Url="Content/MyImport/protected2.png" />
+    <Link
+      Url="Content/MyImport/protected 2.1.png" />
+    <Link
+      Url="Content/MyImport/protected dialog.png" />
+    <Link
+      Url="Content/MyImport/paste special biopolymer.png" />
+    <Link
+      Url="Content/MyImport/Fasta1.png" />
+    <Link
+      Url="Content/MyImport/Fasta2.png" />
+    <Link
+      Url="Content/MyImport/paste text2.png" />
+    <Link
+      Url="Content/MyImport/SerineResidues.png" />
+    <Link
+      Url="Content/MyImport/SerineResidues-collapsed.png" />
+    <Link
+      Url="Content/MyImport/beta-Alanine.png" />
+    <Link
+      Url="Content/MyImport/beta-Alanine-selection.png" />
+    <Link
+      Url="Content/MyImport/Mergesidechains.png" />
+    <Link
+      Url="Content/MyImport/mergesidechains2.png" />
+    <Link
+      Url="Content/MyImport/repacing residues1.png" />
+    <Link
+      Url="Content/MyImport/replacing residues 1.png" />
+    <Link
+      Url="Content/MyImport/replacing residues.png" />
+    <Link
+      Url="Content/MyImport/replacing residues1.2.png" />
+    <Link
+      Url="Content/MyImport/replacingresidues2.png" />
+    <Link
+      Url="Content/MyImport/7_18.jpg" />
+    <Link
+      Url="Content/MyImport/hybrid.png" />
+    <Link
+      Url="Content/MyImport/7_20.jpg" />
+    <Link
+      Url="Content/MyImport/7_21.jpg" />
+    <Link
+      Url="Content/MyImport/cyclic peptides.png" />
+    <Link
+      Url="Content/MyImport/branched peptide1.png" />
+    <Link
+      Url="Content/MyImport/branched peptide2.png" />
+    <Link
+      Url="Content/MyImport/branched pep1.1.png" />
+    <Link
+      Url="Content/MyImport/branched pep1.2.png" />
+    <Link
+      Url="Content/MyImport/branched pep1.3.png" />
+    <Link
+      Url="Content/MyImport/modify nickname.png" />
+    <Link
+      Url="Content/MyImport/branched pep1.4.png" />
+    <Link
+      Url="Content/MyImport/chainA.png" />
+    <Link
+      Url="Content/MyImport/chainb.png" />
+    <Link
+      Url="Content/MyImport/lactam1.png" />
+    <Link
+      Url="Content/MyImport/lactam bridge.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="drawing_polymers_1910821780_1001506" />
+    <Anchor
+      Name="drawing_polymers_1910821780_35169" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998650" />
+    <Anchor
+      Name="Toggle_Amino_Acids&#xA;" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998659" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998677" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998695" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998700" />
+    <Anchor
+      Name="Clean" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998706" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998727" />
+    <Anchor
+      Name="drawing_polymers_1910821780_30449" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998741" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998756" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998803" />
+    <Anchor
+      Name="Replacing" />
+    <Anchor
+      Name="drawing_polymers_1910821780_86565" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998827" />
+    <Anchor
+      Name="drawing_polymers_1910821780_66096" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998834" />
+    <Anchor
+      Name="drawing_polymers_1910821780_37795" />
+    <Anchor
+      Name="drawing_polymers_1910821780_998848" />
+    <Anchor
+      Name="drawing_polymers_1910821780_17313" />
+    <Anchor
+      Name="drawing_polymers_1910821780_999177" />
+    <Anchor
+      Name="drawing_polymers_1910821780_27888" />
+    <Anchor
+      Name="drawing_polymers_1910821780_999205" />
+    <Anchor
+      Name="drawing_polymers_1910821780_43819" />
+    <Anchor
+      Name="drawing_polymers_1910821780_1002795" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="L amino-acids"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="33" />
+    <IndexCacheEntry
+      Term="amino acids:L-amino acids"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="33" />
+    <IndexCacheEntry
+      Term="D-amino acids"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="35" />
+    <IndexCacheEntry
+      Term="replace a sequence atom"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="54" />
+    <IndexCacheEntry
+      Term="Biopolymer Editor"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="57" />
+    <IndexCacheEntry
+      Term="beta amino acids"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="63" />
+    <IndexCacheEntry
+      Term="amino acids:beta amino acids"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="63" />
+    <IndexCacheEntry
+      Term="D-amino acids"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="70" />
+    <IndexCacheEntry
+      Term="amino acids:D-amino acids"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="70" />
+    <IndexCacheEntry
+      Term="protecting groups"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="amino acids:protecting groups"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="96" />
+    <IndexCacheEntry
+      Term="pasting sequences"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="117" />
+    <IndexCacheEntry
+      Term="sequences:pasting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="117" />
+    <IndexCacheEntry
+      Term="sequences:pasting as text strings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="120" />
+    <IndexCacheEntry
+      Term="sequences:pasting as text strings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="138" />
+    <IndexCacheEntry
+      Term="clean up biopolymer"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="166" />
+    <IndexCacheEntry
+      Term="merging sidechains"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="233" />
+    <IndexCacheEntry
+      Term="residues:removing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="247" />
+    <IndexCacheEntry
+      Term="removing residues"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="247" />
+    <IndexCacheEntry
+      Term="replacing residues"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="254" />
+    <IndexCacheEntry
+      Term="residues:replacing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="254" />
+    <IndexCacheEntry
+      Term="residues:adding"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="282" />
+    <IndexCacheEntry
+      Term="adding residues"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="282" />
+    <IndexCacheEntry
+      Term="residues:numbering"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="290" />
+    <IndexCacheEntry
+      Term="numbering residues"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="290" />
+    <IndexCacheEntry
+      Term="amino acids:changing termini"
+      Conditions="MyImport.Comment,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="298" />
+    <IndexCacheEntry
+      Term="custom termini"
+      Conditions="MyImport.Comment,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="300" />
+    <IndexCacheEntry
+      Term="amino acids:display termini"
+      Conditions="MyImport.Comment,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="316" />
+    <IndexCacheEntry
+      Term="nonlinear sequences"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="328" />
+    <IndexCacheEntry
+      Term="sequences:nonlinear"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="328" />
+    <IndexCacheEntry
+      Term="drawing:nonlinear sequences"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="328" />
+    <IndexCacheEntry
+      Term="bonding from sequences"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="347" />
+    <IndexCacheEntry
+      Term="nicknames:defining peptides"
+      Conditions="MyImport.Comment,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="710" />
+    <IndexCacheEntry
+      Term="peptides, defining with nicknames"
+      Conditions="MyImport.Comment,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="710" />
+    <IndexCacheEntry
+      Term="peptides:cyclic"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="724" />
+    <IndexCacheEntry
+      Term="peptides:crosslinked"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="724" />
+    <IndexCacheEntry
+      Term="peptides:branched"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="724" />
+    <IndexCacheEntry
+      Term="branching peptides"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="724" />
+    <IndexCacheEntry
+      Term="cyclic peptides"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="724" />
+    <IndexCacheEntry
+      Term="crosslinked peptides"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="724" />
+    <IndexCacheEntry
+      Term="branched peptides"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="730" />
+    <IndexCacheEntry
+      Term="disulfide bridges"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="758" />
+    <IndexCacheEntry
+      Term="bridges:disulfide"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="758" />
+    <IndexCacheEntry
+      Term="lactam bridges"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="784" />
+    <IndexCacheEntry
+      Term="bridges:lactam"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="784" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Comment" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

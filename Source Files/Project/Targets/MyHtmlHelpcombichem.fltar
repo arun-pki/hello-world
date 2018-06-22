@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="CombiChem/Excel 13.0 help"
+  Type="HtmlHelp"
+  Destinations=""
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  Skin="/Project/Skins/MyHelp.flskn"
+  ConditionTagExpression="exclude[MyConditions.Book or MyConditions.Book_only or MyConditions.Comment or MyConditions.FM8_SYSTEM_HIDEELEMENT or MyConditions.FM8_TRACK_CHANGES_ADDED or MyConditions.FM8_TRACK_CHANGES_DELETED or MyConditions.ZZ_Draft or MyImport.Book or MyImport.Book_only or &quot;MyImport.ChemDraw help&quot; or MyImport.ChemDraw_Excel or MyImport.Comment or MyImport.Deleted or MyImport.Figure or MyImport.For_Index or MyImport.For_PDF or MyImport.Help or MyImport.Index or MyImport.Mac or MyImport.SKU_only or MyImport.ZZ_Draft] "
+  MasterStylesheet="/Content/Resources/Stylesheets/Cambridgesoft1.css"
+  MasterPage="/Content/Resources/MasterPages/MyMaster.flmsp"
+  OutputFile="CombiChemforExcel"
+  MasterToc="/Project/TOCs/TOC for CombiChem.fltoc"
+  DefaultUrl="/Content/MyImport/CombiChem.htm"
+  AliasFile="/Project/Advanced/MyAliasFile.flali">
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/ChemBioViz.fldes" />
+  </Destinations>
+  <Glossaries />
+</CatapultTarget>

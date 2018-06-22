@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_18.jpg" />
+    <Link
+      Url="Content/MyImport/Customizing Hotkeys.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_18.jpg" />
+    <Link
+      Url="Content/MyImport/Customizing Hotkeys.htm#A-Customize_2096640490_1463184" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="5-Query_617691554_1285951" />
+    <Anchor
+      Name="5-Query_617691554_24885" />
+    <Anchor
+      Name="5-Query_617691554_Nicknames" />
+    <Anchor
+      Name="5-Query_617691554_1286331" />
+    <Anchor
+      Name="5-Query_617691554_1285969" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="generic nicknames"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="35" />
+    <IndexCacheEntry
+      Term="editing:generic nickname file"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="35" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="ChemDraw_HotKeys_3667536632_1109088" />
+    <Anchor
+      Name="ChemDraw_HotKeys_3667536632_1109089" />
+    <Anchor
+      Name="ChemDraw_HotKeys_3667536632_1109128" />
+    <Anchor
+      Name="ChemDraw_HotKeys_3667536632_1109167" />
+    <Anchor
+      Name="ChemDraw_HotKeys_3667536632_1109198" />
+    <Anchor
+      Name="ChemDraw_HotKeys_3667536632_1109261" />
+    <Anchor
+      Name="ChemDraw_HotKeys_3667536632_1109280" />
+    <Anchor
+      Name="ChemDraw_HotKeys_3667536632_1109339" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="shortcuts"
+      Conditions=""
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="view:shortcut keys"
+      Conditions=""
+      LocalConditions=""
+      Position="210" />
+    <IndexCacheEntry
+      Term="structure:shortcut keys"
+      Conditions=""
+      LocalConditions=""
+      Position="417" />
+    <IndexCacheEntry
+      Term="shortcut keys:structure"
+      Conditions=""
+      LocalConditions=""
+      Position="417" />
+    <IndexCacheEntry
+      Term="text:shortcut keys"
+      Conditions=""
+      LocalConditions=""
+      Position="454" />
+    <IndexCacheEntry
+      Term="shortcut keys:text"
+      Conditions=""
+      LocalConditions=""
+      Position="454" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.ONLY for WebHELP (MAC) output" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Copy of _2col_table.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

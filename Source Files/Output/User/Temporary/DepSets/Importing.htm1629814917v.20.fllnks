@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Attach Data.png" />
+    <Link
+      Url="Content/MyImport/Attach_mac.png" />
+    <Link
+      Url="Content/MyImport/attach Data1.png" />
+    <Link
+      Url="Content/MyImport/Importing.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Project/ConditionTagSets/MyConditions.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Attach Data.png" />
+    <Link
+      Url="Content/MyImport/Attach_mac.png" />
+    <Link
+      Url="Content/MyImport/attach Data1.png" />
+    <Link
+      Url="Content/MyImport/Importing.htm#9-Sharing_Info_2779241888_1123660" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Project/ConditionTagSets/MyConditions.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="9-Sharing_Info_2779241888_1123660" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_Inserting_Objects" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_1123733" />
+    <Anchor
+      Name="Attached" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_1151369" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_1072038" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_36478" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="ISIS:V3000 support"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="41" />
+    <IndexCacheEntry
+      Term="V3000, support for"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="41" />
+    <IndexCacheEntry
+      Term="file formats:MDL MolFile V3000"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="41" />
+    <IndexCacheEntry
+      Term="attached data"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="data Sgroup, support for"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="45" />
+    <IndexCacheEntry
+      Term="file formats, table"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="90" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.ONLY for WebHELP (MAC) output" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyConditions.Comment" />
+    <Condition
+      Tag="MyImport.PC" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/Copy of _2col_table.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/drawing settings.png" />
+    <Link
+      Url="Content/MyImport/3-Drawing_10.htm" />
+    <Link
+      Url="Content/MyImport/Attachment Points.htm" />
+    <Link
+      Url="Content/MyImport/15_1.jpg" />
+    <Link
+      Url="Content/MyImport/15_2.jpg" />
+    <Link
+      Url="Content/MyImport/Chains.htm" />
+    <Link
+      Url="Content/MyImport/Atom Numbering.htm" />
+    <Link
+      Url="Content/MyImport/atom labels.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/drawing settings.png" />
+    <Link
+      Url="Content/MyImport/3-Drawing_10.htm#3-Drawing_10_1269804279_1393757" />
+    <Link
+      Url="Content/MyImport/Attachment Points.htm#4-Adv_Draw_2238496342_1083540" />
+    <Link
+      Url="Content/MyImport/15_1.jpg" />
+    <Link
+      Url="Content/MyImport/3-Drawing_10.htm#3-Drawing_10_1269804279_1156706" />
+    <Link
+      Url="Content/MyImport/15_2.jpg" />
+    <Link
+      Url="Content/MyImport/Chains.htm#3-Drawing_10_1269804279_1161967" />
+    <Link
+      Url="Content/MyImport/Atom Numbering.htm#4-Adv_Draw_2238496342_1085617" />
+    <Link
+      Url="Content/MyImport/atom labels.png" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="A-Customize_2096640490_1462860" />
+    <Anchor
+      Name="Drawing" />
+    <Anchor
+      Name="A-Customize_2096640490_1462918" />
+    <Anchor
+      Name="A-Customize_2096640490_63492" />
+    <Anchor
+      Name="A-Customize_2096640490_terminal" />
+    <Anchor
+      Name="A-Customize_2096640490_75022" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="document settings:overview"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="settings:document"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="style sheet:document settings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="QuickDraw:print quality"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="6" />
+    <IndexCacheEntry
+      Term="fixed lengths:description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="43" />
+    <IndexCacheEntry
+      Term="bond spacing, description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="50" />
+    <IndexCacheEntry
+      Term="bold width"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="59" />
+    <IndexCacheEntry
+      Term="line width"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="63" />
+    <IndexCacheEntry
+      Term="drawing settings:margin width, effect on bond crossing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="margin width:effect on bond crossings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="bond crossings:white space"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="bonds:margin width"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="margin width:adjusting"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="67" />
+    <IndexCacheEntry
+      Term="margin width:description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="68" />
+    <IndexCacheEntry
+      Term="hash spacing, description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="73" />
+    <IndexCacheEntry
+      Term="chain angle, description"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="79" />
+    <IndexCacheEntry
+      Term="labels:automatic terminal carbons"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="101" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.PC" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_20.jpg" />
+    <Link
+      Url="Content/MyImport/Link Nodes.htm" />
+    <Link
+      Url="Content/MyImport/13_21.jpg" />
+    <Link
+      Url="Content/MyImport/13_23.jpg" />
+    <Link
+      Url="Content/MyImport/13_15.jpg" />
+    <Link
+      Url="Content/MyImport/brackets.png" />
+    <Link
+      Url="Content/MyImport/13_27.jpg" />
+    <Link
+      Url="Content/MyImport/13_29.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/13_20.jpg" />
+    <Link
+      Url="Content/MyImport/Link Nodes.htm#5-Query_617691554_1215808" />
+    <Link
+      Url="Content/MyImport/13_21.jpg" />
+    <Link
+      Url="Content/MyImport/13_23.jpg" />
+    <Link
+      Url="Content/MyImport/13_15.jpg" />
+    <Link
+      Url="Content/MyImport/brackets.png" />
+    <Link
+      Url="Content/MyImport/13_27.jpg" />
+    <Link
+      Url="Content/MyImport/13_29.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="5-Query_617691554_1242637" />
+    <Anchor
+      Name="5-Query_617691554_36889" />
+    <Anchor
+      Name="5-Query_617691554_1290197" />
+    <Anchor
+      Name="5-Query_617691554_64065" />
+    <Anchor
+      Name="5-Query_617691554_1078396" />
+    <Anchor
+      Name="5-Query_617691554_63051" />
+    <Anchor
+      Name="5-Query_617691554_50763" />
+    <Anchor
+      Name="5-Query_617691554_97852" />
+    <Anchor
+      Name="5-Query_617691554_1078450" />
+    <Anchor
+      Name="5-Query_617691554_87749" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="use defaults:bracket properties"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="23" />
+    <IndexCacheEntry
+      Term="brackets:usage"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="polymers:source-based"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="polymers:structure-based"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="38" />
+    <IndexCacheEntry
+      Term="polymers:repeat pattern"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="79" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

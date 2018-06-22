@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Setting Preferences.htm" />
+    <Link
+      Url="Content/MyImport/Customizing Toolbars.htm" />
+    <Link
+      Url="Content/MyImport/Document and Object Sett.htm" />
+    <Link
+      Url="Content/MyImport/Customizing Hotkeys.htm" />
+    <Link
+      Url="Content/MyImport/Working with Color.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Setting Preferences.htm" />
+    <Link
+      Url="Content/MyImport/Customizing Toolbars.htm" />
+    <Link
+      Url="Content/MyImport/Document and Object Sett.htm" />
+    <Link
+      Url="Content/MyImport/Customizing Hotkeys.htm" />
+    <Link
+      Url="Content/MyImport/Working with Color.htm" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="A-Customize_2096640490_1577008" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="customizing:Chem &amp; Bio Draw"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="Chem &amp; Bio Draw:customizing"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

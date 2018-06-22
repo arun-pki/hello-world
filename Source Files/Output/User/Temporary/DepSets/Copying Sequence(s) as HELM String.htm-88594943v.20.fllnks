@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/copy as1.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Images/copy as menu1.png" />
+    <Link
+      Url="Content/Resources/Images/copy as menu_mac.png" />
+    <Link
+      Url="Content/Resources/Images/copy as2.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/copy as1.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+    <Link
+      Url="Content/Resources/Images/copy as menu1.png" />
+    <Link
+      Url="Content/Resources/Images/copy as menu_mac.png" />
+    <Link
+      Url="Content/Resources/Images/copy as2.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.For_PDF" />
+    <Condition
+      Tag="MyImport.Mac" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

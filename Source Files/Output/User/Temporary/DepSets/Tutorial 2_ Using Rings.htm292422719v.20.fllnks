@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/8_3.jpg" />
+    <Link
+      Url="Content/MyImport/8_42.jpg" />
+    <Link
+      Url="Content/MyImport/8_4.jpg" />
+    <Link
+      Url="Content/MyImport/8_5.jpg" />
+    <Link
+      Url="Content/MyImport/8_6.jpg" />
+    <Link
+      Url="Content/MyImport/8_7.jpg" />
+    <Link
+      Url="Content/MyImport/8_8.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/8_3.jpg" />
+    <Link
+      Url="Content/MyImport/8_42.jpg" />
+    <Link
+      Url="Content/MyImport/8_4.jpg" />
+    <Link
+      Url="Content/MyImport/8_5.jpg" />
+    <Link
+      Url="Content/MyImport/8_6.jpg" />
+    <Link
+      Url="Content/MyImport/8_7.jpg" />
+    <Link
+      Url="Content/MyImport/8_8.jpg" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="2-Tutorials_1162660173_1330970" />
+    <Anchor
+      Name="2-Tutorials_1162660173_85954" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="Tutorial 2 (Using Rings)"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="rings tutorial"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="7" />
+    <IndexCacheEntry
+      Term="resonance structures"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="cyclohexane ring tool"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="tools:cyclohexane ring"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="17" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

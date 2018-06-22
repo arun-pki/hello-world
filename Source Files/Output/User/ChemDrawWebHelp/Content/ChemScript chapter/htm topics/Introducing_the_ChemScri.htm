@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:tocPath="" MadCap:InPreviewMode="false" MadCap:PreloadImages="false" MadCap:RuntimeFileType="Topic" MadCap:TargetType="WebHelp" lang="en-us" xml:lang="en-us" MadCap:PathToHelpSystem="../../../" MadCap:HelpSystemFileName="default.xml" MadCap:SearchType="Stem">
+    <!-- saved from url=(0016)http://localhost -->
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Introducing the ChemScript API</title>
+        <link href="../../SkinSupport/Slideshow.css" rel="stylesheet" />
+        <link href="../../SkinSupport/MadCap.css" rel="stylesheet" />
+        <link href="../../Resources/Stylesheets/Cambridgesoft1.css" rel="stylesheet" />
+        <script src="../../SkinSupport/jquery.min.js">
+        </script>
+        <script src="../../SkinSupport/MadCapAll.js">
+        </script>
+        <script src="../../SkinSupport/MadCapTopicAll.js">
+        </script>
+    </head>
+    <body>
+        <h3 class="Heading3"><a name="kanchor515"></a>Introducing the <a name="kanchor516"></a>ChemScript API</h3>
+        <div class="Body">ChemScript  includes a ChemScript API reference guide. You can find the guide at <span class="Action_Object">Start</span>&gt;<span class="Action_Object">All Programs</span>&gt;<span class="Action_Object">ChemOffice 2018</span>&gt;<span class="Action_Object">ChemScript 18.0</span>&gt;<span class="Action_Object">API Reference. </span>It provides links and information for the <a name="kanchor517"></a>ChemScript classes.</div>
+        <div class="Body">The ChemScript object model comprises two fundamental levels of functionality, described below. </div>
+        <h4 class="Heading4"><a name="kanchor518"></a>ChemScript Classes</h4>
+        <div class="Body">At the top level, the API consists of four classes:</div>
+        <h5 class="HeadingRunIn"><a name="kanchor519"></a><a name="kanchor520"></a>Atom</h5>
+        <div class="Body">Chemical element, charge, bonds to neighboring atoms, drawing coordinates, 3D coordinates (if available), stereochemistry, etc.</div>
+        <h5 class="HeadingRunIn"><a name="kanchor521"></a><a name="kanchor522"></a>Bond</h5>
+        <div class="Body">Bonded atoms, bond order, etc.</div>
+        <h5 class="HeadingRunIn"><a name="kanchor523"></a><a name="kanchor524"></a>Molecule (Mol)</h5>
+        <div class="Body">A chemical connection table, which can represent one or more molecular fragments. This class also includes file I/O capabilities and other advanced chemistry functionality such as stereochemistry.</div>
+        <h5 class="HeadingRunIn"><a name="kanchor525"></a><a name="kanchor526"></a>Reaction (Rxn)</h5>
+        <div class="Body">A chemical reaction with one or more steps.</div>
+        <h4 class="Heading4"><a name="kanchor527"></a><a name="kanchor528"></a>Functions and Algorithms</h4>
+        <div class="Body">The secondary level consists of the core set of high-level features that you can modify to meet your specific business needs. Some examples are described below.</div>
+        <h5 class="HeadingRunIn"><a name="kanchor529"></a>Template Based Normalization</h5>
+        <div class="Body">Enforce standard representations of functional group structures in chemical data. </div>
+        <h5 class="HeadingRunIn"><a name="kanchor530"></a>Template Based Product Generation</h5>
+        <div class="Body">Automatic generation of products from a set of reactants and a generically defined reaction. For example, reactions like those between amines and carboxylates. </div>
+        <h5 class="HeadingRunIn"><a name="kanchor531"></a>Substructure Identification and Mapping</h5>
+        <div class="Body">Atom-by-atom comparison of a molecule with a substructure. Positive matching provides an atom-by-atom map of the substructure atoms to those in the molecule. </div>
+        <h5 class="HeadingRunIn"><a name="kanchor532"></a><a name="kanchor533"></a>Salt Stripping</h5>
+        <div class="Body">Remove salts from a reaction based on a pre-defined list of salt fragments.</div>
+        <h5 class="HeadingRunIn"><a name="kanchor534"></a><a name="kanchor535"></a>Structure Orientation</h5>
+        <div class="Body">Enforce standard orientation of structures based on the established orientation of a common scaffold. </div>
+        <h5 class="HeadingRunIn"><a name="kanchor536"></a><a name="kanchor537"></a>2D Structure Generation and Cleanup</h5>
+        <div class="Body">Use ChemDraw-based algorithms to generate structure from scratch or after modifying chemical data using a program.</div>
+        <h5 class="HeadingRunIn"><a name="kanchor538"></a><a name="kanchor539"></a>Canonical Codes</h5>
+        <div class="Body">Generate unique identifying codes from a chemical structure. </div>
+        <h5 class="HeadingRunIn"><a name="kanchor540"></a><a name="kanchor541"></a>File Format Conversion</h5>
+        <div class="Body">Read and write file data using all PerkinElmer supported file formats (CDX, CDXML, MOL, CHM, SKC, SMILES, etc.).</div>
+        <h5 class="HeadingRunIn"><a name="kanchor542"></a><a name="kanchor543"></a>Chemical Name and Structure Conversion<span class="MCTextPopup"><span class="MCTextPopupBody_0" style="display: none; ">Premium functionality that may be licensed from PerkinElmer.</span><a href="javascript:void(0);" class="MCTextPopupSpot_0" onclick="FMCTextPopup( event, this ); return false;" style="font-size: 0.9em; vertical-align: super">1</a></span></h5>
+        <div class="Body">Use the ChemStruct=Name feature to generate structures from chemical names and names from their structures.</div>
+        <h5 class="HeadingRunIn"><a name="kanchor544"></a><a name="kanchor545"></a>Molecular Mechanics</h5>
+        <div class="Body">Optimize molecular structures using the MM2 force-field. </div>
+        <h4 class="Heading4"><a name="kanchor546"></a>The <a name="kanchor547"></a>ChemScript API online</h4>
+        <div class="Body">PerkinElmer also provides the documentation of the API online. You can find the API at sdk.cambridgesoft.com.</div>
+        <img src="../../Resources/Images/miniTOCborder.png" />
+        <script type="text/javascript" src="../../SkinSupport/MadCapBodyEnd.js">
+        </script>
+    </body>
+</html>

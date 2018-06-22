@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="D:\ChemDraw-Desktop\Documentation\Windows\ChemDraw\Source Files\Content\Resources\Images\copy-move.png" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="D:\ChemDraw-Desktop\Documentation\Windows\ChemDraw\Source Files\Content\Helm Monomer Library Synchronization.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="D:\ChemDraw-Desktop\Documentation\Windows\ChemDraw\Source Files\Content\ChemCloud topics\What is PerkinElmer Signals Notebook Individual Edition.htm" />
+    </Dialog>
+</RecentLinks>

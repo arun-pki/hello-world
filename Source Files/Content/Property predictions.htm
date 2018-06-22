@@ -1,0 +1,1328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="25877" MadCap:lastWidth="1132" MadCap:conditions="MyConditions.Book">
+    <head>
+    </head>
+    <body>
+        <h2 class="Heading2"><a name="6a-Chem_969106972_1142819"></a><a name="6a-Chem_969106972_48973"></a>Chemical Properties <MadCap:keyword term="chemical properties: using;chemical properties: chemical properties;calculating: chemical properties" /></h2>
+        <div class="Body">You can enter predicted values for the physical and thermodynamic properties of a chemical structure of up to 100 atoms.</div>
+        <div class="Body">The properties are calculated using the most reliable methods for the given structure. Log&#160;P, and CMR values based on literature values rather than a calculation are included in the report file. The report is produced as a text file and the information in it can be cut and pasted to other documents like a word document.</div>
+        <div class="Body">The reported properties are:</div>
+        <h5 class="HeadingRunIn">Boiling Point<MadCap:keyword term="boiling point:definition" /></h5>
+        <div class="Body">Reported in Kelvin at 1 atm. </div>
+        <h5 class="HeadingRunIn">Melting Point<MadCap:keyword term="melting point, definition" /></h5>
+        <div class="Body">Reported in Kelvin at 1 atm. </div>
+        <h5 class="HeadingRunIn">Critical Temperature<MadCap:keyword term="critical temperature:definition" /></h5>
+        <div class="Body">The temperature above which the gas form of the structure cannot be liquefied, no matter the applied pressure (T<span class="_Override" style="font-size: 80%;vertical-align: sub;">c</span>). Reported in Kelvin.</div>
+        <h5 class="HeadingRunIn">Critical Pressure<MadCap:keyword term="critical pressure:definition" /></h5>
+        <div class="Body">The minimum pressure that must be applied to liquefy the structure at the critical temperature (P<span class="_Override" style="font-size: 80%;vertical-align: sub;">c</span>). Reported in bars.</div>
+        <h5 class="HeadingRunIn">Critical Volume<MadCap:keyword term="critical volume, definition" /></h5>
+        <div class="Body">The volume occupied at the compound’s critical temperature and pressure (V<span class="_Override" style="font-size: 80%;vertical-align: sub;">c</span>). Reported in cm<span class="_Override" style="font-size: 80%;vertical-align: super;">3</span>/mol.</div>
+        <h5 class="HeadingRunIn">Gibbs Energy<MadCap:keyword term="Gibbs free energy, definition;free energy:definition" /></h5>
+        <div class="Body">The Gibbs free energy, <span class="_Override" style="font-family: Symbol;">D</span>G, for the structure. Reported in kJ/mol at 1 atm and 298.15K.</div>
+        <h5 class="HeadingRunIn">LogP</h5>
+        <div class="Body">The Partition Coefficient [n-Octanol/Water] is estimated by Crippen's fragmentation, Viswanadhan's fragmentation, and Broto's fragmentation methods. Additional empirical LogP data appears for selected substances in the report file.</div>
+        <h5 class="HeadingRunIn">MR</h5>
+        <div class="Body">The Molar Refractivity is estimated by Crippen's fragmentation, and Viswanadhan's fragmentation method. Additional empirical LogP data appears for selected substances in the report file.</div>
+        <h5 class="HeadingRunIn">Henry’s Law<MadCap:keyword term="Henry’s law, definition" /></h5>
+        <div class="Body">The inverse of the logarithm of Henry’s law constant [-log (H)] (no units).</div>
+        <h5 class="HeadingRunIn">Heat of Formation<MadCap:keyword term="heat of formation, definition" /></h5>
+        <div class="Body">  <span class="_Override" style="font-family: Symbol;">D</span>H<span class="_Override" style="font-style: italic;line-height: 10pt;font-size: 6.4pt;vertical-align: sub;">f</span>, for the structure. Reported in kJ/mol at 1 atm and 298.15K.</div>
+        <h5 class="HeadingRunIn">tPSA</h5>
+        <div class="Body">Calculation of polar surface area based on fragment contributions.</div>
+        <h5 class="HeadingRunIn">CLogP</h5>
+        <h5 class="HeadingRunIn">/CMR</h5>
+        <div class="Body">Use CLogP to calculate <i class="Emphasis">n</i>&#8209;octanol/water partition coefficient (log P<sub class="Subscript" style="font-size: 80%;vertical-align: sub;">ow</sub>).<MadCap:keyword term="CLogP" /> LogP values based on literature rather than calculations are included in the report file.</div>
+        <div class="Body">Use CMR to calculate Molar Refractivity. MR values based on literature rather than calculations are included in the report file.<MadCap:keyword term="CMR" /></div>
+        <div class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">CLogP and CMR values appear only in ChemDraw Professional.</div>
+        <h5 class="HeadingRunIn">pKa</h5>
+        <div class="Body">pKa is the negative log of the acid dissociation constant K<sub class="subscript">a</sub>. It describes the tendency of compounds or ions to dissociate in solution. It is calculated using the formula:</div>
+        <p>
+            <img src="MyImport/pka.png" style="width: 135px;height: 24px;" />
+        </p>
+        <div class="Body">Empirical pKa data appears for selected substances in the report file.</div>
+        <h5>LogS</h5>
+        <div>
+            <DIV class="Body">LogS determines the solubility of a substance, measured in mol/liter. </DIV>
+            <div>
+                <DIV class="Body">The aqueous solubility of a compound is known to significantly affect absorption and distribution characteristics of that compound. </DIV>
+            </div>
+        </div>
+        <div class="Body">&#160;</div>
+        <div class="Body">For more information on various properties, <MadCap:xref class="Heading_And_Page" href="MyImport/ChemDraw_Excel Functions.htm#10-Excel_3629383264_1134345">See "ChemDraw/Excel Functions"</MadCap:xref>, <MadCap:xref class="Heading_And_Page" href="MyImport/A-Prop.htm#A-Prop_1250800079_1082799">See "LogP"</MadCap:xref>, <MadCap:xref class="Heading_And_Page" href="MyImport/A-Prop.htm#A-Prop_1250800079_1093643">See "Property Calculations"</MadCap:xref>, and <MadCap:xref class="Heading_And_Page" href="#6a-Chem_969106972_1142819">“Chemical Properties” on page 87</MadCap:xref>.</div>
+        <h3 class="Heading3"><a name="6a-Chem_969106972_1072082"></a>
+            <MadCap:keyword term="chemical properties;viewing" />Viewing Chemical Properties</h3>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Select the structure whose properties you want to view.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Go to <span class="Action_Object">View</span>&gt;<span class="Action_Object">Show Chemical Properties Window</span>. The Chemical Properties window appears. </div>
+        <div class="numlist1-inner" MadCap:autonum="3. ">To paste the basic properties into your document, click <span class="Action_Object">Paste</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="4. ">To create a report and view results for other fragmentation methods click <span class="Action_Object">Report</span>. </div>
+        <DIV class="Bullet1-last">
+        </DIV>
+        <table style="border-collapse: separate;caption-side: top;border-spacing: 6px 6px;border-left-style: none;border-right-style: none;border-top-style: none;border-bottom-style: none;margin-left: 0;margin-right: auto;">
+            <col style="width: 273px;">
+            </col>
+            <col style="width: 229px;">
+            </col>
+            <col style="width: 254px;">
+            </col>
+            <col style="width: 201px;">
+            </col>
+            <tbody>
+                <tr>
+                    <td><b style="color: #ff0000;">B</b>
+                    </td>
+                    <td><b style="color: #ff0000;">G</b>
+                    </td>
+                    <td style="color: #ff0000;font-weight: bold;">
+                        <MadCap:xref href="#Mol3" target="" title="" alt="" class="PropertyLink" style="font-weight: normal;">Mol Weight</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Spin" target="" title="" alt="" class="PropertyLink">Spin Density</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Balaban" target="" title="" alt="" class="PropertyLink">Balaban Index</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Gibbs" target="" title="" alt="" class="PropertyLink">Gibbs Free Energy</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Molecula" target="" title="" alt="" class="PropertyLink">Molecular Mass</MadCap:xref>
+                    </td>
+                    <td style="color: #ff0000;">
+                        <MadCap:xref href="#Sum" target="" title="" alt="" class="PropertyLink">Sum Of Degrees</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Boiling" target="" title="" alt="" class="PropertyLink">Boiling Point</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">H</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Molecula2" target="" title="" alt="" class="PropertyLink">Molecular Surfaces</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Sum2" target="" title="" alt="" class="PropertyLink">Sum of Valence Degrees</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td><b style="color: #ff0000;">C</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Harmonic" target="" title="" alt="" class="PropertyLink">Harmonic Zero Point Energy</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Molecula3" target="" title="" alt="" class="PropertyLink">Molecular Topological Index</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">T</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#CP" target="" title="" alt="" class="PropertyLink">C<sub class="subscript">P</sub></MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Heat" target="" title="" alt="" class="PropertyLink">Heat Capacity</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Molecula4" target="" title="" alt="" class="PropertyLink">Molecular Volume</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Thermody" target="" title="" alt="" class="PropertyLink">Thermodynamic Energy
+	
+
+</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Cv" target="" title="" alt="" class="PropertyLink">C<sub class="subscript">v</sub></MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Heat2" target="" title="" alt="" class="PropertyLink">Heat of Formation</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Mulliken" target="" title="" alt="" class="PropertyLink">Mulliken Charges</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Topologi" target="" title="" alt="" class="PropertyLink">Topological Diameter</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Cluster" target="" title="" alt="" class="PropertyLink">Cluster Count</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Henrys" target="" title="" alt="" class="PropertyLink">Henry’s Law Constant</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Mulliken2" target="" title="" alt="" class="PropertyLink">Mulliken Populations</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Total" target="" title="" alt="" class="PropertyLink">Total Connectivity</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Connolly" target="" title="" alt="" class="PropertyLink">Connolly Accessible Area</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Hyper" target="" title="" alt="" class="PropertyLink">Hyper Polarizability</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#m/z" target="" title="" alt="" class="PropertyLink">m/z</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Total2" target="" title="" alt="" class="PropertyLink">Total Energy</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Connolly2" target="" title="" alt="" class="PropertyLink">Connolly Molecular Area</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Hyperfin" target="" title="" alt="" class="PropertyLink">Hyperfine Coupling Constants</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">N</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Total3" target="" title="" alt="" class="PropertyLink">Total Valence Connectivity</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Connolly3" target="" title="" alt="" class="PropertyLink">Connolly Solvent Excluded Volume</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">I</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Num" target="" title="" alt="" class="PropertyLink">Num Rotatable Bonds</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">V</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Critical" target="" title="" alt="" class="PropertyLink">Critical Pressure</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Ideal" target="" title="" alt="" class="PropertyLink">Ideal Gas Thermal Capacity</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">O</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Vapor" target="" title="" alt="" class="PropertyLink">Vapor Pressure</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Critical2" target="" title="" alt="" class="PropertyLink">Critical Temperature</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Internal" target="" title="" alt="" class="PropertyLink">Internal Energy</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Ovality" target="" title="" alt="" class="PropertyLink">Ovality</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">W</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Critical3" target="" title="" alt="" class="PropertyLink">Critical Volume</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Ionizati" target="" title="" alt="" class="PropertyLink">Ionization Potential</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">P</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Water" target="" title="" alt="" class="PropertyLink">Water Solubility</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td><b style="color: #ff0000;">D</b>
+                    </td>
+                    <td><b style="color: #ff0000;">K</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#LogP" target="" title="" alt="" class="PropertyLink">Partition Coefficient</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Wiener" target="" title="" alt="" class="PropertyLink">Wiener Index</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Dipole" target="" title="" alt="" class="PropertyLink">Dipole</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Kinetic" target="" title="" alt="" class="PropertyLink">Kinetic Energy</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#pKa" target="" title="" alt="" class="PropertyLink">pKa</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">Z</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td><b style="color: #ff0000;">E</b>
+                    </td>
+                    <td><b style="color: #ff0000;">L</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Polar" target="" title="" alt="" class="PropertyLink">Polar Surface Area</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Zero-Poi" target="" title="" alt="" class="PropertyLink">Zero-Point Energy</MadCap:xref>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Electron" target="" title="" alt="" class="PropertyLink">Electron Density</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#LogP" target="" title="" alt="" class="PropertyLink">LogP</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Polariza" target="" title="" alt="" class="PropertyLink">Polarizability</MadCap:xref>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Electros" target="" title="" alt="" class="PropertyLink">Electrostatic Potential</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#LogS" target="" title="" alt="" class="PropertyLink">LogS</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Potentia" target="" title="" alt="" class="PropertyLink">Potential Energy</MadCap:xref>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Elementa" target="" title="" alt="" class="PropertyLink">Elemental Analysis</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Lowdin" target="" title="" alt="" class="PropertyLink">Lowdin Charges</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Principa" target="" title="" alt="" class="PropertyLink">Principal Moment</MadCap:xref>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Enthalpy" target="" title="" alt="" class="PropertyLink">Enthalpy</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Lowdin2" target="" title="" alt="" class="PropertyLink">Lowdin Populations</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">R</b>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Entropy" target="" title="" alt="" class="PropertyLink">Entropy</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">M</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Radius" target="" title="" alt="" class="PropertyLink">Radius</MadCap:xref>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Exact" target="" title="" alt="" class="PropertyLink">Exact Mass</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Mass" target="" title="" alt="" class="PropertyLink">Mass</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#RMS" target="" title="" alt="" class="PropertyLink">RMS Force</MadCap:xref>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td><b style="color: #ff0000;">F</b>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Melting" target="" title="" alt="" class="PropertyLink">Melting Point</MadCap:xref>
+                    </td>
+                    <td><b style="color: #ff0000;">S</b>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Formal" target="" title="" alt="" class="PropertyLink">Formal Charge</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Mol" target="" title="" alt="" class="PropertyLink">Mol Formula</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#SCF" target="" title="" alt="" class="PropertyLink">SCF Energy</MadCap:xref>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>
+                        <MadCap:xref href="#Frequenc" target="" title="" alt="" class="PropertyLink">Frequencies</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Mol2" target="" title="" alt="" class="PropertyLink">Mol Formula HTML</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Shape" target="" title="" alt="" class="PropertyLink">Shape Attribute</MadCap:xref>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <td>&#160;</td>
+                    <td>
+                        <MadCap:xref href="#Chemical_Properties_575597764_1197612" target="" title="" alt="" class="PropertyLink">Mol Refractivity</MadCap:xref>
+                    </td>
+                    <td>
+                        <MadCap:xref href="#Shape2" target="" title="" alt="" class="PropertyLink">Shape Coefficient</MadCap:xref>
+                    </td>
+                    <td>&#160;</td>
+                </tr>
+            </tbody>
+        </table>
+        <h5 class="PropertyName"><a name="Balaban"></a>Balaban Index<MadCap:keyword term="Balaban index"></MadCap:keyword></h5>
+        <div class="Body">Is represented as, J and is defined by the formula:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../BalabanIndex.png" style="width: 192px;height: 64.63872px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015926px;margin-bottom: 0.9928819px;">
+            </img>
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st">q is the number of edges in the molecular graph.</div>
+        <div class="Bullet1-inner">m= (q-n+1) is the cyclomatic number of molecular graph.</div>
+        <div class="Bullet1-inner">n is the number of atoms in the molecular graph.</div>
+        <div class="Bullet1-last">S<span class="_Override" style="font-size: 80%;vertical-align: sub;">i</span> is the sum of all entries in the i<span class="_Override" style="font-size: 80%;vertical-align: super;">th</span> row (or column) of the topological distance matrix of the molecule. The distance matrix stores the shortest path between all pairs of atoms.</div>
+        <div class="Body">To calculate the Balaban index:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Balaban Index</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Boiling"></a>
+            <MadCap:keyword term="boiling point">
+            </MadCap:keyword>Boiling Point</h5>
+        <div class="Body">The boiling point is report in Kelvin.</div>
+        <div class="Body">A solution boils at a slightly higher temperature than the pure solvent. The change in boiling point is calculated using the formula:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../BoilingPoint.png" style="width: 96px;height: 38.39904px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015919px;margin-bottom: 1.01664px;">
+            </img>
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">Where K<span class="_Override" style="font-size: 80%;vertical-align: sub;">b</span> is the molal boiling point constant, m is the concentration of the solute expressed as molality, and <span class="_Override" style="font-family: Symbol;">D</span>T<span class="_Override" style="font-size: 80%;vertical-align: sub;">b</span> is the change in temperature.</div>
+        <div class="Body">To report the boiling point:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro </span> and select <span class="Action_Object">Boiling Point</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="CP"></a><span class="_Override" style="font-size: 80%;vertical-align: sub;"><span style="font-size: 11pt;">C<span class="_Override" style="font-size: 80%;vertical-align: sub;">P<MadCap:keyword term="heat capacity (Cp);Cp"></MadCap:keyword></span></span></span>
+        </h5>
+        <div class="Body">Refers to heat capacity at constant pressure. It is defined as a differential quantity; the ratio of a small amount of heat, δQ, added to the body, to the corresponding small increase in its temperature, δT, as shown in formula:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p>&#160;</p>
+        <p>
+            <img src="../GAMESSInterface1.png" style="width: 147.1997px;height: 37.75968px;margin-left: 2.00016px;margin-top: 1.00008px;margin-right: 1.000084px;margin-bottom: 2.000158px;">
+            </img>
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st">C<span class="_Override" style="font-size: 80%;vertical-align: sub;">p</span> is the heat capacity at constant pressure.</div>
+        <div class="Bullet1-inner"><span class="_Override" style="font-family: Symbol;"></span>δQ is the small amount of heat added to the body.</div>
+        <div class="Bullet1-inner">δT is the change in temperature.</div>
+        <div class="Bullet1-inner">p is the pressure.</div>
+        <div class="Bullet1-inner">U is the partial change in internal energy.</div>
+        <div class="Bullet1-inner">V is the partial change in volume.</div>
+        <div class="Bullet1-last">T is the partial change in temperature.</div>
+        <div class="Body">To calculate Cp:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Cp</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Cv"></a>C<span class="_Override" style="font-size: 80%;vertical-align: sub;">v<MadCap:keyword term="Heat capacity (Cv);Cv"></MadCap:keyword></span></h5>
+        <div class="Body">C<span class="subscript">v</span> is defined as the heat capacity at constant volume.</div>
+        <div class="Body">When heat, δQ, is introduced into the system, the change in its internal energy, δU is:</div>
+        <p><span class="emphasis">δU=δQ-pδV</span>
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">If the process is performed at constant volume, the relation becomes:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../GAMESSCv2.png" style="width: 127.9997px;height: 37.11936px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9921533px;margin-bottom: 0.9683992px;">
+            </img>
+        </p>
+        <div class="Body">To calculate Cv:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Cv</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Cluster"></a>
+            <MadCap:keyword term="cluster count">
+            </MadCap:keyword>Cluster Count</h5>
+        <div class="Body">Is the number of paths of a given length in the distance matrix.</div>
+        <div class="Body">To calculate the cluster count:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Cluster Count</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Connolly"></a>
+            <MadCap:keyword term="Connolly accessible area">
+            </MadCap:keyword>Connolly Accessible Area</h5>
+        <div class="Body">This is the locus of the center of a spherical probe (representing the solvent) as it is rolled over the molecular model.</div>
+        <div class="Body">To report the Connolly accessible area:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Connolly Accessible Area</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Connolly2"></a>
+            <MadCap:keyword term="Connolly molecular area">
+            </MadCap:keyword>Connolly Molecular Area</h5>
+        <div class="Body">This is the contact surface created when a spherical probe (representing the solvent) is rolled over the molecular model.</div>
+        <div class="Body">To report the Connolly molecular area:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Connolly Molecular Area</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Connolly3"></a>
+            <MadCap:keyword term="Connolly solvent excluded Vvolume">
+            </MadCap:keyword>Connolly Solvent Excluded Volume</h5>
+        <div class="Body">This is the volume of space bounded by the solvent accessible molecular surface.</div>
+        <div class="Body">To report the Connolly solvent excluded volume:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Connolly Solvent Excluded Volume</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Critical"></a>
+            <MadCap:keyword term="critical pressure">
+            </MadCap:keyword>Critical Pressure</h5>
+        <div class="Body">Reported in bars, this is the least applied pressure required at the critical temperature to liquefy a gas.</div>
+        <div class="Body">To report the boiling point:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro </span>and select <span class="Action_Object">Critical Pressure</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Critical2"></a>
+            <MadCap:keyword term="critical temperature">
+            </MadCap:keyword>Critical Temperature</h5>
+        <div class="Body">Reported in Kelvin, this is the temperature above which a gas cannot be liquefied, regardless of the pressure applied.</div>
+        <div class="Body">To report the boiling point:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro </span>and select <span class="Action_Object">Critical Temperature</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Critical3"></a>
+            <MadCap:keyword term="critical volume">
+            </MadCap:keyword>Critical Volume</h5>
+        <div class="Body">Reported in cm<sup class="superscript">3</sup>/mol, this is the volume occupied by one mole of a substance at the critical temperature and pressure.</div>
+        <div class="Body">To report the boiling point:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro</span> and select <span class="Action_Object">Critical Volume</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Dipole"></a>
+            <MadCap:keyword term="dipole">
+            </MadCap:keyword>Dipole</h5>
+        <div class="Body">Measured in Debye, the dipole refers to the separation of charge between two covalently bonded atoms. Dipoles can be characterized by their dipole moment, a vector quantity with a magnitude equal to the product of the charge or magnetic strength of one of the poles and the distance separating the two poles. Dipole moment is calculated using the formula:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../GAMESSdipole.png" style="width: 58.23936px;height: 20.47968px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.1547967px;margin-bottom: 0.2087995px;">
+            </img>
+        </p>
+        <div class="Body">Where <span class="_Override" style="font-family: Symbol;">m</span> is the dipole moment, q is the magnitude of the separated charge and r is a vector from the site of positive charge to the site of negative charge.</div>
+        <div class="Body">You can calculate the Dipole using either GAMESS or Gaussian.</div>
+        <div class="Body">To calculate the dipole using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Dipole</span> and click <span class="Action_Object">Run</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">(Optional) To view the dipole in the model, select <span class="Action_Object">Yes</span> when prompted.</div>
+        <div class="Body">To calculate the dipole using Gaussian:</div>
+        <div class="numlist1-inner" MadCap:autonum="4. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Gaussian Interface</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="5. ">In the Gaussian interface dialog box, select the <span class="Action_Object">Jobs</span> tab and then select the <span class="Action_Object">Properties</span> tab.</div>
+        <div class="numlist1-inner" MadCap:autonum="6. ">In the Properties tab, select the <span class="Action_Object">Dipole</span> checkbox.</div>
+        <div class="numlist1-inner" MadCap:autonum="7. ">Click <span class="Action_Object">Run</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="8. ">(Optional) To view the dipole in the model, select <span class="Action_Object">Yes</span> when prompted.</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Comment" MadCap:autonum="1. ">{The Dipole result using Gaussian appears in the output window but the calculation also displays a whole bunch of information in a text file that opens in notepad. Not sure whether this information is important.</div>
+        <h5 class="PropertyName"><a name="Electron"></a>
+            <MadCap:keyword term="electron density">
+            </MadCap:keyword>Electron Density</h5>
+        <div class="Body">Is the probability of an electron being present at a specific location. It is calculated using the formula:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../ElectronDensity.png" style="width: 192px;height: 46.08px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015926px;margin-bottom: 1.015923px;">
+            </img>
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st"><span class="_Override" style="font-family: Symbol;">r</span>(r), electron density, is a function of the coordinates r and is defined so that <span class="_Override" style="font-family: Symbol;">r</span>(r)dr is the number of electrons in a small volume, dr.</div>
+        <div class="Bullet1-inner"><span class="_Override" style="font-family: Symbol;">f</span><span class="_Override" style="font-family: Symbol;font-size: 80%;vertical-align: sub;">m</span>(r) and <span class="_Override" style="font-family: Symbol;">f</span><span class="_Override" style="font-family: Symbol;font-size: 80%;vertical-align: sub;">u</span>(r) are basis functions.</div>
+        <div class="Bullet1-last">P is the density matrix.</div>
+        <div class="Body">You can calculate the electron density using either GAMESS or Gaussian.</div>
+        <div class="Body">To calculate electron density using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Electron Density</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">Select <span class="Action_Object">Electron Density</span> and click <span class="Action_Object">Run</span>.The results appear in the Atom Property window.</div>
+        <div class="Body">To calculate the electron density using Gaussian:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">Electron Density</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">Another alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Gaussian Interface</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">In the Gaussian Interface dialog box, select the <span class="Action_Object">Jobs</span> tab and then select the <span class="Action_Object">Properties</span> tab.</div>
+        <div class="numlist1-inner" MadCap:autonum="3. ">In the Properties tab, select the <span class="Action_Object">Electron Density</span> checkbox.</div>
+        <div class="numlist1-inner" MadCap:autonum="4. ">Click <span class="Action_Object">Run</span>. The results appear in the Atom Property window.</div>
+        <div class="numlist1-1st" MadCap:conditions="MyImport.Comment" MadCap:autonum="1. ">{A text file opens in notepad showing a whole bunch of info besides electron potential. Need to understand what this info is.}</div>
+        <h5 class="PropertyName"><a name="Electros"></a>Electrostatic Potential<MadCap:keyword term="electrostatic potential"></MadCap:keyword></h5>
+        <div class="Body">The formula for electrostatic potential, V at a point, F for a system of charges, q<span class="_Override" style="font-size: 80%;vertical-align: sub;">i</span> is at points, r<span class="_Override" style="font-size: 80%;vertical-align: sub;">i</span> in a medium of dielectric constant <span class="_Override" style="font-family: Symbol;">e</span> is expressed as:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../ElectrostaticPotential1.png" style="width: 127.9997px;height: 63.99936px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9921533px;margin-bottom: 0.968403px;">
+            </img>
+        </p>
+        <div class="Body">You can calculate the the electrostatic potential using GAMESS.</div>
+        <div class="Body">To calculate the electrostatic potential:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Electrostatic Potential</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Electrostatic Potential</span> and click <span class="Action_Object">Run</span>.</div>
+        <div class="numlist1-last" MadCap:conditions="MyImport.Comment" MadCap:autonum="3. ">No results are displayed. Could be a bug. The output window seems to indicate that it is calculating but no results are given.</div>
+        <h5 class="PropertyName"><a name="Elementa"></a>
+            <MadCap:keyword term="elemental analysis">
+            </MadCap:keyword>Elemental Analysis</h5>
+        <div class="Body">This is a process in which a material is analyzed for its elemental and isotopic composition. Elemental analysis can be qualitative (determining what elements are present) or quantitative (determining how much of each are present).</div>
+        <div class="Body">To report perform an elemental analysis:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Elemental Analysis</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Enthalpy"></a>Enthalpy<MadCap:keyword term="enthalpy"></MadCap:keyword></h5>
+        <div class="Body">Is a property of a substance that can be used to calculate the heat produced or absorbed in a chemical reaction. Enthalpy is also a state function; you can calculate the enthalpy change for a chemical reaction by finding the difference in enthalpy between the products and reactants. Enthalpy is calculated using the formula:</div>
+        <p><span class="emphasis">H=U+PV</span>
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st">H is enthalpy</div>
+        <div class="Bullet1-inner">U is internal energy</div>
+        <div class="Bullet1-inner">P is pressure</div>
+        <div class="Bullet1-last">V is volume</div>
+        <div class="Body">To calculate enthalpy:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Enthalpy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Entropy"></a>Entropy<MadCap:keyword term="entropy"></MadCap:keyword></h5>
+        <div class="Body">The change of entropy, dS is related to the amount of heat transfer, dQ and temperature, T by the formula:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p>
+            <img src="../entropy.png" style="width: 96px;height: 48px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015919px;margin-bottom: 1.015919px;">
+            </img>
+        </p>
+        <div class="Body">To calculate entropy using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Entropy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">To calculate entropy using Gaussian:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">Entropy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Exact"></a>
+            <MadCap:keyword term="exact mass">
+            </MadCap:keyword>Exact Mass</h5>
+        <div class="Body">This is the sum of the masses of the individual isotopes in the molecule. For example, the exact mass of water containing two hydrogen-1 (1H) and one oxygen-16 (16O) is 1.0078 + 1.0078 + 15.9994 = 18.0106. The exact mass of heavy water, containing two hydrogen-2 (deuterium or 2H) and one oxygen-16 (16O) is 2.014 + 2.014 + 15.9994 = 20.027.</div>
+        <div class="Body">To report the exact mass:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Exact Mass</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Formal"></a>
+            <MadCap:keyword term="formal charge">
+            </MadCap:keyword>Formal Charge</h5>
+        <div class="Body">This is the charge assigned to an atom in a molecule, assuming that electrons in a chemical bond are shared equally between atoms, regardless of relative electronegativity.</div>
+        <div class="Body">The formal charge of any atom in a molecule can be calculated using the formula:</div>
+        <div class="Body">FC=V-N-B/2</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">Where ‘V’ is the number of valence electrons of the atom in isolation (atom in ground state); ‘N’ is the number of non-bonding electrons on this atom in the molecule; and ‘B’ is the total number of electrons shared in covalent bonds with other atoms in the molecule.</div>
+        <div class="Body">To report the formal charge:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Formal Charge</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Frequenc"></a>Frequencies<MadCap:keyword term="freequencies"></MadCap:keyword></h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">{Not sure what the result mean. The calculations produce numbers without units.}</div>
+        <div class="Body">To calculate infrared vibrational frequencies using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Frequencies</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">To calculate frequencies using Gaussian:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">Frequencies</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Gibbs"></a>Gibbs Free Energy<MadCap:keyword term="Gibbs free energy"></MadCap:keyword></h5>
+        <div class="Body" MadCap:conditions="MyImport.Comment">{need to understand this better. The CRC handbook (77th edition, page 5-31), states the Gibbs energy as -32KJ/mol for ethane(gas) at 1Bar and 298K where <MadCap:variable name="MyImport.Prod_CD"></MadCap:variable> states it as 34Kcal/mole (a positive number) in the GAMESS interface and -34KJ/mol (a negative number and different units) in the property broker. As a result, none of the values agree.}</div>
+        <div class="Body">Reported in KJ/mole, Gibbs free energy is defined as:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../GibbsFreeEnergy.png" style="width: 175.9997px;height: 38.39904px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9921533px;margin-bottom: 1.01664px;">
+            </img>
+        </p>
+        <div class="Body">which is same as:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../GibbFreeEnergy2.png" style="width: 127.9997px;height: 38.39904px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9921533px;margin-bottom: 1.01664px;">
+            </img>
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st">U is the internal energy (SI unit: Joule) </div>
+        <div class="Bullet1-inner">p is pressure (SI unit: Pascal) </div>
+        <div class="Bullet1-inner">V is volume (SI unit: m3) </div>
+        <div class="Bullet1-inner">T is the temperature (SI unit: Kelvin) </div>
+        <div class="Bullet1-inner">S is the entropy (SI unit: joule per Kelvin) </div>
+        <div class="Bullet1-last">H is the enthalpy (SI unit: Joule) </div>
+        <div class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">H and S are thermodynamic values found at standard temperature and pressure.</div>
+        <div class="Body">To calculate Gibbs free energy using either ChemPropPro or GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand either <span class="Action_Object">GAMESS Interface</span> or <span class="Action_Object">ChemPropPro</span> and select <span class="Action_Object">Gibbs Free Energy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Harmonic"></a>Harmonic Zero Point Energy<MadCap:keyword term="harmonic zero point energy"></MadCap:keyword></h5>
+        <div class="Body">In ordinary quantum mechanics, the zero-point energy is the energy associated with the ground state of the system. One example is the energy associated with the ground state of the quantum harmonic oscillator, expressed by:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../HarmonicZeroPointEnergy.png" style="width: 63.99936px;height: 48px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.968403px;margin-bottom: 1.015919px;">
+            </img>
+        </p>
+        <div class="Body">Where E is energy, <span class="_Override" style="text-decoration: overline;">h</span> is reduced Planck constant, and <span class="_Override" style="font-family: Symbol;">w</span> is angular frequency.</div>
+        <div class="Body">To calculate frequencies using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Harmonic Zero Point Energy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Heat"></a>Heat Capacity<MadCap:keyword term="heat capacity (Cp)"></MadCap:keyword></h5>
+        <div>The amount of heat required to change a substances temperature by a given amount. Values are measured in Cal/Mol-K.</div>
+        <div class="Body">To calculate heat capacity using Gaussian:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">Heat Capacity</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Heat2"></a>
+            <MadCap:keyword term="heat of formation">
+            </MadCap:keyword>Heat of Formation</h5>
+        <div class="Body">Reported in KJ/mole, the heat of formation is the increase in enthalpy resulting from the formation of one mole of a substance from its constituent elements at constant pressure.</div>
+        <div class="Body">To report the heat of formation:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro </span>and select <span class="Action_Object">Heat of Formation</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Henrys"></a>
+            <MadCap:keyword term="Henry’s Law constant">
+            </MadCap:keyword>Henry’s Law Constant</h5>
+        <div class="Body">A unitless value, Henry's Law Constant can be expressed as:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../HenrysLawConstant.png" style="width: 96px;height: 44.79936px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015919px;margin-bottom: 0.968403px;">
+            </img>
+        </p>
+        <div class="Body">Where ‘p’ is the partial pressure of the solute in the gas above the solution, ‘c’ is the concentration of the solute and ‘k<span class="_Override" style="font-size: 80%;vertical-align: sub;">H,pc</span>’ is a constant with the dimensions of pressure divided by concentration. The constant, known as the Henry's law constant, depends on the solute, solvent, and temperature.</div>
+        <div class="Body">To report the heat of formation:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro </span>and select <span class="Action_Object">Henry's Law Constant</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Hyper"></a>Hyper Polarizability<MadCap:keyword term="hyper polarizability"></MadCap:keyword></h5>
+        <div MadCap:conditions="MyImport.Comment">{Need explanation}</div>
+        <div class="Body">To calculate hyper polarizability using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Hyper Polarizability</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Hyperfin"></a>Hyperfine Coupling Constants<MadCap:keyword term="hyperfine coupling constants"></MadCap:keyword></h5>
+        <div MadCap:conditions="MyImport.Comment">{Need explanation}</div>
+        <div class="Body">To calculate hyperfine coupling constants using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Hyperfine Coupling Constants</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">No results are displayed fpr hyperfine coupling constants. Could be a bug. The output window seems to indicate that it is calculating but no results are given.</div>
+        <h5 class="PropertyName"><a name="Ideal"></a>
+            <MadCap:keyword term="ideal gas thermal capacity">
+            </MadCap:keyword>Ideal Gas Thermal Capacity</h5>
+        <div class="Body">The thermal capacity at constant volume of an ideal gas is:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../IdealGasThermalCapacity.png" style="width: 223.9997px;height: 48px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9921685px;margin-bottom: 1.015919px;">
+            </img>
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st">c<span class="_Override" style="font-size: 80%;vertical-align: sub;">V</span> is a constant dependent on temperature </div>
+        <div class="Bullet1-inner">U is the internal energy</div>
+        <div class="Bullet1-inner">T is the absolute temperature</div>
+        <div class="Bullet1-inner">V is the volume </div>
+        <div class="Bullet1-inner">n is the amount of substance of the gas </div>
+        <div class="Bullet1-inner">R is the gas constant (8.314 J·K−1mol-1 in SI units) </div>
+        <div class="Bullet1-inner">N is the number of gas particles </div>
+        <div class="Bullet1-last">k<span class="_Override" style="font-size: 80%;vertical-align: sub;">B</span> is the Boltzmann constant (1.381×10−23J·K−1 in SI units)</div>
+        <div class="Body">The thermal capacity at constant pressure of an ideal gas is:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../IdealGasThermalCapacity2.png" style="width: 192px;height: 48px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015926px;margin-bottom: 1.015919px;">
+            </img>
+        </p>
+        <div class="Body">Where ‘H’ is the enthalpy of the gas, calculated as: H = U + pV.</div>
+        <div class="Body">To report the ideal gas thermal capacity:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro </span>and select <span class="Action_Object">Ideal Gas Thermal Capacity</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Internal"></a>
+            <MadCap:keyword term="internal energy">
+            </MadCap:keyword>Internal Energy</h5>
+        <div class="Body">The internal energy is the total energy due to the motion of molecules, plus the rotation, and vibration of atoms within molecules. It can be calculated using:</div>
+        <div class="Body"><span class="emphasis">dU=TdS-PdV+</span><span class="emphasis" style="font-family: Symbol;">m</span><span class="emphasis">dN</span>
+        </div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st">dU is the change in internal energy</div>
+        <div class="Bullet1-inner">T is the temperature</div>
+        <div class="Bullet1-inner">dS is the change in disorder</div>
+        <div class="Bullet1-inner">p is the pressure</div>
+        <div class="Bullet1-inner">dV is the change in volume</div>
+        <div class="Bullet1-inner"><span class="_Override" style="font-family: Symbol;">m</span> is the chemical potential</div>
+        <div class="Bullet1-last">dN is the number of 	particles added to the system</div>
+        <div class="Body">To calculate internal energy using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Internal Energy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Ionizati"></a>
+            <MadCap:keyword term="ionization potential">
+            </MadCap:keyword>Ionization Potential</h5>
+        <p>The ionization potential is the energy needed to remove electrons from an atom.</p>
+        <div class="Body">To calculate ionization potential using Gaussian:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">Ionization Potential</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Gaussian Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Ionization Potential</span> and click <span class="Action_Object">Run. </span>The results appear in the Output window.</div>
+        <h5 class="PropertyName"><a name="Kinetic"></a>Kinetic Energy<MadCap:keyword term="kinetic energy"></MadCap:keyword></h5>
+        <div class="Body">The formula to calculate kinetic energy is:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../KineticEnergy.png" style="width: 96px;height: 30.07872px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015919px;margin-bottom: 0.99288px;">
+            </img>
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">Where K is the kinetic energy, m is the mass, and p is the momentum which is the product of mass and velocity, v.</div>
+        <div class="Body">To calculate kinetic energy using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Kinetic Energy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Kinetic Energy</span> and click <span class="Action_Object">Run. </span></div>
+        <h5 class="PropertyName"><a name="LogP"></a>
+            <MadCap:keyword term="LogP">
+            </MadCap:keyword>LogP/Partition Coefficient</h5>
+        <div class="Body">The partition coefficient is a ratio of concentrations of un-ionized compound between two solutions. To measure the partition coefficient of ionizable solutes, the pH of the aqueous phase is adjusted so that the predominant form of the compound is un-ionized. The logarithm of the ratio of the concentrations of the un-ionized solute in the solvents is called LogP.</div>
+        <div class="Body">Normally, one of the solvents chosen is water; the second is hydrophobic, such as octanol.</div>
+        <div class="Body">The formula to calculate logP is:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../LogP.png" style="width: 293.76px;height: 48px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015926px;margin-bottom: 1.015919px;">
+            </img>
+        </p>
+        <div class="Body">To calculate LogP:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Networks</span> and select <span class="Action_Object">LogP</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">Alternative method #1:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro </span>and select <span class="Action_Object">LogP</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="4. ">Alternative method #2:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ClogP Driver </span>and select <span class="Action_Object"><MadCap:keyword term="Partition Coefficient"></MadCap:keyword>Partition Coefficient</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="LogS"></a>LogS<MadCap:keyword term="LogS"></MadCap:keyword></h5>
+        <p>The logarithm of the solubility of a substance, measured in mol/liter.</p>
+        <div class="Body">To calculate LogS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Networks</span> and select <span class="Action_Object">LogS</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Lowdin"></a>Lowdin Charges<MadCap:keyword term="Lowdin charges"></MadCap:keyword></h5>
+        <div class="Body">Is calculated using the formula:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../ElectrostaticPotential2.png" style="width: 192px;height: 63.99936px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015926px;margin-bottom: 0.968403px;">
+            </img>
+        </p>
+        <div class="Body">Where:</div>
+        <div class="Bullet1-1st">Z<span class="_Override" style="font-size: 80%;vertical-align: sub;">k</span> is the nuclear charge</div>
+        <div class="Bullet1-inner">P is the electronic density matrix</div>
+        <div class="Bullet1-inner">S<span class="_Override" style="font-size: 80%;vertical-align: super;">1/2</span> is the square root of the overlap matrix</div>
+        <div class="Bullet1-last">Summation i runs over all basis functions centered on atom k. </div>
+        <div class="Body">To calculate Lowdin charges using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Lowdin Charges</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Lowdin Charges</span> and click <span class="Action_Object">Run. </span></div>
+        <h5 class="PropertyName"><a name="Lowdin2"></a>Lowdin Populations<MadCap:keyword term="Lowdin populations"></MadCap:keyword></h5>
+        <div class="Body">In the Lowdin approach, the non-orthogonal atomic orbitals are transformed to an orthogonal set. The transformed orbitals, <span class="_Override" style="font-family: Symbol;">c</span><span class="_Override" style="font-size: 80%;vertical-align: sub;">b</span> are given by:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../LowdinPopulation.png" style="width: 144px;height: 48px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015919px;margin-bottom: 1.015919px;">
+            </img>
+        </p>
+        <div class="Body">In Lowdin Population Analysis (LPA), the <span class="_Override" style="font-family: Symbol;">a</span>, <span class="_Override" style="font-family: Symbol;">b</span> and gross electron populations associated with fragment A are:</div>
+        <p>
+            <img src="../LowdinPopulation2.png" style="width: 192px;height: 168.3197px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015926px;margin-bottom: 0.9921533px;">
+            </img>
+        </p>
+        <div class="Body">The spin density is given by:</div>
+        <p>
+            <img src="../LowdinPopulation3.png" style="width: 127.9997px;height: 35.1984px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9921533px;margin-bottom: 0.9691201px;">
+            </img>
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">To calculate Lowdin population using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Lowdin Population</span>s.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Lowdin Populations</span> and click <span class="Action_Object">Run. </span></div>
+        <h5 class="PropertyName"><a name="Mass"></a>
+            <MadCap:keyword term="mass">
+            </MadCap:keyword>Mass</h5>
+        <div class="Body">This is the mass of one molecule of a substance, relative to the unified atomic mass unit u (equal to 1/12 the mass of one atom of 12C). Also called molecular mass.</div>
+        <div class="Body">To report the mass:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Mass</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Melting"></a>
+            <MadCap:keyword term="melting point">
+            </MadCap:keyword>Melting Point</h5>
+        <div class="Body">Is the temperature at which a solid becomes a liquid at standard atmospheric pressure. At the melting point, the solid and liquid phase exist in equilibrium. The formula to calculate melting point is:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../MeltingPoint.png" style="width: 63.99936px;height: 48px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.968403px;margin-bottom: 1.015919px;">
+            </img>
+        </p>
+        <div class="Body">Where ‘T’ is the temperature at the melting point, ‘<span class="_Override" style="font-family: Symbol;">D</span>S’ is the change in entropy of melting, and ‘<span class="_Override" style="font-family: Symbol;">D</span>H’ is the change in enthalpy of melting.</div>
+        <div class="Body">&#160;</div>
+        <div class="Body">To report the melting point:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro </span>and select <span class="Action_Object">Melting Point</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Mol"></a>
+            <MadCap:keyword term="mol formula">
+            </MadCap:keyword>Mol Formula</h5>
+        <div class="Body">This is the molecular formula of the compound.</div>
+        <div class="Body">To report the mass:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Molecular Formula</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Mol2"></a>
+            <MadCap:keyword term="mol formula">
+            </MadCap:keyword>Mol Formula HTML</h5>
+        <div class="Body">This is the molecular formula written in HTML format. You can copy and paste the output to an HTML file. </div>
+        <div class="Body">Here is an example of the output for a model of aniline:</div>
+        <div class="Body">C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;7&lt;/sub&gt;N</div>
+        <div class="Body">To report the mol formula in HTML format:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Mol Formula HTML</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <h5 class="PropertyName"><a name="Chemical_Properties_575597764_1197612"></a><a name="Chemical_Properties_575597764_43521"></a>
+            <MadCap:keyword term="mol refractivity">
+            </MadCap:keyword>Mol Refractivity</h5>
+        <div class="Body">Is a measure of the total polarizability of one mole of a substance. It is dependent on the temperature, index of refraction, and pressure.</div>
+        <div class="Body">The molar refractivity, ‘A’ is expressed as:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../MolRefractivity.png" style="width: 96px;height: 38.39904px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015919px;margin-bottom: 1.01664px;">
+            </img>
+        </p>
+        <div class="Body">Where ‘N<span class="_Override" style="font-size: 80%;vertical-align: sub;">A</span>’ is the Avogadro constant and <span class="_Override" style="font-family: Symbol;">a</span> is the mean polarizability.</div>
+        <div class="Body">To report the Mol Refractivity using either ChemPropPro or ChemPropStd:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand either <span class="Action_Object">ChemPropPro </span>or <span class="Action_Object">ChemPropStd</span> and select <span class="Action_Object">Mol Refractivity</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">&#160;</div>
+        <h5 class="PropertyName"><a name="Mol3"></a>
+            <MadCap:keyword term="mol weight">
+            </MadCap:keyword>Mol Weight</h5>
+        <div class="Body">This is the sum of the atomic weights of all atoms in a molecule.</div>
+        <div class="Body">To report the mass:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Mol Weight</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <h5 class="PropertyName"><a name="Molecula"></a>Molecular Mass<MadCap:keyword term="molecular mass"></MadCap:keyword></h5>
+        <p>The mass of one molecule of a substance, measured in atomic units (au).</p>
+        <div class="Body">To calculate molecular mass using Gaussian:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">Molecular Mass</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <h5 class="PropertyName"><a name="Molecula2"></a>Molecular Surfaces<MadCap:keyword term="molecular surfaces"></MadCap:keyword></h5>
+        <div class="Body">To calculate molecular surfaces using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Molecular Surfaces</span> and click <span class="Action_Object">Run.</span></div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">{The molecular surfaces calculation in GAMESS doesn't seem to produce any results.}</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Gaussian Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Molecular Surfaces</span> and click <span class="Action_Object">Run.</span></div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">{The molecular surfaces calculation in Gaussian doesn't seem to produce any results.}</div>
+        <h5 class="PropertyName"><a name="Molecula3"></a>Molecular Topological Index<MadCap:keyword term="momolecular topological index"></MadCap:keyword></h5>
+        <div class="Body">Is a graph index defined by:<MadCap:keyword term="molecular volume"></MadCap:keyword></div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../MolecularTopologyIndex.png" style="width: 119.6794px;height: 72.95904px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.968403px;margin-bottom: 1.016644px;">
+            </img>
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">Where E<span class="_Override" style="font-size: 80%;vertical-align: sub;">i</span> are the components of the vector:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../MolecularTopologyIndex2.png" style="width: 96px;height: 48px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015919px;margin-bottom: 1.015919px;">
+            </img>
+        </p>
+        <div class="Body">Where, A is the adjacency matrix and D is the graph distance matrix, and d is the vector of vertex degrees of a graph.</div>
+        <div class="Note" MadCap:autonum="&lt;b&gt;Note: &lt;/b&gt; ">An atom’s degree is the number of non-hydrogen atoms to which it is adjacent.</div>
+        <div class="Body">To calculate the molecular topological index:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Molecular Topological Index</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Molecula4"></a>Molecular Volume<MadCap:keyword term="molecular volume;volume, calculating"></MadCap:keyword></h5>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">Molecular Volume</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Gaussian Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Molecular Volume</span> and click <span class="Action_Object">Run.</span></div>
+        <h5 class="PropertyName"><a name="Mulliken"></a>Mulliken Charges<MadCap:keyword term="Mulliken charges"></MadCap:keyword></h5>
+        <div class="Body">The sum of GOP terms over all basis functions on a given atom A is called the Gross Atom Population or GAP<span class="_Override" style="font-size: 80%;vertical-align: sub;">A</span>. Mulliken charge for atom A is expressed as:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../MillikensCharges.png" style="width: 127.9997px;height: 31.99968px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9921533px;margin-bottom: 0.9921609px;">
+            </img>
+        </p>
+        <div class="Body">Where Z<span class="_Override" style="font-size: 80%;vertical-align: sub;">A</span> is the atomic number of atom A.</div>
+        <div class="Body">To calculate Mulliken charges using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Mulliken Charges</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Mulliken Charges</span> and click <span class="Action_Object">Run. </span>The results appear in the Output window and the Atom Property table.<span class="Action_Object"></span></div>
+        <div class="Body">To calculate Mulliken charges using Gaussian:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object"><span class="Action_Object">Mulliken Charge</span>s</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Gaussian Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Mulliken Charges</span> and click <span class="Action_Object">Run. </span>The results appear in the Output window and the Atom Property table.<span class="Action_Object"><span class="Action_Object"></span></span></div>
+        <h5 class="PropertyName"><a name="Mulliken2"></a>Mulliken Populations<MadCap:keyword term="Mulliken populations"></MadCap:keyword></h5>
+        <div class="Body">Mulliken Population Analysis (MPA) is a partitioning scheme based on the use of density and overlap matrices of allocating the electrons of a molecular entity in some fractional manner among its various parts (atoms, bonds, orbitals). MPA is arbitrary and strongly dependent on the particular basis set employed. However, comparison of population analyses for a series of molecules is useful for a quantitative description of intra-molecular interactions, chemical reactivity and structural regularities. According to MPA, the Gross Orbital Population (GOP) is:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../MullikinsPopulations.png" style="width: 128.64px;height: 48.6384px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.015919px;margin-bottom: 0.9691201px;">
+            </img>
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">P is population matrix, and is expressed for a closed shell as:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../MullikinsPopulations2.png" style="width: 111.9994px;height: 31.99968px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.968403px;margin-bottom: 0.9921609px;">
+            </img>
+        </p>
+        <div class="Body">S is the overlap matrix and D is density matrix. If the coefficients of the basis functions in the molecular orbital are C<span class="_Override" style="font-size: 80%;vertical-align: sub;">μi</span> for the μ<span class="_Override" style="font-size: 80%;vertical-align: super;">th</span> basis function in the i<span class="_Override" style="font-size: 80%;vertical-align: super;">th</span> molecular orbital, the density matrix terms are expressed as:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../MullikinsPopulations3.png" style="width: 127.9997px;height: 48px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9921533px;margin-bottom: 1.015919px;">
+            </img>
+        </p>
+        <div class="Body">To calculate Mulliken populations using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Mulliken Charges</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Mulliken Populations</span> and click <span class="Action_Object">Run. </span>The results appear in the Output window and the Atom Property table.<span class="Action_Object"></span></div>
+        <h5 class="PropertyName"><a name="m/z"></a>
+            <MadCap:keyword term="m/z">
+            </MadCap:keyword>m/z</h5>
+        <div class="Body">The mass-to-charge ratio is a physical quantity used in the electrodynamics of charged particles. Two particles with the same m/z ratio move in the same path in a vacuum when subjected to the same electric and magnetic fields.</div>
+        <div class="Body">To report the mass-to-charge ratio:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">m/z</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Num"></a>Num Rotatable Bonds<MadCap:keyword term="number rotatable bonds;rotatable bonds"></MadCap:keyword></h5>
+        <div class="Body">Is the number of rotatable bonds in a molecule. A rotatable bond is defined as an acyclic bond drawn as a single bond (amide C-N bonds, O=C--N, are rotatable) where the atom on each end has at least one other non-hydrogen substituent. This topological parameter is a measure of molecular flexibility. Unsaturated bonds, and single bonds connected to hydrogens or terminal atoms, single bonds of amides, sulphonamides, and those connecting two hindered aromatic rings (having at least three ortho substituents) are considered non-rotatable.</div>
+        <div class="Body">To calculate the number of rotatable bonds:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Num Rotatable Bonds</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Ovality"></a>Ovality<MadCap:keyword term="ovality"></MadCap:keyword></h5>
+        <div class="Body">This refers to a measure of how the shape of a molecule approaches a sphere (at one extreme) or a cigar shape (at the other). Ovality is described by a ratio of volume to area:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../Ovality.png" style="width: 245.1197px;height: 33.27936px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9921685px;margin-bottom: 0.968403px;">
+            </img>
+        </p>
+        <div class="Body">Where ‘A’ is area, ‘V’ is Volume, and ‘O’ is Ovality.</div>
+        <div class="Body">The ovality of a helium atom is 1.0 and HC<sub class="subscript">24</sub>H (12 triple bonds) is ~1.7 (equivalent to 1.7).</div>
+        <div class="Body">To report the ovality:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Ovality</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="pKa"></a>pKa<MadCap:keyword term="pKa"></MadCap:keyword></h5>
+        <div class="Body">The pKa describes the tendency of compounds or ions to dissociate in solution. If B is defined as the conjugate base of the acid HB, then pKa is calculated as:</div>
+        <div class="Body">pKa = -Log10(Ka) </div>
+        <div class="Body">where </div>
+        <div class="Body">Ka=[H+][B] / [HB]</div>
+        <div class="Body">To calculate pKa:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Networks</span> and select <span class="Action_Object">pKa</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Polar"></a>Polar Surface Area<MadCap:keyword term="polar surface area"></MadCap:keyword></h5>
+        <div class="Body">The Polar Surface Area (PSA) is defined as the surface sum over all polar atoms (usually oxygen and nitrogen) including attached hydrogens.</div>
+        <div class="Body">To calculate the PSA:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Polar Surface Area</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Polariza"></a>Polarizability<MadCap:keyword term="polarizability"></MadCap:keyword></h5>
+        <div class="Body">The polarizability, <span class="_Override" style="font-family: Symbol;">a</span> is defined as the ratio of the induced dipole moment of an atom to the electric field E that produces this dipole moment. The formula to calculate polarizability is:</div>
+        <p class="GraphicAnchor">
+            <br>
+            </br>
+        </p>
+        <p>
+            <img src="../polarizability.png" style="width: 63.99936px;height: 48px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.968403px;margin-bottom: 1.015919px;">
+            </img>
+        </p>
+        <div class="Body">To calculate polarizability using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Polarizability</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body" MadCap:conditions="MyImport.Comment">{The Polarizability calculation in GAMESS doesn't seem to produce any results.}<span class="Action_Object"></span></div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Polarizability</span> and click <span class="Action_Object">Run. </span></div>
+        <div class="Body">To calculate polarizability using Gaussian:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object"><span class="Action_Object">polarizability</span></span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Gaussian Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">polarizability </span> and click <span class="Action_Object">Run. </span>The results appear in the Output window.<span class="Action_Object"><span class="Action_Object"></span></span></div>
+        <div class="Body">
+        </div>
+        <h5 class="PropertyName"><a name="Potentia"></a>Potential Energy<MadCap:keyword term="potential energy"></MadCap:keyword></h5>
+        <div class="Body">Is an energy stored within a system. In a molecular system, potential energy is present in the chemical bonds in a molecule and also in forces between molecules.</div>
+        <div class="Body">To calculate potential energy using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Potential Energy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Potential Energy</span> and click <span class="Action_Object">Run. </span>The results appear in the Output window.<span class="Action_Object"><span class="Action_Object"></span></span></div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">Run</span>.<span class="Action_Object">  <![CDATA[ ]]></span>The results appear in the Output window.</div>
+        <h5 class="PropertyName"><a name="Principa"></a>
+            <MadCap:keyword term="principal moment">
+            </MadCap:keyword>Principal Moment</h5>
+        <div class="Body">This refers to the principal moments of inertia about the principal axes of 	a molecule. The moments of inertia are computed for a series of straight lines through the center of mass using the formula:</div>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../PrincipalMoment.png" style="width: 102.4003px;height: 57.59904px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9676858px;margin-bottom: 1.016644px;">
+            </img>
+        </p>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <div class="Body">Where, ‘I’ is the moment of inertia, ‘m<span class="_Override" style="font-size: 80%;vertical-align: sub;">i</span>’s are point masses whose distances from the rotation axis are denoted by ‘d<span class="_Override" style="font-size: 80%;vertical-align: sub;">i</span>’s.</div>
+        <div class="Bullet1-1st">Distances are established along each line proportional to the reciprocal of the square root of I on either side of the center of mass. The locus of these distances forms an ellipsoidal surface. The principal moments are associated with the principal axes of the ellipsoid. </div>
+        <div class="Bullet1-last">If all three moments are equal, the molecule is considered to be a symmetrical top. If no moments are equal, the molecule is considered to be an unsymmetrical top. </div>
+        <div class="Body">To report the principal moment:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropStd </span>and select <span class="Action_Object">Principal Moment</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Radius"></a>Radius<MadCap:keyword term="radius"></MadCap:keyword></h5>
+        <div class="Body">The eccentricity of an atom is the largest value in its row (or column) of the distance matrix, and represents how far away from the molecular center it resides.</div>
+        <div class="Body">The diameter (D) is the maximum such value for all atoms, and is held by the most outlying atom(s). Examples: Diameter of methane = 0; ethane = 1; propane = 2; n-butane = 3.</div>
+        <div class="Body">The radius R is the minimum such value, and is held by the most central atom(s). Examples: Radius of methane = 0; ethane = 1; propane = 1; n-butane = 2.</div>
+        <div class="Body">To calculate the radius:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Radius</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="RMS"></a>RMS Force<MadCap:keyword term="RMS force"></MadCap:keyword></h5>
+        <p>The root mean square force.</p>
+        <p MadCap:conditions="MyImport.Comment">{Need to get more information for a description}</p>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">RMS Force</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Gaussian Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">RMS Force</span> and click <span class="Action_Object">Run.</span></div>
+        <h5 class="PropertyName"><a name="SCF"></a>SCF Energy<MadCap:keyword term="SCF energy"></MadCap:keyword></h5>
+        <p>The self-consistent field method for determining the ground state wave function of a quantum many-body system.</p>
+        <p>To calculate the SCF energy:</p>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">SCF Energy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Gaussian Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">SCF Energy</span> and click <span class="Action_Object">Run.</span></div>
+        <h5 class="PropertyName"><a name="Shape"></a>Shape Attribute<MadCap:keyword term="shape attribute;branching, calculating"></MadCap:keyword></h5>
+        <div class="Body">The shape attribute (kappa) measures the branching of a molecule, and is scaled so as to fall between the minimum and maximum values possible for the given order. The first-order shape attribute counts the number of one-bond paths. The second-order attribute counts the number of two-bond paths, and so on. The first three orders (1..3) are available.</div>
+        <div class="Body">To calculate the shape attribute:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Shape Attribute</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Shape2"></a>Shape Coefficient<MadCap:keyword term="shape coefficient"></MadCap:keyword></h5>
+        <div class="Body">The shape coefficient, I is given by:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <div class="Body">
+            <img src="../ShapeCoefficient.png" style="width: 103.679px;height: 32.64px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 1.016636px;margin-bottom: 1.015921px;">
+            </img>
+        </div>
+        <div class="Body">Where the diameter (D) is the maximum such value for all atoms, and is held by the most outlying atom(s). The radius (R) is the minimum such value, and is held by the most central atom(s). </div>
+        <div class="Body"> Examples values for D: methane = 0; ethane = 1; propane = 2; n-butane = 3.</div>
+        <p> Example values for R: Radius: methane = 0; ethane = 1; propane = 1; n-butane = 2.</p>
+        <div class="Body">To calculate the shape coefficient:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Shape Coefficient</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Spin"></a>Spin Density<MadCap:keyword term="spin density"></MadCap:keyword></h5>
+        <p>adsfsdafsadf</p>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">Spin Density</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Gaussian Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Spin Density</span> and click <span class="Action_Object">Run.</span></div>
+        <h5 class="PropertyName"><a name="Sum"></a>Sum Of Degrees<MadCap:keyword term="sum of degrees"></MadCap:keyword></h5>
+        <div class="Body">Is the sum of degrees of every atom. An atom’s degree is the number of nonhydrogen atoms to which it is bonded.</div>
+        <div class="Body">To calculate the sum of degrees:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Sum of Degrees</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Sum2"></a>Sum of Valence Degrees<MadCap:keyword term="sum of valence degrees"></MadCap:keyword></h5>
+        <div class="Body">Is the sum of degrees of every atom. An atom’s valence degree is equal to the sum of its adjacent bonds' orders, including hydrogens.</div>
+        <div class="Body">To calculate the sum of valence degrees:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Sum of Valence Degrees</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Thermody"></a>Thermodynamic <MadCap:keyword term="thermodynamic energy"></MadCap:keyword>Energy	
+
+</h5>
+        <p>asdfsafsadf</p>
+        <div class="Body">To calculate thermodynamic energy using Gaussian:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">Thermodynamic Energy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Topologi"></a>Topological Diameter<MadCap:keyword term="topological diameter"></MadCap:keyword></h5>
+        <div class="Body">Is the longest dimension of a molecule.</div>
+        <div class="Body">To calculate the topological diameter:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Topological Diameter</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Total"></a>Total Connectivity<MadCap:keyword term="total connectivity"></MadCap:keyword></h5>
+        <div class="Body">Is the connectivity considered over all the heteroatoms.</div>
+        <div class="Body">To calculate the total connectivity:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Total Connectivity</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Total2"></a>Total Energy<MadCap:keyword term="total energy"></MadCap:keyword></h5>
+        <div class="Body">Is the sum of kinetic energy and potential energy.</div>
+        <div class="Body">To calculate total energy using GAMESS:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">GAMESS Interface</span> and select <span class="Action_Object">Total Energy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <div class="Body">An alternative method:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">GAMESS Interface&gt;Compute Properties.</span></div>
+        <div class="numlist1-last" MadCap:autonum="2. ">In the Properties tab, select <span class="Action_Object">Total Energy</span> and click <span class="Action_Object">Run. </span>The results appear in the Output window.<span class="Action_Object"><span class="Action_Object"></span></span></div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">Run</span>.<span class="Action_Object">  <![CDATA[ ]]></span>The results appear in the Output window.</div>
+        <h5 class="PropertyName"><a name="Total3"></a>Total Valence Connectivity<MadCap:keyword term="total valence connectivity"></MadCap:keyword></h5>
+        <div class="Body">Is the valence connectivity considered over all the heteroatoms. </div>
+        <div class="Body">To calculate the total valence connectivity:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Total Valence Connectivity</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Vapor"></a>
+            <MadCap:keyword term="vapor pressure">
+            </MadCap:keyword>Vapor Pressure</h5>
+        <div class="Body">Is the pressure exerted by a vapor in equilibrium with its solid or liquid phase. Vapor pressure measures the concentration of solvent molecules in the gas phase.</div>
+        <div class="Body">Vapor pressure can be calculated using Raoult’s law. The formula to calculate vapor pressure is:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../VaporPressure.png" style="width: 127.9997px;height: 63.99936px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9921533px;margin-bottom: 0.968403px;">
+            </img>
+        </p>
+        <div class="Body">Where ‘p’ is vapor pressure, ‘i’ is a component index, and ‘<span class="_Override" style="font-family: Symbol;">c</span>’ is a mole fraction.</div>
+        <div class="Body">To report the Vapor Pressure:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro </span>and select <span class="Action_Object">Vapor Pressure</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Water"></a>
+            <MadCap:keyword term="water solubility">
+            </MadCap:keyword>Water Solubility</h5>
+        <div class="Body">Is the maximum amount of a substance that can be dissolved in water at equilibrium at a given temperature and pressure. Water solubility is measured in mg/L. </div>
+        <div class="Body">To report the water solubility:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">ChemPropPro </span>and select <span class="Action_Object">Water Solubility</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Wiener"></a>Wiener Index<MadCap:keyword term="Weiner index"></MadCap:keyword></h5>
+        <div class="Body">Provides measure of branching defined as:</div>
+        <p class="GraphicAnchor" MadCap:conditions="MyImport.Comment">
+        </p>
+        <p class="GraphicAnchor">&#160;</p>
+        <p>
+            <img src="../WeinerIndex.png" style="width: 96.6384px;height: 38.39904px;margin-left: 1.00008px;margin-top: 1.00008px;margin-right: 0.9691278px;margin-bottom: 1.01664px;">
+            </img>
+        </p>
+        <div class="Body">Where D<span class="_Override" style="font-size: 80%;vertical-align: sub;">ij</span> are the off-diagonal elements of the distance matrix.</div>
+        <div class="Body">To calculate the Wiener Index:</div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Molecular Topology</span> and select <span class="Action_Object">Wiener Index</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+        <h5 class="PropertyName"><a name="Zero-Poi"></a>Zero-Point Energy<MadCap:keyword term="zero point energy"></MadCap:keyword></h5>
+        <div>
+            <MadCap:conditionalText MadCap:conditions="MyImport.Comment">{Need to talk to Andrew. How does this compare to the Harmonic Zero Point Energy?}</MadCap:conditionalText>
+        </div>
+        <div class="numlist1-1st" MadCap:autonum="1. ">Go to <span class="Action_Object">Calculations</span>&gt;<span class="Action_Object">Compute Properties</span>.</div>
+        <div class="numlist1-inner" MadCap:autonum="2. ">Expand <span class="Action_Object">Gaussian Interface</span> and select <span class="Action_Object">Zero-Point Energy</span>.</div>
+        <div class="numlist1-last" MadCap:autonum="3. ">Click <span class="Action_Object">OK</span>.</div>
+    </body>
+</html>

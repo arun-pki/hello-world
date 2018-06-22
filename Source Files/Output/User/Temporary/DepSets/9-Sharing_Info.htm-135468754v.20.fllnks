@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Transferring Objects.htm" />
+    <Link
+      Url="Content/MyImport/14_3.jpg" />
+    <Link
+      Url="Content/MyImport/14_1.jpg" />
+    <Link
+      Url="Content/MyImport/14_2.jpg" />
+    <Link
+      Url="Content/MyImport/paste special sub menu.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+    <Link
+      Url="Content/MyImport/Transferring Objects.htm#9-Sharing_Info_2779241888_1071799" />
+    <Link
+      Url="Content/MyImport/14_3.jpg" />
+    <Link
+      Url="Content/MyImport/14_1.jpg" />
+    <Link
+      Url="Content/MyImport/14_2.jpg" />
+    <Link
+      Url="Content/MyImport/paste special sub menu.png" />
+    <Link
+      Url="Project/ConditionTagSets/MyImport.flcts" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="9-Sharing_Info_2779241888_1202502" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_39391" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_1071611" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_1203848" />
+    <Anchor
+      Name="9-Sharing_Info_2779241888_Annotations" />
+    <Anchor
+      Name="Creating_CDXML_or_MOL_Text&#xA;" />
+    <Anchor
+      Name="Creating_CDXML_New" />
+  </Anchors>
+  <Keywords>
+    <IndexCacheEntry
+      Term="sharing information"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="8" />
+    <IndexCacheEntry
+      Term="Clipboard"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="copy:with Clipboard"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="15" />
+    <IndexCacheEntry
+      Term="Clipboard"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="17" />
+    <IndexCacheEntry
+      Term="InChI strings, copy as"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="SLN strings:copy as"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="SMILES strings:copy as"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="18" />
+    <IndexCacheEntry
+      Term="text line notation"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="24" />
+    <IndexCacheEntry
+      Term="SMIRKS, overview"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="30" />
+    <IndexCacheEntry
+      Term="SMILES strings:creating"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="33" />
+    <IndexCacheEntry
+      Term="Clipboard"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="41" />
+    <IndexCacheEntry
+      Term="SMILES strings:viewing clipboard"
+      Conditions="MyImport.Book_only,MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="43" />
+    <IndexCacheEntry
+      Term="creating:SLN strings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="65" />
+    <IndexCacheEntry
+      Term="SLN strings"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="65" />
+    <IndexCacheEntry
+      Term="copy:as SLN command"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="65" />
+    <IndexCacheEntry
+      Term="InChIKey strings, copy as"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="97" />
+    <IndexCacheEntry
+      Term="clipping files"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="131" />
+    <IndexCacheEntry
+      Term="scrap files"
+      Conditions="MyImport.ChemDraw help"
+      LocalConditions=""
+      Position="131" />
+  </Keywords>
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="MyImport.ChemDraw help" />
+    <Condition
+      Tag="MyImport.Book_only" />
+    <Condition
+      Tag="MyImport.Mac" />
+    <Condition
+      Tag="MyImport.PC" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/Cambridgesoft1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
